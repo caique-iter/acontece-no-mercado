@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Acontece no Mercado</title>
+  <style>
+    :root {
+      --primary: #1a3a5c;
+      --accent: #e8a020;
+      --bg: #f4f6f9;
+      --card-bg: #ffffff;
+      --text: #1e2d3d;
+      --text-muted: #6b7a8d;
+      --border: #dde3ec;
+      --radius: 10px;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg); color: var(--text); }
+
+    /* HEADER */
+    header {
+      background: var(--primary);
+      color: white;
+      padding: 0 24px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 12px rgba(0,0,0,.25);
+    }
+    .header-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 64px;
+      gap: 16px;
+    }
+    .logo { display: flex; align-items: center; gap: 10px; text-decoration: none; color: white; }
+    .logo-icon { font-size: 26px; }
+    .logo-text { font-size: 20px; font-weight: 700; letter-spacing: -.3px; }
+    .logo-sub { font-size: 11px; opacity: .65; font-weight: 400; letter-spacing: .5px; text-transform: uppercase; }
+    .header-right { display: flex; align-items: center; gap: 12px; }
+    .search-wrap { position: relative; }
+    .search-wrap input {
+      background: rgba(255,255,255,.12);
+      border: 1px solid rgba(255,255,255,.2);
+      color: white;
+      padding: 7px 36px 7px 12px;
+      border-radius: 20px;
+      font-size: 13px;
+      width: 220px;
+      outline: none;
+      transition: background .2s;
+    }
+    .search-wrap input::placeholder { color: rgba(255,255,255,.5); }
+    .search-wrap input:focus { background: rgba(255,255,255,.2); }
+    .search-wrap svg { position: absolute; right: 10px; top: 50%; transform: translateY(-50%); opacity: .6; pointer-events: none; }
+    #status-badge {
+      font-size: 11px;
+      opacity: .7;
+      white-space: nowrap;
+    }
+
+    /* FILTROS */
+    .filters-bar {
+      background: var(--card-bg);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 64px;
+      z-index: 99;
+    }
+    .filters-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 24px;
+      display: flex;
+      gap: 4px;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+    .filters-inner::-webkit-scrollbar { display: none; }
+    .filter-btn {
+      padding: 12px 16px;
+      border: none;
+      background: none;
+      cursor: pointer;
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--text-muted);
+      white-space: nowrap;
+      border-bottom: 3px solid transparent;
+      transition: all .15s;
+    }
+    .filter-btn:hover { color: var(--primary); }
+    .filter-btn.active { color: var(--primary); border-bottom-color: var(--accent); font-weight: 600; }
+    .filter-btn .count {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      background: var(--bg);
+      border-radius: 10px;
+      font-size: 11px;
+      padding: 1px 6px;
+      margin-left: 5px;
+      color: var(--text-muted);
+    }
+    .filter-btn.active .count { background: var(--accent); color: white; }
+
+    /* MAIN */
+    main {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+
+    /* BARRA MENSAL */
+    .month-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 20px;
+    }
+    .month-nav { display: flex; gap: 8px; align-items: center; }
+    .month-nav button {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      padding: 6px 14px;
+      border-radius: var(--radius);
+      cursor: pointer;
+      font-size: 13px;
+      color: var(--text);
+      transition: background .15s;
+    }
+    .month-nav button:hover { background: var(--border); }
+    .month-nav button.active {
+      background: var(--primary);
+      color: white;
+      border-color: var(--primary);
+    }
+    #total-label { font-size: 13px; color: var(--text-muted); }
+
+    /* GRID */
+    #news-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 18px;
+    }
+
+    /* CARD */
+    .card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      transition: box-shadow .2s, transform .2s;
+      cursor: pointer;
+      text-decoration: none;
+      color: inherit;
+    }
+    .card:hover { box-shadow: 0 4px 20px rgba(0,0,0,.1); transform: translateY(-2px); }
+    .card-top { display: flex; align-items: center; justify-content: space-between; }
+    .cat-badge {
+      font-size: 11px;
+      font-weight: 600;
+      padding: 3px 10px;
+      border-radius: 20px;
+      color: white;
+      letter-spacing: .3px;
+      text-transform: uppercase;
+    }
+    .card-date { font-size: 11px; color: var(--text-muted); }
+    .card-title {
+      font-size: 15px;
+      font-weight: 600;
+      line-height: 1.4;
+      color: var(--text);
+    }
+    .card-resumo {
+      font-size: 13px;
+      color: var(--text-muted);
+      line-height: 1.6;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .card-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-top: auto;
+      padding-top: 8px;
+      border-top: 1px solid var(--border);
+    }
+    .fonte-label { font-size: 12px; color: var(--text-muted); font-weight: 500; }
+    .read-link {
+      font-size: 12px;
+      color: var(--primary);
+      font-weight: 600;
+      text-decoration: none;
+    }
+    .read-link:hover { text-decoration: underline; }
+
+    /* EMPTY / LOADING */
+    .state-box {
+      grid-column: 1 / -1;
+      text-align: center;
+      padding: 80px 20px;
+      color: var(--text-muted);
+    }
+    .state-box .icon { font-size: 48px; margin-bottom: 16px; }
+    .state-box h3 { font-size: 18px; margin-bottom: 8px; color: var(--text); }
+    .state-box p { font-size: 14px; max-width: 420px; margin: 0 auto; line-height: 1.6; }
+
+    /* SPINNER */
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .spinner {
+      width: 36px; height: 36px;
+      border: 3px solid var(--border);
+      border-top-color: var(--primary);
+      border-radius: 50%;
+      animation: spin .8s linear infinite;
+      margin: 0 auto 16px;
+    }
+
+    /* FOOTER */
+    footer {
+      text-align: center;
+      padding: 24px;
+      font-size: 12px;
+      color: var(--text-muted);
+      border-top: 1px solid var(--border);
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <a class="logo" href="#">
+      <span class="logo-icon">🗞️</span>
+      <div>
+        <div class="logo-text">Acontece no Mercado</div>
+        <div class="logo-sub">Monitor de Notícias — Turismo</div>
+      </div>
+    </a>
+    <div class="header-right">
+      <div class="search-wrap">
+        <input type="text" id="search-input" placeholder="Buscar notícias..." />
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2">
+          <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+        </svg>
+      </div>
+      <span id="status-badge">Carregando...</span>
+    </div>
+  </div>
+</header>
+
+<div class="filters-bar">
+  <div class="filters-inner" id="filters-bar">
+    <button class="filter-btn active" data-cat="Todas" onclick="filtrar(this)">
+      Todas <span class="count" id="cnt-Todas">0</span>
+    </button>
+  </div>
+</div>
+
+<main>
+  <div class="month-bar">
+    <div class="month-nav" id="month-nav"></div>
+    <span id="total-label"></span>
+  </div>
+  <div id="news-grid">
+    <div class="state-box">
+      <div class="spinner"></div>
+      <h3>Carregando notícias...</h3>
+    </div>
+  </div>
+</main>
+
+<footer id="footer">Acontece no Mercado · Monitor automático do setor turístico</footer>
+
+<script>
+  let TODAS = [];
+  let categoriaAtiva = 'Todas';
+  let mesAtivo = null;
+  let mesesDisponiveis = [];
+  let catCores = {};
+  let buscaAtiva = '';
+
+  // Formatar data
+  function fmtData(iso) {
+    const d = new Date(iso);
+    return d.toLocaleDateString('pt-BR', { day: '2-digit', month: 'short', year: 'numeric' });
+  }
+
+  function fmtMes(ym) {
+    const [y, m] = ym.split('-');
+    return new Date(y, m - 1, 1).toLocaleDateString('pt-BR', { month: 'long', year: 'numeric' });
+  }
+
+  function getMes(iso) {
+    return iso.substring(0, 7); // "YYYY-MM"
+  }
+
+  // Cor da categoria
+  function catCor(nome) {
+    return catCores[nome] || '#6b7a8d';
+  }
+
+  // Filtrar e renderizar
+  function renderizar() {
+    let lista = TODAS;
+
+    // Filtro mês
+    if (mesAtivo) {
+      lista = lista.filter(n => getMes(n.data) === mesAtivo);
+    }
+
+    // Filtro categoria
+    if (categoriaAtiva !== 'Todas') {
+      lista = lista.filter(n => n.categoria === categoriaAtiva);
+    }
+
+    // Filtro busca
+    if (buscaAtiva.length >= 2) {
+      const q = buscaAtiva.toLowerCase();
+      lista = lista.filter(n =>
+        n.titulo.toLowerCase().includes(q) ||
+        n.resumo.toLowerCase().includes(q) ||
+        n.fonte.toLowerCase().includes(q)
+      );
+    }
+
+    const grid = document.getElementById('news-grid');
+    document.getElementById('total-label').textContent =
+      lista.length > 0 ? `${lista.length} notícia${lista.length !== 1 ? 's' : ''}` : '';
+
+    if (lista.length === 0) {
+      grid.innerHTML = `<div class="state-box">
+        <div class="icon">📭</div>
+        <h3>Nenhuma notícia encontrada</h3>
+        <p>Tente mudar os filtros ou aguarde a próxima coleta automática.</p>
+      </div>`;
+      return;
+    }
+
+    grid.innerHTML = lista.map(n => `
+      <a class="card" href="${n.url}" target="_blank" rel="noopener">
+        <div class="card-top">
+          <span class="cat-badge" style="background:${catCor(n.categoria)}">${n.categoria}</span>
+          <span class="card-date">${fmtData(n.data)}</span>
+        </div>
+        <div class="card-title">${n.titulo}</div>
+        ${n.resumo ? `<div class="card-resumo">${n.resumo}</div>` : ''}
+        <div class="card-footer">
+          <span class="fonte-label">📰 ${n.fonte}</span>
+          <span class="read-link">Ler notícia →</span>
+        </div>
+      </a>
+    `).join('');
+  }
+
+  // Atualizar contagens dos filtros
+  function atualizarContagens() {
+    let base = TODAS;
+    if (mesAtivo) base = base.filter(n => getMes(n.data) === mesAtivo);
+    if (buscaAtiva.length >= 2) {
+      const q = buscaAtiva.toLowerCase();
+      base = base.filter(n =>
+        n.titulo.toLowerCase().includes(q) ||
+        n.resumo.toLowerCase().includes(q) ||
+        n.fonte.toLowerCase().includes(q)
+      );
+    }
+
+    const el = document.getElementById('cnt-Todas');
+    if (el) el.textContent = base.length;
+
+    const cats = [...new Set(TODAS.map(n => n.categoria))].sort();
+    cats.forEach(cat => {
+      const el = document.getElementById('cnt-' + cat);
+      if (el) el.textContent = base.filter(n => n.categoria === cat).length;
+    });
+  }
+
+  function filtrar(btn) {
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    categoriaAtiva = btn.dataset.cat;
+    atualizarContagens();
+    renderizar();
+  }
+
+  // Construir navegação mensal
+  function construirMeses() {
+    const meses = [...new Set(TODAS.map(n => getMes(n.data)))].sort().reverse();
+    mesesDisponiveis = meses;
+
+    const nav = document.getElementById('month-nav');
+    if (meses.length === 0) { nav.innerHTML = ''; return; }
+
+    mesAtivo = meses[0]; // mês mais recente por padrão
+
+    nav.innerHTML = meses.map(m => `
+      <button onclick="selecionarMes('${m}', this)" class="${m === mesAtivo ? 'active' : ''}">
+        ${fmtMes(m)}
+      </button>
+    `).join('');
+  }
+
+  function selecionarMes(mes, btn) {
+    mesAtivo = mes;
+    document.querySelectorAll('#month-nav button').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    atualizarContagens();
+    renderizar();
+  }
+
+  // Construir filtros de categoria
+  function construirFiltros(categorias) {
+    const bar = document.getElementById('filters-bar');
+    const cats = [...new Set(TODAS.map(n => n.categoria))].sort();
+
+    cats.forEach(cat => {
+      const btn = document.createElement('button');
+      btn.className = 'filter-btn';
+      btn.dataset.cat = cat;
+      btn.onclick = function() { filtrar(this); };
+      btn.innerHTML = `${cat} <span class="count" id="cnt-${cat}">0</span>`;
+      bar.appendChild(btn);
+    });
+  }
+
+  // Busca
+  document.getElementById('search-input').addEventListener('input', function() {
+    buscaAtiva = this.value.trim();
+    atualizarContagens();
+    renderizar();
+  });
+
+  // Carregar dados
+  async function carregar() {
+    try {
+      const resp = await fetch('data/noticias.json?t=' + Date.now());
+      if (!resp.ok) throw new Error('HTTP ' + resp.status);
+      const dados = await resp.json();
+
+      TODAS = (dados.noticias || []);
+      const total = TODAS.length;
+
+      // Status
+      const statusEl = document.getElementById('status-badge');
+      if (dados.ultima_atualizacao) {
+        const d = new Date(dados.ultima_atualizacao);
+        statusEl.textContent = `Atualizado em ${d.toLocaleDateString('pt-BR')} às ${d.toLocaleTimeString('pt-BR', {hour:'2-digit', minute:'2-digit'})}`;
+      } else {
+        statusEl.textContent = total === 0 ? 'Aguardando primeira coleta' : `${total} notícias`;
+      }
+
+      // Footer
+      document.getElementById('footer').textContent =
+        `Acontece no Mercado · ${total} notícias no histórico · Coleta automática diária`;
+
+      if (total === 0) {
+        document.getElementById('news-grid').innerHTML = `
+          <div class="state-box">
+            <div class="icon">🚀</div>
+            <h3>Sistema pronto!</h3>
+            <p>Nenhuma notícia coletada ainda. A primeira coleta rodará automaticamente amanhã de manhã ou você pode rodar o <strong>coletor.py</strong> manualmente agora.</p>
+          </div>`;
+        document.getElementById('total-label').textContent = '';
+        return;
+      }
+
+      construirMeses();
+      construirFiltros();
+      atualizarContagens();
+      renderizar();
+
+    } catch (e) {
+      document.getElementById('news-grid').innerHTML = `
+        <div class="state-box">
+          <div class="icon">⚠️</div>
+          <h3>Erro ao carregar notícias</h3>
+          <p>${e.message}</p>
+        </div>`;
+      document.getElementById('status-badge').textContent = 'Erro';
+    }
+  }
+
+  // Carregar cores das categorias via config
+  async function init() {
+    try {
+      const resp = await fetch('config.json?t=' + Date.now());
+      if (resp.ok) {
+        const cfg = await resp.json();
+        (cfg.categorias || []).forEach(c => { catCores[c.nome] = c.cor; });
+      }
+    } catch {}
+    await carregar();
+  }
+
+  init();
+</script>
+</body>
+</html>
