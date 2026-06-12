@@ -1,32 +1,76 @@
 {
   "noticias": [
     {
-      "id": "6a34711e00f3",
-      "titulo": "Os bancos vão fechar em dias de jogos do Brasil? Saiba o que diz a Febraban",
-      "resumo": "Seleção Brasileira estreia na competição neste sábado (13)",
-      "url": "https://www.abcmais.com/pais/os-bancos-vao-fechar-em-dias-de-jogos-do-brasil-saiba-o-que-diz-a-febraban/",
-      "fonte": "ABC Mais",
-      "fonte_url": "https://www.abcmais.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-12T17:43:32Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
-    },
-    {
-      "id": "aa79edb72286",
-      "titulo": "Vectra retoma investimentos na Gleba Palhano com lançamento em junho",
-      "resumo": "A Vectra retoma investimentos na Gleba Palhano, zona sul de Londrina, com um lançamento residencial programado para junho de 2026. O novo empreendimento, com uma torre e três suítes, será construído na superquadra onde estão os edifícios Oxford e Cambridge, completando os projetos da linha London Hi",
-      "url": "https://g1.globo.com/pr/parana/especial-publicitario/vectra-30-anos-transformando-londrina/noticia/2026/06/12/vectra-retoma-investimentos-na-gleba-palhano-com-lancamento-em-junho.ghtml",
+      "id": "c5fe9e984942",
+      "titulo": "Veja campanhas que unem Copa do Mundo e solidariedade",
+      "resumo": "A Copa do Mundo de 2026 também inspirou iniciativas fora dos gramados. Organizações sociais estão aproveitando o clima do torneio para arrecadar recursos e doações por meio da venda de produtos temáticos e campanhas solidárias. As ações beneficiam projetos de combate à fome, apoio a pacientes com câ",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/12/veja-campanhas-que-unem-copa-do-mundo-e-solidariedade.ghtml",
       "fonte": "G1",
       "fonte_url": "https://g1.globo.com",
       "tags": [
-        "Novidades no Setor"
+        "Shows & Eventos"
       ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-12T17:19:40Z",
-      "data_coleta": "2026-06-12T17:49:07Z"
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-12T18:01:09Z",
+      "data_coleta": "2026-06-12T18:14:12Z"
+    },
+    {
+      "id": "ff29e4e794b0",
+      "titulo": "Fã de Neymar, jovem mexicana conquista ingresso para Copa com habilidade no futebol",
+      "resumo": "Fã de Neymar, jovem mexicana conquista ingresso para a Copa com habilidade no futebol A habilidade com a bola levou a jovem mexicana Yollet Cervantes a realizar um sonho improvável: assistir à abertura da Copa do Mundo 2026 direto de um espaço privilegiado. Moradora do estado de Veracruz, Yollet vir",
+      "url": "https://g1.globo.com/jornal-hoje/noticia/2026/06/12/fa-de-neymar-jovem-mexicana-conquista-ingresso-para-copa-com-habilidade-no-futebol.ghtml",
+      "fonte": "G1",
+      "fonte_url": "https://g1.globo.com",
+      "tags": [
+        "Shows & Eventos",
+        "Atrativos Internacionais"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-12T17:40:41Z",
+      "data_coleta": "2026-06-12T18:14:12Z"
+    },
+    {
+      "id": "26b667407118",
+      "titulo": "Shopping de Governador Valadares adota horário especial em dias de jogos do Brasil",
+      "resumo": "Shopping de Governador Valadares Arquivo/GV Shopping O shopping de Governador Valadares adotou horários especiais de funcionamento durante os jogos da Seleção Brasileira na primeira fase da Copa do Mundo. As mudanças irão ocorrer nos dias 13, 19 e 24 de junho, conforme programação divulgada. De acor",
+      "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/06/12/shopping-de-governador-valadares-adota-horario-especial-em-dias-de-jogos-do-brasil.ghtml",
+      "fonte": "G1",
+      "fonte_url": "https://g1.globo.com",
+      "tags": [
+        "Shows & Eventos"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-12T17:20:04Z",
+      "data_coleta": "2026-06-12T18:14:12Z"
+    },
+    {
+      "id": "3e966e94de4a",
+      "titulo": "Arena Errejota terá transmissão dos jogos do Brasil com rodas de samba e pagode",
+      "resumo": "Espaço no Shopping Metropolitano Barra prepara programação especial e gratuita para a primeira fase da Copa do Mundo de 2026",
+      "url": "https://diariodorio.com/arena-errejota-tera-transmissao-dos-jogos-do-brasil-com-rodas-de-samba-e-pagode/",
+      "fonte": "Diario do Rio",
+      "fonte_url": "https://diariodorio.com",
+      "tags": [
+        "Shows & Eventos"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-12T17:02:08Z",
+      "data_coleta": "2026-06-12T18:14:13Z"
+    },
+    {
+      "id": "cb9ca7f92b8e",
+      "titulo": "'A Copa não é para nós': os torcedores que desistiram após serem barrados ou ficarem sem visto para os países-sede",
+      "resumo": "Quando a seleção de futebol do Iraque se classificou para a Copa do Mundo no fim de março, Abdulla Adnan comprou ingressos para os jogos de seu país contra Noruega e França, que serão disputados nas cidades americanas de Boston e Filadélfia neste mês. Leia mais (06/12/2026 - 14h01)",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/a-copa-nao-e-para-nos-os-torcedores-que-desistiram-apos-serem-barrados-ou-ficarem-sem-visto-para-os-paises-sede.shtml",
+      "fonte": "Folha de Sao Paulo",
+      "fonte_url": "https://www.folha.uol.com.br",
+      "tags": [
+        "Shows & Eventos",
+        "Atrativos Internacionais"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-12T17:01:00Z",
+      "data_coleta": "2026-06-12T18:14:12Z"
     },
     {
       "id": "ab60d998e6a8",
@@ -36,235 +80,11 @@
       "fonte": "G1",
       "fonte_url": "https://g1.globo.com",
       "tags": [
-        "Novidades no Setor"
+        "Atrativos Nacionais"
       ],
-      "categoria": "Novidades no Setor",
+      "categoria": "Atrativos Nacionais",
       "data": "2026-06-12T16:59:37Z",
-      "data_coleta": "2026-06-12T17:49:07Z"
-    },
-    {
-      "id": "5b29b840bf7c",
-      "titulo": "Mãe de homem que furtou celulares dentro de macroatacado de Portão é presa com um dos aparelhos",
-      "resumo": "Carro usado pelo arrombador também foi apreendido no bairro Santos Dumont em São Leopoldo",
-      "url": "https://www.abcmais.com/policia/mae-de-homem-que-furtou-celulares-dentro-de-macroatacado-de-portao-e-presa-com-um-dos-aparelhos/",
-      "fonte": "ABC Mais",
-      "fonte_url": "https://www.abcmais.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-12T16:58:45Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
-    },
-    {
-      "id": "e7179aae61ff",
-      "titulo": "Homem que agrediu a socos filha grávida e jogou companheira em açude vai seguir preso; veja decisão da Justiça",
-      "resumo": "Decisão judicial em Taquara mantém preso o suspeito de tentativa de feminicídio e lesão corporal em contexto de violência doméstica",
-      "url": "https://www.abcmais.com/policia/homem-que-agrediu-a-socos-filha-gravida-e-jogou-companheira-em-acude-vai-seguir-preso-veja-decisao-da-justica/",
-      "fonte": "ABC Mais",
-      "fonte_url": "https://www.abcmais.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-12T16:56:56Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
-    },
-    {
-      "id": "694a06243adf",
-      "titulo": "Hospital Universitário realiza mutirão de reconsultas para pacientes operados pelo Programa Nova Visão",
-      "resumo": "Atendimentos acontecem nos dias 16 e 17 de junho e marcam a etapa do acompanhamento dos pacientes submetidos à cirurgia de catarata",
-      "url": "https://www.abcmais.com/brasil/rio-grande-do-sul/vale-do-rio-dos-sinos/canoas/hospital-universitario-realiza-mutirao-de-reconsultas-para-pacientes-operados-pelo-programa-nova-visao/",
-      "fonte": "ABC Mais",
-      "fonte_url": "https://www.abcmais.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-12T16:56:14Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
-    },
-    {
-      "id": "91bf95a9881c",
-      "titulo": "Falecimentos desta quarta-feira, 10 de junho",
-      "resumo": "Falecimentos desta quarta-feira (10) na regi&#227;o: Jo&#227;o Alves Ayres (93 anos), Sapucaia do Sul Ant&#244;nio Ribeiro de Freitas (86 anos), Canela Valdemar Rodrigues da Silva (86 anos), Novo Hamburgo Anerci Teixeira de Oliveira (83 anos), S&#227;o Leopoldo Remi Schneider (78 anos), Feliz Jessi",
-      "url": "https://www.abcmais.com/obituario/falecimentos-desta-quarta-feira-10-de-junho/",
-      "fonte": "ABC Mais",
-      "fonte_url": "https://www.abcmais.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-12T16:30:19Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
-    },
-    {
-      "id": "ccedb4add053",
-      "titulo": "Falecimentos desta quinta-feira, 11 de junho",
-      "resumo": "Falecimentos desta quinta-feira (11) na regi&#227;o: Iria Ranzoni (95 anos), Novo HamburgoL&#234;da Maria Pereira dos Santos (88 anos), MontenegroLeopoldo Hugo Werle (88 anos), TupandiNilsa Catarina Silverio Martins (84 anos), TaquaraClausi Therezinha Dillenburg (81 anos), IvotiJos&#233; Martins da",
-      "url": "https://www.abcmais.com/obituario/falecimentos-desta-quinta-feira-11-de-junho/",
-      "fonte": "ABC Mais",
-      "fonte_url": "https://www.abcmais.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-12T16:27:05Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
-    },
-    {
-      "id": "58f9a081d9e3",
-      "titulo": "Susto tecnológico",
-      "resumo": "Primeiro foi o alívio [...] Por outro lado, o temor do banimento definitivo assombrava.",
-      "url": "https://www.abcmais.com/opiniao/susto-tecnologico/",
-      "fonte": "ABC Mais",
-      "fonte_url": "https://www.abcmais.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-12T16:20:58Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
-    },
-    {
-      "id": "cd13501fe9e8",
-      "titulo": "Mulher é presa após tentar matar a ex-companheira com golpes de faca",
-      "resumo": "Pronto Socorro Municipal de Cubatão (SP) Divulgação/Prefeitura de Cubatão Uma mulher de 31 anos foi presa em Cubatão (SP) após tentar matar a ex-companheira. Segundo a Polícia Civil, a suspeita atacou a vítima com golpes de faca. O crime aconteceu no dia 31 de maio, na Vila São José. Na ocasião, a m",
-      "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/06/12/mulher-e-presa-apos-tentar-matar-a-ex-companheira-com-golpes-de-faca.ghtml",
-      "fonte": "G1",
-      "fonte_url": "https://g1.globo.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-12T16:18:56Z",
-      "data_coleta": "2026-06-12T17:49:07Z"
-    },
-    {
-      "id": "66a25041ddaa",
-      "titulo": "Ninguém fala mais nisso",
-      "resumo": "A normalização é um dos mecanismos mais perigosos do nosso tempo",
-      "url": "https://www.abcmais.com/opiniao/ninguem-fala-mais-nisso/",
-      "fonte": "ABC Mais",
-      "fonte_url": "https://www.abcmais.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-12T16:17:21Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
-    },
-    {
-      "id": "eec7988f5dba",
-      "titulo": "MPF vê risco à segurança aérea em operações da Receita Federal em Guarulhos",
-      "resumo": "O Ministério Público Federal viu sinais de desvios na atuação de integrantes da Receita Federal no Aeroporto de Guarulhos , e diz que há invasão de atribuições da Polícia Federal em operações que causam o risco de comprometer, inclusive, a segurança do tráfego aéreo. Leia mais (06/12/2026 - 13h17)",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/mpf-ve-risco-a-seguranca-aerea-em-operacoes-da-receita-federal-em-guarulhos.shtml",
-      "fonte": "Folha de Sao Paulo",
-      "fonte_url": "https://www.folha.uol.com.br",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-12T16:17:00Z",
-      "data_coleta": "2026-06-12T17:49:08Z"
-    },
-    {
-      "id": "3169a479c22d",
-      "titulo": "“Foi muito machucada no rosto”: Homem é preso após tentar matar a mulher com golpes de faca em Canoas",
-      "resumo": "Tentativa de feminicídio aconteceu na noite da última terça-feira motivada pelo ciúme, aponta a polícia",
-      "url": "https://www.abcmais.com/policia/foi-muito-machucada-no-rosto-homem-e-preso-apos-tentar-matar-a-mulher-com-golpes-de-faca-em-canoas/",
-      "fonte": "ABC Mais",
-      "fonte_url": "https://www.abcmais.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-12T16:15:54Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
-    },
-    {
-      "id": "79e26faff9a3",
-      "titulo": "Henry Borel: Defesa de Monique deixa caso em meio a disputa sobre perdão",
-      "resumo": "Monique teve o homicídio por omissão desclassificado para homicídio culposo e recebeu perdão judicial; Ministério Público recorreu da decisão",
-      "url": "https://www.abcmais.com/pais/henry-borel-defesa-de-monique-deixa-caso-em-meio-a-disputa-sobre-perdao/",
-      "fonte": "ABC Mais",
-      "fonte_url": "https://www.abcmais.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-12T16:00:18Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
-    },
-    {
-      "id": "5f56cdede793",
-      "titulo": "Papa é retirado de avião após problema técnico e adia retorno a Roma",
-      "resumo": "Pontífice já havia embarcado após ter sido recebido pelo rei Felipe VI e outras autoridades; avião estava se preparando para taxiar e levantar voo",
-      "url": "https://www.cnnbrasil.com.br/internacional/papa-e-retirado-de-aviao-apos-problema-tecnico-e-adia-retorno-a-roma/",
-      "fonte": "CNN Brasil",
-      "fonte_url": "https://www.cnnbrasil.com.br",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-12T15:57:50Z",
-      "data_coleta": "2026-06-12T17:49:08Z"
-    },
-    {
-      "id": "f61fffe0054a",
-      "titulo": "Copa do Mundo: 5 dicas para não ficar rouco torcendo pelo Brasil",
-      "resumo": "Otorrinolaringologista alerta que excesso de gritos, álcool, cigarro e desidratação podem aumentar os casos de fadiga vocal e laringite durante os jogos",
-      "url": "https://diariodorio.com/copa-do-mundo-5-dicas-para-nao-ficar-rouco-torcendo-pelo-brasil/",
-      "fonte": "Diario do Rio",
-      "fonte_url": "https://diariodorio.com",
-      "tags": [
-        "Shows & Eventos"
-      ],
-      "categoria": "Shows & Eventos",
-      "data": "2026-06-12T15:33:03Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "6859124a629d",
-      "titulo": "Grandes Armadores Adotam Etanol para Reduzir Emissões no Transporte Marítimo Mundial",
-      "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Maersk concluiu duas viagens com 100% do insumo renovável no primeiro trimestre de 2026 O post Grandes Armadores Adotam Etanol para Reduzir Emissões no Transporte Marítimo Mundial apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/forbes-agro/2026/06/grandes-armadores-adotam-etanol-para-reduzir-emissoes-no-transporte-maritimo-mundial/",
-      "fonte": "Forbes Brasil",
-      "fonte_url": "https://forbes.com.br",
-      "tags": [
-        "Temporada de Navios & Cruzeiros"
-      ],
-      "categoria": "Temporada de Navios & Cruzeiros",
-      "data": "2026-06-12T15:04:04Z",
-      "data_coleta": "2026-06-12T17:49:08Z"
-    },
-    {
-      "id": "8e849a6d9a15",
-      "titulo": "A Copa de 2014 no Brasil nos deu a chance de aprender com várias línguas",
-      "resumo": "Gol da Alemanha . Gol da Alemanha! Virou um passeio... O dia 8 de julho de 2014 foi um duro golpe na alma do brasileiro e, desde aquele 7 a 1, é só desgraça! Leia mais (06/12/2026 - 12h00)",
-      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/x-de-sexo/2026/06/a-copa-de-2014-no-brasil-nos-deu-a-chance-de-aprender-com-varias-linguas.shtml",
-      "fonte": "Folha de Sao Paulo",
-      "fonte_url": "https://www.folha.uol.com.br",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-12T15:00:00Z",
-      "data_coleta": "2026-06-12T17:49:08Z"
-    },
-    {
-      "id": "f35f76723162",
-      "titulo": "WhatsApp Web, Instagram e Facebook para computador estão fora do ar",
-      "resumo": "Usu&#225;rios se queixam sobre a instabilidade dos servi&#231;os da meta para computador",
-      "url": "https://www.panrotas.com.br/mercado/tecnologia/2026/06/whatsapp-web-instagram-e-facebook-para-computador-estao-fora-do-ar_229421.html",
-      "fonte": "Panrotas",
-      "fonte_url": "https://www.panrotas.com.br",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-12T14:04:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:14:12Z"
     },
     {
       "id": "f931cda76ce7",
@@ -274,11 +94,25 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Novidades no Setor"
+        "Atrativos Nacionais"
       ],
-      "categoria": "Novidades no Setor",
+      "categoria": "Atrativos Nacionais",
       "data": "2026-06-12T14:01:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:52Z"
+    },
+    {
+      "id": "88ac6559035f",
+      "titulo": "Por que a economia faz desta Copa a mais 'louca' de todos os tempos",
+      "resumo": "De guerras comerciais aos preços recordes dos ingressos, a Copa do Mundo de 2026 é diferente de qualquer edição anterior. Faisal Islam analisa o que este torneio revela sobre as transformações da economia global.",
+      "url": "https://www.bbc.com/portuguese/articles/cy06977xj12o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC Brasil",
+      "fonte_url": "https://www.bbc.com/portuguese",
+      "tags": [
+        "Shows & Eventos"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-12T13:48:53Z",
+      "data_coleta": "2026-06-12T18:14:13Z"
     },
     {
       "id": "7934bae9616e",
@@ -288,11 +122,11 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Novidades no Setor"
+        "Setor Aereo"
       ],
-      "categoria": "Novidades no Setor",
+      "categoria": "Setor Aereo",
       "data": "2026-06-12T13:36:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:52Z"
     },
     {
       "id": "3249ff3144c5",
@@ -302,25 +136,11 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Novidades no Setor"
+        "Setor Aereo"
       ],
-      "categoria": "Novidades no Setor",
+      "categoria": "Setor Aereo",
       "data": "2026-06-12T13:19:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
-    },
-    {
-      "id": "9b09cf219ecc",
-      "titulo": "Autoridade Ucraniana para Uso Militar da IA Prevê “Novo Paradigma” da Guerra",
-      "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. O País utiliza a tecnologia desde o voo de drones contra alvos até o auxílio no planejamento de operações de combate O post Autoridade Ucraniana para Uso Militar da IA Prevê “Novo Paradigma” da Guerra apareceu primeiro em Forbes Bra",
-      "url": "https://forbes.com.br/forbes-tech/2026/06/autoridade-ucraniana-para-uso-militar-da-ia-preve-novo-paradigma-da-guerra/",
-      "fonte": "Forbes Brasil",
-      "fonte_url": "https://forbes.com.br",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-12T13:11:47Z",
-      "data_coleta": "2026-06-12T17:49:08Z"
+      "data_coleta": "2026-06-12T18:13:52Z"
     },
     {
       "id": "5ea6472b86c5",
@@ -330,11 +150,11 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Novidades no Setor"
+        "Big Numbers"
       ],
-      "categoria": "Novidades no Setor",
+      "categoria": "Big Numbers",
       "data": "2026-06-12T12:41:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "331ab606e5a5",
@@ -344,25 +164,11 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Setor Hoteleiro"
+        "Big Numbers"
       ],
-      "categoria": "Setor Hoteleiro",
+      "categoria": "Big Numbers",
       "data": "2026-06-12T12:16:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
-    },
-    {
-      "id": "9991afb6838e",
-      "titulo": "O Resort Que Conta uma História Oculta da China, a Passos da Praia e do “Vale do Silício”",
-      "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Com regras ambientais cada vez mais rígidas em 2026, mercado de resorts na costa de Shenzhen vive boom de exclusividade O post O Resort Que Conta uma História Oculta da China, a Passos da Praia e do “Vale do Silício” apareceu primei",
-      "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/06/china-resort-intercontinental-shenzhen/",
-      "fonte": "Forbes Brasil",
-      "fonte_url": "https://forbes.com.br",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-12T12:00:00Z",
-      "data_coleta": "2026-06-12T17:49:08Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "417a66dbe6dd",
@@ -372,11 +178,13 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Novidades no Setor"
+        "Novidades no Setor",
+        "Atrativos Nacionais",
+        "Setor Hoteleiro"
       ],
       "categoria": "Novidades no Setor",
       "data": "2026-06-12T11:39:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "02112f295973",
@@ -386,11 +194,12 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Novidades no Setor"
+        "Atrativos Nacionais",
+        "Politica & Economia"
       ],
-      "categoria": "Novidades no Setor",
+      "categoria": "Atrativos Nacionais",
       "data": "2026-06-12T11:22:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "56607bff788c",
@@ -400,11 +209,11 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Novidades no Setor"
+        "Atrativos Internacionais"
       ],
-      "categoria": "Novidades no Setor",
+      "categoria": "Atrativos Internacionais",
       "data": "2026-06-12T11:01:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "80b6c800ab68",
@@ -414,11 +223,12 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Novidades no Setor"
+        "Atrativos Internacionais",
+        "Setor Hoteleiro"
       ],
-      "categoria": "Novidades no Setor",
+      "categoria": "Atrativos Internacionais",
       "data": "2026-06-12T11:00:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "4b1e092cddfc",
@@ -428,11 +238,12 @@
       "fonte": "Acontece Gramado",
       "fonte_url": "https://acontecegramado.com.br",
       "tags": [
-        "Novidades no Setor"
+        "Setor Hoteleiro",
+        "Atrativos Nacionais"
       ],
-      "categoria": "Novidades no Setor",
+      "categoria": "Setor Hoteleiro",
       "data": "2026-06-12T09:58:32Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
+      "data_coleta": "2026-06-12T18:14:12Z"
     },
     {
       "id": "4f6c49893b2c",
@@ -446,49 +257,7 @@
       ],
       "categoria": "Setor Hoteleiro",
       "data": "2026-06-12T09:54:36Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
-    },
-    {
-      "id": "b80a2aea0072",
-      "titulo": "Feirão de emprego focado na indústria atrai dezenas de candidatos em Canela",
-      "resumo": "O Centro Integrado de Desenvolvimento e Inovação de Canela (Cidica) sediou, na manhã desta quinta-feira (11), o 1º Emprega Canela do Setor Industrial. O evento, realizado pela Prefeitura Municipal em parceria com o Sistema Fiergs (Federação das Indústrias do Estado do Rio Grande do Sul), reuniu deze",
-      "url": "https://acontecegramado.com.br/feirao-de-emprego-focado-na-industria-atrai-dezenas-de-candidatos-em-canela/",
-      "fonte": "Acontece Gramado",
-      "fonte_url": "https://acontecegramado.com.br",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-12T09:50:08Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
-    },
-    {
-      "id": "9119d336889b",
-      "titulo": "Gramadense bate o Monsoon e carimba vaga antecipada nas semifinais da Copa FGF",
-      "resumo": "O Centro Esportivo Gramadense está oficialmente entre os quatro melhores times da Copa FGF. Em partida disputada na tarde desta quinta-feira (11), na Vila Olímpica, o Trem da Serra venceu o Monsoon por 1 a 0, assegurando a classificação matemática para as semifinais da competição com uma rodada de a",
-      "url": "https://acontecegramado.com.br/gramadense-bate-o-monsoon-e-carimba-vaga-antecipada-nas-semifinais-da-copa-fgf/",
-      "fonte": "Acontece Gramado",
-      "fonte_url": "https://acontecegramado.com.br",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-12T09:47:09Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
-    },
-    {
-      "id": "1d00a94e312c",
-      "titulo": "Rodada de negócios no Connection Terroirs do Brasil 2026 projeta quase R$ 6 milhões em faturamento",
-      "resumo": "O mercado de produtos com identidade territorial deu uma demonstração de força comercial robusta durante o Connection Terroirs do Brasil 2026. A rodada de negócios do evento, realizada em Gramado, encerrou com uma projeção impressionante de R$ 5.987.648,21 em transações futuras. O montante é fruto d",
-      "url": "https://acontecegramado.com.br/rodada-de-negocios-no-connection-terroirs-do-brasil-2026-projeta-quase-r-6-milhoes-em-faturamento/",
-      "fonte": "Acontece Gramado",
-      "fonte_url": "https://acontecegramado.com.br",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-12T09:42:59Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
+      "data_coleta": "2026-06-12T18:14:12Z"
     },
     {
       "id": "333d20371c35",
@@ -498,11 +267,11 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Novidades no Setor"
+        "Setor Aereo"
       ],
-      "categoria": "Novidades no Setor",
+      "categoria": "Setor Aereo",
       "data": "2026-06-12T02:00:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "351d2edecf73",
@@ -512,25 +281,12 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Novidades no Setor"
+        "Novidades no Setor",
+        "Shows & Eventos"
       ],
       "categoria": "Novidades no Setor",
       "data": "2026-06-11T21:48:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
-    },
-    {
-      "id": "a01bc247db26",
-      "titulo": "Embratur adere à Rede Iberoamericana de Destinos Turísticos Inteligentes e lança novo portal do laboratório de inovações da Agência",
-      "resumo": "O post Embratur adere à Rede Iberoamericana de Destinos Turísticos Inteligentes e lança novo portal do laboratório de inovações da Agência apareceu primeiro em Embratur .",
-      "url": "https://embratur.com.br/2026/06/11/embratur-adere-a-rede-iberoamericana-de-destinos-turisticos-inteligentes-e-lanca-novo-portal-do-laboratorio-de-inovacoes-da-agencia/",
-      "fonte": "Embratur",
-      "fonte_url": "https://embratur.com.br",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-11T21:33:49Z",
-      "data_coleta": "2026-06-12T17:48:59Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "2d0296c6677f",
@@ -540,11 +296,12 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Novidades no Setor"
+        "Novidades no Setor",
+        "Shows & Eventos"
       ],
       "categoria": "Novidades no Setor",
       "data": "2026-06-11T21:29:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "d93ff659890d",
@@ -554,11 +311,12 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Setor Hoteleiro"
+        "Atrativos Internacionais",
+        "Big Numbers"
       ],
-      "categoria": "Setor Hoteleiro",
+      "categoria": "Atrativos Internacionais",
       "data": "2026-06-11T21:28:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "db0987e86c06",
@@ -568,11 +326,12 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Novidades no Setor"
+        "Novidades no Setor",
+        "Shows & Eventos"
       ],
       "categoria": "Novidades no Setor",
       "data": "2026-06-11T21:27:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "e2f4ff1aef7f",
@@ -586,7 +345,7 @@
       ],
       "categoria": "Novidades no Setor",
       "data": "2026-06-11T21:21:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "57a9e4006f54",
@@ -596,11 +355,11 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Setor Hoteleiro"
+        "Novidades no Setor"
       ],
-      "categoria": "Setor Hoteleiro",
+      "categoria": "Novidades no Setor",
       "data": "2026-06-11T21:03:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "483452d030e5",
@@ -610,11 +369,11 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Novidades no Setor"
+        "Temporada de Navios & Cruzeiros"
       ],
-      "categoria": "Novidades no Setor",
+      "categoria": "Temporada de Navios & Cruzeiros",
       "data": "2026-06-11T20:18:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "558dc757d816",
@@ -628,21 +387,7 @@
       ],
       "categoria": "Temporada de Navios & Cruzeiros",
       "data": "2026-06-11T20:16:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
-    },
-    {
-      "id": "bea99b0a087a",
-      "titulo": "Embratur leva projeto de transformação digital para empreendedores do turismo no Pará",
-      "resumo": "O post Embratur leva projeto de transformação digital para empreendedores do turismo no Pará apareceu primeiro em Embratur .",
-      "url": "https://embratur.com.br/2026/06/11/embratur-leva-projeto-de-transformacao-digital-para-empreendedores-do-turismo-no-para/",
-      "fonte": "Embratur",
-      "fonte_url": "https://embratur.com.br",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-11T19:50:15Z",
-      "data_coleta": "2026-06-12T17:48:59Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "7c2c57a4d838",
@@ -656,7 +401,7 @@
       ],
       "categoria": "Setor Aereo",
       "data": "2026-06-11T19:49:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "db6eafe99444",
@@ -666,11 +411,12 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Shows & Eventos"
+        "Shows & Eventos",
+        "Atrativos Internacionais"
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-06-11T19:24:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "61631ba386e9",
@@ -680,25 +426,11 @@
       "fonte": "Acontece Gramado",
       "fonte_url": "https://acontecegramado.com.br",
       "tags": [
-        "Novidades no Setor"
+        "Atrativos Nacionais"
       ],
-      "categoria": "Novidades no Setor",
+      "categoria": "Atrativos Nacionais",
       "data": "2026-06-11T19:17:07Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
-    },
-    {
-      "id": "2437821a9efe",
-      "titulo": "Comlurb inaugurou mais dois ecopontos nesta quinta-feira e chega a 118 na cidade",
-      "resumo": "A Comlurb abriu mais dois ecopontos na quinta-feira (11/06), o Madureira – Ângelo Dantas, e o Céu Azul, na Rua […] O post Comlurb inaugurou mais dois ecopontos nesta quinta-feira e chega a 118 na cidade apareceu primeiro em Prefeitura da Cidade do Rio de Janeiro - prefeitura.rio .",
-      "url": "https://prefeitura.rio/cidade/comlurb-inaugurou-mais-dois-ecopontos-nesta-quinta-feira-e-chega-a-118-na-cidade/",
-      "fonte": "Prefeitura do Rio",
-      "fonte_url": "https://prefeitura.rio",
-      "tags": [
-        "Setor Aereo"
-      ],
-      "categoria": "Setor Aereo",
-      "data": "2026-06-11T19:13:53Z",
-      "data_coleta": "2026-06-12T17:49:07Z"
+      "data_coleta": "2026-06-12T18:14:12Z"
     },
     {
       "id": "94c56ffe7446",
@@ -712,21 +444,7 @@
       ],
       "categoria": "Novidades no Setor",
       "data": "2026-06-11T18:46:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
-    },
-    {
-      "id": "44fce4bdcf18",
-      "titulo": "CEO da United diz que aliança com Azul e American mira concorrência com Delta e Latam",
-      "resumo": "Estrat&#233;gia busca ampliar a presen&#231;a de ambas companhias em um mercado considerado cada vez mais disputado",
-      "url": "https://www.panrotas.com.br/aviacao/empresas/2026/06/ceo-da-united-diz-que-alianca-com-azul-e-american-mira-concorrencia-com-delta-e-latam_229397.html",
-      "fonte": "Panrotas",
-      "fonte_url": "https://www.panrotas.com.br",
-      "tags": [
-        "Setor Aereo"
-      ],
-      "categoria": "Setor Aereo",
-      "data": "2026-06-11T18:38:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "d2644583c3cb",
@@ -736,25 +454,11 @@
       "fonte": "Acontece Gramado",
       "fonte_url": "https://acontecegramado.com.br",
       "tags": [
-        "Setor Hoteleiro"
+        "Atrativos Internacionais"
       ],
-      "categoria": "Setor Hoteleiro",
+      "categoria": "Atrativos Internacionais",
       "data": "2026-06-11T18:28:05Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
-    },
-    {
-      "id": "f256625caefc",
-      "titulo": "Festival de Cinema de Gramado abre inscrições para a Mostra Sedac Iecine de Longas Gaúchos",
-      "resumo": "O cinema feito no Rio Grande do Sul ganha mais uma vez os holofotes com a abertura das inscrições para a Mostra Sedac Iecine de Longas Gaúchos, que integra a programação do 54º Festival de Cinema de Gramado. O tradicional evento serrano está marcado para ocorrer entre os dias 12 e 22 de agosto de [&",
-      "url": "https://acontecegramado.com.br/festival-de-cinema-de-gramado-abre-inscricoes-para-a-mostra-sedac-iecine-de-longas-gauchos/",
-      "fonte": "Acontece Gramado",
-      "fonte_url": "https://acontecegramado.com.br",
-      "tags": [
-        "Shows & Eventos"
-      ],
-      "categoria": "Shows & Eventos",
-      "data": "2026-06-11T18:13:08Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
+      "data_coleta": "2026-06-12T18:14:12Z"
     },
     {
       "id": "a25eb2bb4f6d",
@@ -764,25 +468,11 @@
       "fonte": "Embratur",
       "fonte_url": "https://embratur.com.br",
       "tags": [
-        "Novidades no Setor"
+        "Atrativos Nacionais"
       ],
-      "categoria": "Novidades no Setor",
+      "categoria": "Atrativos Nacionais",
       "data": "2026-06-11T17:57:18Z",
-      "data_coleta": "2026-06-12T17:48:59Z"
-    },
-    {
-      "id": "b5df16fc1cac",
-      "titulo": "Prefeitura de Gramado abre credenciamento para clínicas veterinárias realizarem castrações e microchipagem",
-      "resumo": "A Administração Municipal de Gramado, por meio de uma ação conjunta entre a Secretaria da Saúde e a Área de Licitações e Contratos, publicou o edital de Chamamento Público Nº 6/2026. O objetivo é credenciar clínicas veterinárias interessadas em realizar procedimentos de esterilização cirúrgica (cast",
-      "url": "https://acontecegramado.com.br/prefeitura-de-gramado-abre-credenciamento-para-clinicas-veterinarias-realizarem-castracoes-e-microchipagem/",
-      "fonte": "Acontece Gramado",
-      "fonte_url": "https://acontecegramado.com.br",
-      "tags": [
-        "Setor Hoteleiro"
-      ],
-      "categoria": "Setor Hoteleiro",
-      "data": "2026-06-11T17:55:39Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
+      "data_coleta": "2026-06-12T18:13:55Z"
     },
     {
       "id": "8e06a07a3ce8",
@@ -792,25 +482,11 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Novidades no Setor"
+        "Atrativos Internacionais"
       ],
-      "categoria": "Novidades no Setor",
+      "categoria": "Atrativos Internacionais",
       "data": "2026-06-11T17:55:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
-    },
-    {
-      "id": "31eb280d7480",
-      "titulo": "Câmara de Gramado debate instalação de antenas de telefonia em audiência pública",
-      "resumo": "A modernização da infraestrutura tecnológica e a preservação visual de Gramado estarão no centro dos debates na Câmara Municipal na próxima quinta-feira, dia 18. A partir das 10h, o Plenário Júlio Floriano Petersen sedia uma audiência pública para discutir o Projeto de Lei Ordinária nº 025/2026, que",
-      "url": "https://acontecegramado.com.br/camara-de-gramado-debate-instalacao-de-antenas-de-telefonia-em-audiencia-publica/",
-      "fonte": "Acontece Gramado",
-      "fonte_url": "https://acontecegramado.com.br",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-11T17:53:46Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "caa43bfb52c6",
@@ -824,7 +500,7 @@
       ],
       "categoria": "Novidades no Setor",
       "data": "2026-06-11T17:27:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "8546a3935fbf",
@@ -834,11 +510,11 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Novidades no Setor"
+        "Setor Hoteleiro"
       ],
-      "categoria": "Novidades no Setor",
+      "categoria": "Setor Hoteleiro",
       "data": "2026-06-11T17:00:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "d4e51d4c21fc",
@@ -848,11 +524,11 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Novidades no Setor"
+        "Big Numbers"
       ],
-      "categoria": "Novidades no Setor",
+      "categoria": "Big Numbers",
       "data": "2026-06-11T16:31:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "362db02d42ea",
@@ -866,7 +542,7 @@
       ],
       "categoria": "Temporada de Navios & Cruzeiros",
       "data": "2026-06-11T16:06:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "e07602887808",
@@ -876,11 +552,12 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Novidades no Setor"
+        "Novidades no Setor",
+        "Shows & Eventos"
       ],
       "categoria": "Novidades no Setor",
       "data": "2026-06-11T15:39:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "af205d3a75e7",
@@ -890,11 +567,11 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Novidades no Setor"
+        "Setor Hoteleiro"
       ],
-      "categoria": "Novidades no Setor",
+      "categoria": "Setor Hoteleiro",
       "data": "2026-06-11T15:15:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "e3e84eae4c7a",
@@ -904,11 +581,11 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Novidades no Setor"
+        "Setor Hoteleiro"
       ],
-      "categoria": "Novidades no Setor",
+      "categoria": "Setor Hoteleiro",
       "data": "2026-06-11T14:46:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "8e5afb351049",
@@ -918,11 +595,11 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Setor Hoteleiro"
+        "Big Numbers"
       ],
-      "categoria": "Setor Hoteleiro",
+      "categoria": "Big Numbers",
       "data": "2026-06-11T14:19:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "df2538fb521a",
@@ -932,11 +609,11 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Novidades no Setor"
+        "Setor Hoteleiro"
       ],
-      "categoria": "Novidades no Setor",
+      "categoria": "Setor Hoteleiro",
       "data": "2026-06-11T13:56:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "a22c5a6d0cf3",
@@ -946,11 +623,11 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Novidades no Setor"
+        "Setor Aereo"
       ],
-      "categoria": "Novidades no Setor",
+      "categoria": "Setor Aereo",
       "data": "2026-06-11T13:29:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "f0cb5b487e6a",
@@ -960,11 +637,12 @@
       "fonte": "BBC Brasil",
       "fonte_url": "https://www.bbc.com/portuguese",
       "tags": [
-        "Shows & Eventos"
+        "Shows & Eventos",
+        "Atrativos Internacionais"
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-06-11T13:28:07Z",
-      "data_coleta": "2026-06-12T17:49:09Z"
+      "data_coleta": "2026-06-12T18:14:13Z"
     },
     {
       "id": "4dd8bbea84d2",
@@ -978,7 +656,7 @@
       ],
       "categoria": "Novidades no Setor",
       "data": "2026-06-11T13:14:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "ebd894bbef62",
@@ -988,11 +666,13 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Shows & Eventos"
+        "Shows & Eventos",
+        "Atrativos Internacionais",
+        "Setor Aereo"
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-06-11T12:58:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "1c3078d02619",
@@ -1002,11 +682,11 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Setor Hoteleiro"
+        "Shows & Eventos"
       ],
-      "categoria": "Setor Hoteleiro",
+      "categoria": "Shows & Eventos",
       "data": "2026-06-11T12:31:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "166deb2f16de",
@@ -1016,11 +696,11 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Novidades no Setor"
+        "Atrativos Internacionais"
       ],
-      "categoria": "Novidades no Setor",
+      "categoria": "Atrativos Internacionais",
       "data": "2026-06-11T12:04:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "96bbfa2ba638",
@@ -1034,7 +714,7 @@
       ],
       "categoria": "Novidades no Setor",
       "data": "2026-06-11T11:38:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "55a40d73d86a",
@@ -1048,7 +728,7 @@
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-06-11T11:21:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "35e0a8f1d933",
@@ -1058,11 +738,12 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Shows & Eventos"
+        "Shows & Eventos",
+        "Atrativos Internacionais"
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-06-11T11:05:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "0ff35502d0bc",
@@ -1072,11 +753,11 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Novidades no Setor"
+        "Atrativos Internacionais"
       ],
-      "categoria": "Novidades no Setor",
+      "categoria": "Atrativos Internacionais",
       "data": "2026-06-11T03:00:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "31d18f3c2b5b",
@@ -1086,11 +767,11 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Setor Aereo"
+        "Atrativos Internacionais"
       ],
-      "categoria": "Setor Aereo",
+      "categoria": "Atrativos Internacionais",
       "data": "2026-06-11T03:00:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "54f0ad5f1912",
@@ -1100,11 +781,13 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Big Numbers"
+        "Big Numbers",
+        "Novidades no Setor",
+        "Shows & Eventos"
       ],
       "categoria": "Big Numbers",
       "data": "2026-06-11T00:51:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "8c154829f109",
@@ -1114,11 +797,12 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
+        "Novidades no Setor",
         "Shows & Eventos"
       ],
-      "categoria": "Shows & Eventos",
+      "categoria": "Novidades no Setor",
       "data": "2026-06-11T00:34:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "a647a411f028",
@@ -1128,39 +812,11 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Novidades no Setor"
+        "Setor Aereo"
       ],
-      "categoria": "Novidades no Setor",
+      "categoria": "Setor Aereo",
       "data": "2026-06-10T22:13:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
-    },
-    {
-      "id": "0f4783447419",
-      "titulo": "Beauty Bucket List Destinations",
-      "resumo": "From skincare rituals to restorative escapes, beauty and wellbeing are becoming a major driver in modern travel. Nearly 80%* of travelers are open to booking a dedicated ‘glowcation’, with treatments tailored to their individual skincare needs in pursuit of more purposeful, personalised wellbeing. B",
-      "url": "https://news.booking.com/beauty-bucket-list-destinations/",
-      "fonte": "Booking.com Newsroom",
-      "fonte_url": "https://news.booking.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-10T22:00:00Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
-    },
-    {
-      "id": "26899b987997",
-      "titulo": "Embratur lança iniciativas com Portugal e Itaipu Parquetec para impulsionar turismo nacional",
-      "resumo": "O post Embratur lança iniciativas com Portugal e Itaipu Parquetec para impulsionar turismo nacional apareceu primeiro em Embratur .",
-      "url": "https://embratur.com.br/2026/06/10/embratur-lanca-iniciativas-com-portugal-e-itaipu-parquetec-para-impulsionar-turismo-nacional/",
-      "fonte": "Embratur",
-      "fonte_url": "https://embratur.com.br",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-10T21:35:30Z",
-      "data_coleta": "2026-06-12T17:48:59Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "d2d96a1486e8",
@@ -1174,7 +830,7 @@
       ],
       "categoria": "Setor Aereo",
       "data": "2026-06-10T21:18:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "893fea514776",
@@ -1188,7 +844,7 @@
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-06-10T20:53:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "56c947cccb62",
@@ -1198,11 +854,11 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Novidades no Setor"
+        "Atrativos Internacionais"
       ],
-      "categoria": "Novidades no Setor",
+      "categoria": "Atrativos Internacionais",
       "data": "2026-06-10T20:51:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "18b0085b69d8",
@@ -1212,11 +868,12 @@
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
-        "Novidades no Setor"
+        "Novidades no Setor",
+        "Atrativos Nacionais"
       ],
       "categoria": "Novidades no Setor",
       "data": "2026-06-10T20:42:00Z",
-      "data_coleta": "2026-06-12T17:48:57Z"
+      "data_coleta": "2026-06-12T18:13:53Z"
     },
     {
       "id": "b6dab768c07f",
@@ -1226,11 +883,11 @@
       "fonte": "Airbnb Newsroom",
       "fonte_url": "https://news.airbnb.com",
       "tags": [
-        "Novidades no Setor"
+        "Tecnologia & Inovacao"
       ],
-      "categoria": "Novidades no Setor",
+      "categoria": "Tecnologia & Inovacao",
       "data": "2026-06-10T13:00:00Z",
-      "data_coleta": "2026-06-12T17:49:00Z"
+      "data_coleta": "2026-06-12T18:13:55Z"
     },
     {
       "id": "3014b8b81046",
@@ -1244,21 +901,7 @@
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-06-10T11:17:49Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "fb798f7fb3f8",
-      "titulo": "Antoni Gaudí: há 100 anos, arquiteto que projetou Sagrada Família foi confundido com sem-teto e morreu após ter ajuda negada",
-      "resumo": "Retrato de Antoni Gaudí de 1878 Pablo Audouard Deglaire/Reprodução Era o início da noite em Barcelona quando um senhor de roupas amarrotadas atravessou distraído a Gran Via de les Corts Catalanes, apoiado em sua bengala, e foi surpreendido por um bonde vindo em sua direção. Ele tentou desviar, sem v",
-      "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/06/10/antoni-gaudi-ha-100-anos-arquiteto-que-projetou-sagrada-familia-foi-confundido-com-sem-teto-e-morreu-apos-ter-ajuda-negada.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-10T04:00:14Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
+      "data_coleta": "2026-06-12T18:13:55Z"
     },
     {
       "id": "b6c5ba698f92",
@@ -1272,35 +915,7 @@
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-06-10T03:00:59Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "8919bb3ab335",
-      "titulo": "Igreja mais alta do mundo e há 140 anos em obras: conheça a Sagrada Família, onde papa Leão XIV reza missa nesta quarta-feira",
-      "resumo": "Igreja mais alta do mundo e há 140 anos em obras: conheça a Sagrada Família O papa Leão XIV celebra nesta quarta-feira (10) uma missa na Basílica da Sagrada Família em Barcelona, a qual servirá também para abençoar a Torre de Jesus Cristo, a maior da igreja. O templo católico é hoje o cartão-postal",
-      "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/06/10/igreja-mais-alta-do-mundo-e-ha-140-anos-em-obras-conheca-a-sagrada-familia-onde-papa-leao-xiv-reza-missa-nesta-quarta-feira.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-10T03:00:21Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "c9aab28251a8",
-      "titulo": "Embratur leva turismo, tecnologia, soft power e economia criativa ao Web Summit Rio 2026",
-      "resumo": "O post Embratur leva turismo, tecnologia, soft power e economia criativa ao Web Summit Rio 2026 apareceu primeiro em Embratur .",
-      "url": "https://embratur.com.br/2026/06/09/embratur-leva-turismo-tecnologia-soft-power-e-economia-criativa-ao-web-summit-rio-2026/",
-      "fonte": "Embratur",
-      "fonte_url": "https://embratur.com.br",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-09T20:37:50Z",
-      "data_coleta": "2026-06-12T17:48:59Z"
+      "data_coleta": "2026-06-12T18:13:55Z"
     },
     {
       "id": "4b9b6641ee1e",
@@ -1310,11 +925,11 @@
       "fonte": "Embratur",
       "fonte_url": "https://embratur.com.br",
       "tags": [
-        "Setor Hoteleiro"
+        "Atrativos Nacionais"
       ],
-      "categoria": "Setor Hoteleiro",
+      "categoria": "Atrativos Nacionais",
       "data": "2026-06-09T18:23:32Z",
-      "data_coleta": "2026-06-12T17:48:59Z"
+      "data_coleta": "2026-06-12T18:13:55Z"
     },
     {
       "id": "982c6483d4e5",
@@ -1328,7 +943,7 @@
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-06-09T14:55:18Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
+      "data_coleta": "2026-06-12T18:13:55Z"
     },
     {
       "id": "0fe78c4ec322",
@@ -1338,67 +953,12 @@
       "fonte": "G1 Turismo",
       "fonte_url": "https://g1.globo.com/turismo-e-viagem",
       "tags": [
+        "Novidades no Setor",
         "Shows & Eventos"
       ],
-      "categoria": "Shows & Eventos",
+      "categoria": "Novidades no Setor",
       "data": "2026-06-09T13:42:20Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "0d9d01ac9bc4",
-      "titulo": "Papa Leão XIV chega a Barcelona para abençoar nova torre da Sagrada Família",
-      "resumo": "Papa Leão XIV desembarca do avião papal ao chegar ao Aeroporto de Barcelona, para dar continuidade à sua viagem apostólica, em Barcelona, Espanha, em 9 de junho de 2026. Marta Perex/Pool via Reuters O papa Leão XIV chegou, nesta terça-feira (9), a Barcelona, segunda escala de sua viagem à Espanha. N",
-      "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/06/09/papa-leao-xiv-chega-a-barcelona-para-abencoar-nova-torre-da-sagrada-familia.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-09T11:42:02Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "f90bc4b38d24",
-      "titulo": "O polêmico resort que filha de Trump quer construir em ilha paradisíaca de país europeu",
-      "resumo": "Flamingos cor-de-rosa e imagens da filha do presidente dos EUA são elementos centrais de protestos contra um empreendimento turístico na Albânia REUTERS Há dias, manifestantes estão protestando pelas ruas de Tirana, capital da Albânia, atraindo milhares de pessoas às ruas para exigir o cancelamento",
-      "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/06/09/o-polemico-resort-que-filha-de-trump-quer-construir-em-ilha-paradisiaca-de-pais-europeu.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-09T11:09:02Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "38bd9b2fd200",
-      "titulo": "Em nova campanha internacional, Embratur transforma paixão pelo futebol em convite para viver o Brasil",
-      "resumo": "O post Em nova campanha internacional, Embratur transforma paixão pelo futebol em convite para viver o Brasil apareceu primeiro em Embratur .",
-      "url": "https://embratur.com.br/2026/06/08/em-nova-campanha-internacional-embratur-transforma-paixao-pelo-futebol-em-convite-para-viver-o-brasil/",
-      "fonte": "Embratur",
-      "fonte_url": "https://embratur.com.br",
-      "tags": [
-        "Setor Hoteleiro"
-      ],
-      "categoria": "Setor Hoteleiro",
-      "data": "2026-06-08T20:18:24Z",
-      "data_coleta": "2026-06-12T17:48:59Z"
-    },
-    {
-      "id": "b025b24e308d",
-      "titulo": "Brasil mostra seu potencial para turismo de negócios e eventos na FIEXPO Latin America 2026, na Costa Rica",
-      "resumo": "O post Brasil mostra seu potencial para turismo de negócios e eventos na FIEXPO Latin America 2026, na Costa Rica apareceu primeiro em Embratur .",
-      "url": "https://embratur.com.br/2026/06/08/brasil-mostra-seu-potencial-para-turismo-de-negocios-e-eventos-na-fiexpo-latin-america-2026-na-costa-rica/",
-      "fonte": "Embratur",
-      "fonte_url": "https://embratur.com.br",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-08T18:55:52Z",
-      "data_coleta": "2026-06-12T17:48:59Z"
+      "data_coleta": "2026-06-12T18:13:55Z"
     },
     {
       "id": "213acbe3c960",
@@ -1408,67 +968,11 @@
       "fonte": "G1 Turismo",
       "fonte_url": "https://g1.globo.com/turismo-e-viagem",
       "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-06T07:01:48Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "c705e2b96621",
-      "titulo": "Airbnb reveals how US Latinos plan to experience FIFA World Cup 2026",
-      "resumo": "A comprehensive U.S. Latino Traveler Report, developed in partnership with an independent third-party research firm, to quantify FIFA-season travel trends among U.S. Latinos, including economic impact, travel behaviors, booking patterns, preferred destinations and accommodations, and key decision dr",
-      "url": "https://news.airbnb.com/airbnb-reveals-how-u-s-latinos-plan-to-experience-fifa-world-cup-2026/",
-      "fonte": "Airbnb Newsroom",
-      "fonte_url": "https://news.airbnb.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-04T17:00:00Z",
-      "data_coleta": "2026-06-12T17:49:00Z"
-    },
-    {
-      "id": "cfc088befa31",
-      "titulo": "Protecting earnings for hosts when the unexpected occurs",
-      "resumo": "Airbnb is introducing Earnings Protection, an insurance plan, providing eligible US hosts a financial safety net against lost income caused by unexpected events. The post Protecting earnings for hosts when the unexpected occurs appeared first on Airbnb Newsroom .",
-      "url": "https://news.airbnb.com/protecting-earnings-for-hosts-when-the-unexpected-occurs/",
-      "fonte": "Airbnb Newsroom",
-      "fonte_url": "https://news.airbnb.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-03T15:00:00Z",
-      "data_coleta": "2026-06-12T17:49:00Z"
-    },
-    {
-      "id": "3466e5004e3c",
-      "titulo": "Embratur amplia plataforma voltada ao mercado estrangeiro e fortalece promoção de parques naturais do Brasil",
-      "resumo": "O post Embratur amplia plataforma voltada ao mercado estrangeiro e fortalece promoção de parques naturais do Brasil apareceu primeiro em Embratur .",
-      "url": "https://embratur.com.br/2026/06/03/embratur-amplia-plataforma-voltada-ao-mercado-estrangeiro-e-fortalece-promocao-de-parques-naturais-do-brasil/",
-      "fonte": "Embratur",
-      "fonte_url": "https://embratur.com.br",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-03T14:48:18Z",
-      "data_coleta": "2026-06-12T17:48:59Z"
-    },
-    {
-      "id": "37163a215464",
-      "titulo": "Avião que fará rota mais longa do mundo completa primeiro voo de teste; veja como foi a viagem",
-      "resumo": "Como foi 1º voo teste de avião que fará rota mais longa do mundo A fabricante aeronáutica europeia Airbus concluiu na terça-feira (2) o primeiro voo de teste do avião A350-1000ULR. O avião foi projetado para voar até 22 horas seguidas e superar o recorde de voo comercial direto mais longo do mundo.",
-      "url": "https://g1.globo.com/inovacao/noticia/2026/06/03/aviao-que-fara-rota-mais-longa-do-mundo-faz-primeiro-voo-de-teste-veja-como-foi-a-viagem.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
         "Setor Aereo"
       ],
       "categoria": "Setor Aereo",
-      "data": "2026-06-03T06:00:37Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
+      "data": "2026-06-06T07:01:48Z",
+      "data_coleta": "2026-06-12T18:13:55Z"
     },
     {
       "id": "9f241ce2b765",
@@ -1478,123 +982,11 @@
       "fonte": "Embratur",
       "fonte_url": "https://embratur.com.br",
       "tags": [
-        "Setor Hoteleiro"
+        "Atrativos Nacionais"
       ],
-      "categoria": "Setor Hoteleiro",
+      "categoria": "Atrativos Nacionais",
       "data": "2026-06-02T20:21:04Z",
-      "data_coleta": "2026-06-12T17:48:59Z"
-    },
-    {
-      "id": "5312120d89ad",
-      "titulo": "Women hosts set to be the real winners of FIFA World Cup 2026™",
-      "resumo": "New Airbnb data shows women are projected to earn the majority of hosting income on the platform during the tournament, which is the world's biggest sporting event. The post Women hosts set to be the real winners of FIFA World Cup 2026™ appeared first on Airbnb Newsroom .",
-      "url": "https://news.airbnb.com/women-hosts-set-to-be-the-real-winners-of-fifa-world-cup-2026/",
-      "fonte": "Airbnb Newsroom",
-      "fonte_url": "https://news.airbnb.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-02T13:00:00Z",
-      "data_coleta": "2026-06-12T17:49:00Z"
-    },
-    {
-      "id": "f44735b3a7ae",
-      "titulo": "2026 European Accommodation Barometer: Challenges, Concerns & Diverging Outlooks Despite Ongoing Optimism",
-      "resumo": "Today, European tech and travel leader Booking.com released the sixth edition of its annual Accommodation Barometer, exploring the outlook, opportunities and challenges that are front of mind for accommodation professionals across Europe. Drawing on insights from 1,240 executives and managers across",
-      "url": "https://news.booking.com/2026-european-accommodation-barometer-challenges-concerns-and-diverging-outlooks/",
-      "fonte": "Booking.com Newsroom",
-      "fonte_url": "https://news.booking.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-02T08:00:00Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
-    },
-    {
-      "id": "6c40f142241f",
-      "titulo": "Companhias aéreas cancelam voos para Portugal após anúncio de greve geral; veja os afetados",
-      "resumo": "Portugal: paralisação contra mudanças na legislação trabalhista afeta voos com o Brasil Uma greve geral marcada para quarta-feira (3) em Portugal afetará passageiros que viajam entre o Brasil e o país europeu, com reflexos previstos nas operações aéreas já a partir desta terça-feira (2). ➡️ A parali",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/02/companhias-aereas-cancelam-voos-para-portugal-apos-anuncio-de-greve-geral-veja-os-afetados.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-02T03:00:58Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "95d7b557b3ef",
-      "titulo": "Greve geral em Portugal cancela voos e afeta ponte aérea com o Brasil",
-      "resumo": "Mulher passa por pixação convocando greve em Lisboa, Portugal. PATRICIA DE MELO MOREIRA/AFP Uma greve geral marcada para esta quarta-feira (3) em Portugal afeta passageiros que viajam entre o Brasil e o país europeu, com reflexos previstos nas operações aéreas já a partir desta terça-feira (2). Dian",
-      "url": "https://g1.globo.com/economia/noticia/2026/06/01/greve-geral-portugal-afeta-voos-brasil.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-01T21:26:11Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "9fde307463eb",
-      "titulo": "Building a FIFA World Cup 2026™ legacy for Ontario communities",
-      "resumo": "Airbnb invests more than $550,000 in community soccer programs across four Ontario communities ahead of FIFA World Cup 2026™. The post Building a FIFA World Cup 2026™ legacy for Ontario communities appeared first on Airbnb Newsroom .",
-      "url": "https://news.airbnb.com/building-a-fifa-legacy-for-ontario/",
-      "fonte": "Airbnb Newsroom",
-      "fonte_url": "https://news.airbnb.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-06-01T16:00:00Z",
-      "data_coleta": "2026-06-12T17:49:00Z"
-    },
-    {
-      "id": "4a63579c62e0",
-      "titulo": "'Bebês-milagre': a história dos recém-nascidos que sobreviveram sob os escombros no México",
-      "resumo": "'Bebês-milagre': a história dos bebês que sobreviveram sob os escombros no México Entre os milhares de mortos e os prédios reduzidos a escombros no terremoto que devastou a Cidade do México em 1985, uma história improvável emocionou o país: o resgate de dezenas de recém-nascidos que sobreviveram sot",
-      "url": "https://g1.globo.com/globo-reporter/noticia/2026/05/31/bebes-milagre-a-historia-dos-recem-nascidos-que-sobreviveram-sob-os-escombros-no-mexico.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-05-31T10:00:16Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "68893d23b7ef",
-      "titulo": "Costureira que veste presidente do México une tradição, bordados e músicas de Roberto Carlos; VÍDEO",
-      "resumo": "Conheça a costureira que veste presidente do México Na periferia da Cidade do México, uma costureira transformou linhas, tecidos e bordados tradicionais em símbolo de identidade nacional — e conquistou uma cliente ilustre: a presidente mexicana, Claudia Sheinbaum. A história de Olívia Trujillo foi a",
-      "url": "https://g1.globo.com/globo-reporter/noticia/2026/05/31/costureira-que-veste-presidente-do-mexico-une-tradicao-bordados-e-musicas-de-roberto-carlos-video.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-05-31T10:00:14Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "9c48d15eb7b7",
-      "titulo": "Do grão à experiência: como o Caparaó transforma café em produto turístico e amplia o potencial do Sul do ES",
-      "resumo": "Café se transforma em produto turístico e amplia o potencial do Caparaó do ES Conhecida pelos cafés especiais, cachoeiras de águas transparentes e pelo Pico da Bandeira, a região do Caparaó capixaba, no Sul do Espírito Santo, tem, desde o início deste ano, um novo atrativo que combina natureza, gast",
-      "url": "https://g1.globo.com/es/espirito-santo/sul-es/noticia/2026/05/31/do-grao-a-experiencia-como-o-caparao-transforma-cafe-em-produto-turistico-e-amplia-o-potencial-do-sul-do-es.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-05-31T07:01:18Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
+      "data_coleta": "2026-06-12T18:13:55Z"
     },
     {
       "id": "534e00657189",
@@ -1608,35 +1000,7 @@
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-05-30T20:16:25Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "95cf07b6c208",
-      "titulo": "Governo Trump recua sobre regra que exigia saída dos EUA para obtenção de green card, diz jornal",
-      "resumo": "A busca pelo visto EB-2 NIW nos EUA Divulgação O governo dos Estados Unidos afirmou nesta sexta-feira (29) que nem todos os imigrantes que solicitam um green card terão de deixar o país para concluir o processo. A declaração, obtida pelo jornal The New York Times, representa um recuo em relação a um",
-      "url": "https://g1.globo.com/mundo/noticia/2026/05/29/governo-trump-recua-apos-anunciar-que-estrangeiros-teriam-de-deixar-os-eua-para-obter-green-card-diz-jornal.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-05-30T00:20:53Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "543abeccf6bd",
-      "titulo": "Brasileiros poderão usar Carteira de Identidade Nacional para entrar em 8 países da América do Sul",
-      "resumo": "Nova Carteira de Identidade Nacional. Ascom SSP-PI Os turistas brasileiros vão poder utilizar a Carteira de Identidade Nacional (CIN), o novo RG, como documento de viagem para entrar em oito países da América do Sul. O acordo que permitiu a inclusão da CIN na lista de documentos de identidade aceito",
-      "url": "https://g1.globo.com/politica/noticia/2026/05/29/brasileiros-poderao-usar-carteira-de-identidade-nacional-para-entrar-em-8-paises-da-america-do-sul.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-05-29T16:23:17Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
+      "data_coleta": "2026-06-12T18:13:55Z"
     },
     {
       "id": "20c6f5aedbb5",
@@ -1646,11 +1010,11 @@
       "fonte": "G1 Turismo",
       "fonte_url": "https://g1.globo.com/turismo-e-viagem",
       "tags": [
-        "Novidades no Setor"
+        "Setor Aereo"
       ],
-      "categoria": "Novidades no Setor",
+      "categoria": "Setor Aereo",
       "data": "2026-05-28T19:54:48Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
+      "data_coleta": "2026-06-12T18:13:55Z"
     },
     {
       "id": "96043fc5b4bc",
@@ -1664,189 +1028,7 @@
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-05-28T15:17:12Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "17a7920edebb",
-      "titulo": "Quem é Nusret Gökçe, 'chef da mãozinha', dono de restaurante do bife de ouro onde Claudio Castro jantou bancado por Vorcaro",
-      "resumo": "Vorcaro pagou US$ 1 milhão em degustação com Cláudio Castro O chef Nusret Gökçe, também conhecido como Salt Bae, já viralizou por vários motivos, incluindo os valores dos pratos em seus restaurantes. Agora, seu nome volta a aparecer por causa de um jantar do ex-governador do Rio de Janeiro, Claudio",
-      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/05/28/quem-e-nusret-gokce-chef-da-maozinha-dono-de-restaurante-que-serve-bife-de-ouro-e-visitado-por-claudio-castro-bancado-por-vorcaro.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-05-28T14:57:51Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "3fcf2c9212ad",
-      "titulo": "The Challenges Weighing On LGBTQ+ Business Travelers",
-      "resumo": "With the global business travel market projected to reach $2.4 trillion by 2031*, new Booking.com research highlights a gap between growing business travel demand and LGBTQ+ traveler confidence. Only half (50%) of LGBTQ+ travelers say they feel relaxed when traveling for work, while nearly 1 in 4 (2",
-      "url": "https://news.booking.com/the-challenges-weighing-on-lgbtq-business-travelers/",
-      "fonte": "Booking.com Newsroom",
-      "fonte_url": "https://news.booking.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-05-28T08:05:00Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
-    },
-    {
-      "id": "778704cf7f07",
-      "titulo": "Checked In, Not Stressed Out: Discovering some of the World's Best Travel Proud Escapes",
-      "resumo": "While exploring the world brings immense joy, recent data from Booking.com’s 2026 Travel Proud Research Report reveals that the reality for LGBTQ+ travelers is often complex. Strikingly, only 31% of LGBTQ+ travelers globally report being ‘out’ when they travel, with 40% admitting they are willing to",
-      "url": "https://news.booking.com/checked-in-not-stressed-out-discovering-some-of-the-worlds-best-travel-proud-escapes/",
-      "fonte": "Booking.com Newsroom",
-      "fonte_url": "https://news.booking.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-05-28T08:03:00Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
-    },
-    {
-      "id": "4fa497496cea",
-      "titulo": "Closet-cationers: Latest Booking.com Research Reveals Majority of LGBTQ+ Travelers Conceal Their Identity When Traveling",
-      "resumo": "Today Booking.com released its latest Travel Proud Research Report, the company’s most expansive and cross-cutting survey to date, focused exclusively on the attitudes, actions and perceptions of LGBTQ+ travelers. With insights from 13,300 LGBTQ+ travelers across 19 countries, the research highlight",
-      "url": "https://news.booking.com/closet-cationers-latest-bookingcom-research-reveals-majority-of-lgbtq-travelers-conceal-their-identity-when-traveling/",
-      "fonte": "Booking.com Newsroom",
-      "fonte_url": "https://news.booking.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-05-28T08:00:00Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
-    },
-    {
-      "id": "9630c92027a3",
-      "titulo": "Travel Icons: Unique Landmarks Worth Discovering",
-      "resumo": "As travelers plan their next trips, cultural attractions remain a key part of the journey, with 29%* of people already planning on exploring a new landmark or sight on their travels this year. However, rather than just simply ticking off the world’s most iconic landmarks, many are looking beyond the",
-      "url": "https://news.booking.com/travel-icons-unique-landmarks-worth-discovering/",
-      "fonte": "Booking.com Newsroom",
-      "fonte_url": "https://news.booking.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-05-28T07:13:00Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
-    },
-    {
-      "id": "e30a9838dfb1",
-      "titulo": "Announcing a new community-powered World Cup exhibition and fan experience with Hugo Sanchez",
-      "resumo": "Airbnb, FIFA World Cup 2026™ Mexico City Host Committee and Mexico City's Tourism Promotion Fund, announce new Community-powered World Cup Exhibition and fan experience with Hugo Sánchez The post Announcing a new community-powered World Cup exhibition and fan experience with Hugo Sanchez appeared fi",
-      "url": "https://news.airbnb.com/airbnb-fifa-world-cup-2026-mexico-city-host-committee-and-mexico-citys-tourism-promotion-fund-announce-new-community-powered-world-cup-exhibition-and-fan-experience-with-hugo-sanchez/",
-      "fonte": "Airbnb Newsroom",
-      "fonte_url": "https://news.airbnb.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-05-27T19:00:00Z",
-      "data_coleta": "2026-06-12T17:49:00Z"
-    },
-    {
-      "id": "d0bdb9818d0e",
-      "titulo": "Airbnb.org expands its Medical Stays Program in Mexico with over $1.1M USD",
-      "resumo": "Airbnb co-founder and CEO Brian Chesky announced a 20 million peso investment to expand Airbnb.org's Medical Stays program in Mexico The post Airbnb.org expands its Medical Stays Program in Mexico with over $1.1M USD appeared first on Airbnb Newsroom .",
-      "url": "https://news.airbnb.com/airbnb-org-expands-its-medical-stays-program-in-mexico-with-20m-mxn-pesos/",
-      "fonte": "Airbnb Newsroom",
-      "fonte_url": "https://news.airbnb.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-05-27T01:00:00Z",
-      "data_coleta": "2026-06-12T17:49:00Z"
-    },
-    {
-      "id": "4dd0c5633cd3",
-      "titulo": "Join Macklin Celebrini for soccer camp and a FIFA World Cup™ match in Toronto",
-      "resumo": "Hockey star Macklin Celebrini is giving fans an exclusive Toronto Two-Nighter which includes a soccer training camp and tickets to a FIFA World Cup 2026™ match in Toronto, available only on Airbnb. The post Join Macklin Celebrini for soccer camp and a FIFA World Cup™ match in Toronto appeared first",
-      "url": "https://news.airbnb.com/from-ice-to-grass/",
-      "fonte": "Airbnb Newsroom",
-      "fonte_url": "https://news.airbnb.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-05-26T13:00:00Z",
-      "data_coleta": "2026-06-12T17:49:00Z"
-    },
-    {
-      "id": "55b1da9bafaa",
-      "titulo": "Airbnb launches Solåterbäringen to make up for Sweden’s lost sunshine",
-      "resumo": "Sweden lost 1,233 hours of sunshine this winter. Airbnb is giving it back with Solåterbäringen – a sun refund of up to 12.59% off your next trip, calculated using official SMHI data. The post Airbnb launches Solåterbäringen to make up for Sweden’s lost sunshine appeared first on Airbnb Newsroom .",
-      "url": "https://news.airbnb.com/solaterbaringen/",
-      "fonte": "Airbnb Newsroom",
-      "fonte_url": "https://news.airbnb.com",
-      "tags": [
-        "Setor Hoteleiro"
-      ],
-      "categoria": "Setor Hoteleiro",
-      "data": "2026-05-26T09:58:40Z",
-      "data_coleta": "2026-06-12T17:49:00Z"
-    },
-    {
-      "id": "c3d10e158797",
-      "titulo": "Uma das nações mais misteriosas e remotas do mundo se abre ao turismo",
-      "resumo": "Uma representação da ponte suspensa entre as copas das árvores no novo Aeroporto Internacional de Gelephu BIG via BBC Em uma manhã quente no início deste ano, o rei do Butão, Jigme Khesar Namgyel Wangchuck, estava em uma área aberta em meio à selva na cidade de Gelephu, perto da fronteira com a Índi",
-      "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/05/24/uma-das-nacoes-mais-misteriosas-e-remotas-do-mundo-se-abre-ao-turismo.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Setor Hoteleiro"
-      ],
-      "categoria": "Setor Hoteleiro",
-      "data": "2026-05-24T17:23:10Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "9e9eb4123fd6",
-      "titulo": "China desenvolve sistema de vigilância para monitorar estrangeiros no país",
-      "resumo": "Captura de tela de um painel de software de vigilância que permite monitorar estrangeiros NetAskari Quando um pesquisador de cibersegurança conhecido pelo pseudônimo NetAskari clicou recentemente em uma aba intitulada \"Consulta de arquivos de jornalistas\" em um site chinês não seguro, ele esperava v",
-      "url": "https://g1.globo.com/tecnologia/noticia/2026/05/22/china-desenvolve-sistema-de-vigilancia-para-monitorar-estrangeiros-no-pais.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-05-22T11:22:24Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "32ab23b2e77c",
-      "titulo": "As praias paradisíacas 'para turistas' onde o acesso de moradores é restrito",
-      "resumo": "Barbuda é uma das ilhas do Caribe onde locais se queixam de restrição de acesso às praias GETTY IMAGES Na pequena ilha caribenha de Barbuda, o bar Pink Sands Beach era frequentado por moradores e por alguns turistas havia mais de 20 anos. \"Era um lugar muito acolhedor\", diz Miranda Beazer, ex-dona d",
-      "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/05/22/as-praias-paradisiacas-para-turistas-onde-o-acesso-de-moradores-e-restrito.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-05-22T08:00:34Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "32a148d12921",
-      "titulo": "Justiça da Espanha derruba medida do governo contra proliferação de imóveis turísticos",
-      "resumo": "Moradores de Barcelona molham turistas em protesto contra turismo excessivo A Justiça espanhola anulou, nesta quinta-feira (21), uma das medidas implementadas pelo governo de esquerda para combater a proliferação de imóveis turísticos, que consistia em um registro dessas propriedades criado em 2025.",
-      "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/05/21/justica-da-espanha-derruba-medida-do-governo-contra-proliferacao-de-imoveis-turisticos.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-05-21T15:52:39Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
+      "data_coleta": "2026-06-12T18:13:55Z"
     },
     {
       "id": "6c62765b1525",
@@ -1860,7 +1042,7 @@
       ],
       "categoria": "Setor Hoteleiro",
       "data": "2026-05-20T17:00:00Z",
-      "data_coleta": "2026-06-12T17:49:00Z"
+      "data_coleta": "2026-06-12T18:13:55Z"
     },
     {
       "id": "c3ef6f6e7f98",
@@ -1870,39 +1052,12 @@
       "fonte": "G1 Turismo",
       "fonte_url": "https://g1.globo.com/turismo-e-viagem",
       "tags": [
+        "Atrativos Internacionais",
         "Shows & Eventos"
       ],
-      "categoria": "Shows & Eventos",
+      "categoria": "Atrativos Internacionais",
       "data": "2026-05-20T09:25:45Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "d80cc8c98a16",
-      "titulo": "Booking.com Is Making Car Rentals Easier with App in ChatGPT",
-      "resumo": "Today, Booking.com has unveiled a range of new AI-driven innovations bringing customers a faster, more seamless car rental experience - just in time for the peak travel and road trip season. Rental cars will soon hit the open road en masse, with 1 in 4 (26%) planning to take a road trip, drawn to th",
-      "url": "https://news.booking.com/bookingcom-is-making-car-rentals-easier-with-app-in-chatgpt/",
-      "fonte": "Booking.com Newsroom",
-      "fonte_url": "https://news.booking.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-05-20T08:00:00Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
-    },
-    {
-      "id": "2445496fddbe",
-      "titulo": "Quase 3 mil brasileiros foram barrados nas fronteiras da UE em 2025",
-      "resumo": "Passaporte do Brasil Governo Federal/ Divulgação Quase três mil brasileiros tiveram a entrada negada na União Europeia (UE) em 2025, apontam dados oficiais do bloco. No total, foram 2.910 barrados. Desses, 2.690 foram barrados ao desembarcar em aeroportos do bloco europeu. Outros 180 foram tiveram a",
-      "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/05/19/quase-tres-mil-brasileiros-foram-barrados-nas-fronteiras-da-ue-em-2025.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-05-19T18:43:12Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
+      "data_coleta": "2026-06-12T18:13:55Z"
     },
     {
       "id": "1add11c8cd2a",
@@ -1912,67 +1067,11 @@
       "fonte": "G1 Turismo",
       "fonte_url": "https://g1.globo.com/turismo-e-viagem",
       "tags": [
-        "Novidades no Setor"
+        "Atrativos Internacionais"
       ],
-      "categoria": "Novidades no Setor",
+      "categoria": "Atrativos Internacionais",
       "data": "2026-05-19T11:31:22Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "d21652a4e516",
-      "titulo": "Booking.com Celebrates International Family Day: 5 Destinations That Bring Every Generation Together",
-      "resumo": "The desire to reconnect and create meaningful moments together is increasingly shaping how families choose to travel. In fact, 84%* of travelers say spending quality time with family is a key motivation when planning a trip. To mark International Family Day (May 15), Booking.com spotlights a collect",
-      "url": "https://news.booking.com/bookingcom-celebrates-international-family-day-5-destinations-that-bring-every-generation-together/",
-      "fonte": "Booking.com Newsroom",
-      "fonte_url": "https://news.booking.com",
-      "tags": [
-        "Setor Hoteleiro"
-      ],
-      "categoria": "Setor Hoteleiro",
-      "data": "2026-05-14T19:30:00Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
-    },
-    {
-      "id": "cf05049f43ed",
-      "titulo": "'Me sinto expulso de Lisboa', diz brasileiro que vive em Portugal",
-      "resumo": "\"Sinto-me expulso de Lisboa\", diz brasileiro que vive em Portugal O aumento acelerado dos aluguéis em Lisboa tem pressionado moradores e imigrantes e transformado o acesso à moradia em um dos principais problemas de Portugal. Na capital portuguesa, o custo para alugar um imóvel já supera, em média,",
-      "url": "https://g1.globo.com/mundo/noticia/2026/05/13/me-sinto-expulso-de-lisboa-diz-brasileiro-que-vive-em-portugal.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-05-13T08:03:25Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "95fba8174fc5",
-      "titulo": "Turista ganha indenização após perder 'corrida por espreguiçadeiras' em hotel na Grécia",
-      "resumo": "O homem tinha ido de férias com a esposa e os dois filhos para Kos, na Grécia Getty Images via BBC Um turista alemão ganhou uma indenização de mais de 900 euros (cerca de R$ 5,1 mil) depois de não conseguir garantir uma espreguiçadeira devido a outros hóspedes que as reservavam com toalhas. O homem,",
-      "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/05/12/turista-ganha-indenizacao-apos-perder-corrida-por-espreguicadeiras-em-hotel-na-grecia.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-05-12T08:03:06Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "82a335c4b9e9",
-      "titulo": "Cidade turística argentina no 'fim do mundo' nega ter dado início a surto de hantavírus",
-      "resumo": "Ushuaia é conhecida como o 'fim do mundo' e serve porta de entrada para viagens para a Antártida e Patagônia. Reuters via BBC Como a cidade mais ao sul da Argentina, Ushuaia há muito desfruta de sua reputação como o \"fim do mundo\" e como porta de entrada para viagens tanto à Antártida quanto para tu",
-      "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/05/11/cidade-turistica-argentina-no-fim-do-mundo-nega-ter-dado-inicio-a-surto-de-hantavirus.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-05-11T17:06:59Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
+      "data_coleta": "2026-06-12T18:13:55Z"
     },
     {
       "id": "fe80b7e936e3",
@@ -1982,39 +1081,11 @@
       "fonte": "G1 Turismo",
       "fonte_url": "https://g1.globo.com/turismo-e-viagem",
       "tags": [
-        "Setor Hoteleiro"
+        "Atrativos Nacionais"
       ],
-      "categoria": "Setor Hoteleiro",
+      "categoria": "Atrativos Nacionais",
       "data": "2026-05-06T05:00:43Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "b73bbbc35705",
-      "titulo": "Booking.com Makes it Easier Than Ever to Star in Your Own Movie-Inspired Route 66 Road Trip for the Iconic Highway’s 100th Anniversary",
-      "resumo": "NEW YORK, May 4, 2026 – Start the engine. Cue the playlist. Booking.com, the Official Travel Partner of the Route 66 Centennial, is offering a road trip experience this spring that puts travelers behind the wheel of a movie-inspired classic car. This once-in-a-lifetime opportunity arrives as road tr",
-      "url": "https://news.booking.com/bookingcom-makes-it-easier-than-ever-to-star-in-your-own-movie-inspired-route-66-road-trip-for-the-iconic-highways-100th-anniversary/",
-      "fonte": "Booking.com Newsroom",
-      "fonte_url": "https://news.booking.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-05-04T13:00:00Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
-    },
-    {
-      "id": "1722261467a8",
-      "titulo": "Aluguel de graça e economia de R$ 7 mil por mês: o casal que viaja o mundo cuidando de pets",
-      "resumo": "Hannah e Jack tinham 22 anos cada quando começaram a cuidar de animais de estimação e a viajar pelo mundo. Hannah Cleaver via BBC Enquanto muitos jovens lutam contra o custo de vida, um casal conseguiu morar de graça por três anos e viajar pelo mundo. Cuidando dos animais de estimação de outras pess",
-      "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/05/02/aluguel-de-graca-e-economia-de-r-7-mil-por-mes-o-casal-que-viaja-o-mundo-cuidando-de-pets.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-05-02T06:00:28Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
+      "data_coleta": "2026-06-12T18:13:55Z"
     },
     {
       "id": "c60c6fd57b46",
@@ -2028,49 +1099,7 @@
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-04-30T08:06:57Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "a8f59b76e531",
-      "titulo": "'Comprem agora': ministro espanhol alerta que guerra pode disparar preço de passagens aéreas",
-      "resumo": "Avião da Ryanair no aeroporto de Eindhoven, na Holanda REUTERS/Piroschka van de Wouw Enquanto líderes mundiais evitam tratar publicamente dos impactos econômicos diretos da guerra no Oriente Médio, um ministro europeu decidiu quebrar o silêncio. Na segunda‑feira (27), o ministro espanhol da Indústri",
-      "url": "https://g1.globo.com/economia/noticia/2026/04/27/comprem-agora-ministro-espanhol-alerta-que-guerra-pode-disparar-preco-de-passagens-aereas.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-04-27T19:14:43Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "d81e2a280dba",
-      "titulo": "Por que o aeroporto de Singapura é considerado o melhor do mundo",
-      "resumo": "Aeroporto de Singapura BBC/Getty Images Imagine que você acaba de aterrissar depois de um voo de 18 horas. Bocejando e com os olhos vermelhos, você se prepara para enfrentar as habituais dificuldades que encontramos nos aeroportos: a caminhada até a imigração, as filas que não andam e a quase infini",
-      "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/04/27/por-que-o-aeroporto-de-singapura-e-considerado-o-melhor-do-mundo.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-04-27T10:28:41Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "d4e2b1eda805",
-      "titulo": "Visto 'Gold Card' de Trump foi concedido a apenas uma pessoa até agora; documento custa US$ 1 milhão",
-      "resumo": "Imagem 'cartão ouro' da imigração americana, uma versão do 'green card' que custa um milhão de dólares. Reprodução/trumpcard.gov Apenas um pedido foi aprovado até este momento para o programa de vistos \"Gold Card\" lançado pelo presidente dos Estados Unidos, Donald Trump, informou, na quinta-feira (2",
-      "url": "https://g1.globo.com/mundo/noticia/2026/04/25/visto-gold-card-de-trump-foi-concedido-a-apenas-uma-pessoa-ate-agora-documento-custa-us-1-milhao.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Politica & Economia"
-      ],
-      "categoria": "Politica & Economia",
-      "data": "2026-04-25T19:02:09Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
+      "data_coleta": "2026-06-12T18:13:55Z"
     },
     {
       "id": "99a6aa197a03",
@@ -2084,7 +1113,7 @@
       ],
       "categoria": "Setor Aereo",
       "data": "2026-04-24T21:38:42Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
+      "data_coleta": "2026-06-12T18:13:55Z"
     },
     {
       "id": "fe747278e1b1",
@@ -2094,165 +1123,11 @@
       "fonte": "G1 Turismo",
       "fonte_url": "https://g1.globo.com/turismo-e-viagem",
       "tags": [
-        "Novidades no Setor"
+        "Tecnologia & Inovacao"
       ],
-      "categoria": "Novidades no Setor",
+      "categoria": "Tecnologia & Inovacao",
       "data": "2026-04-23T03:01:38Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "18fa7a75ef45",
-      "titulo": "Mulher é multada em quase R$ 30 mil após tentar tocar pênis de estátua na Itália em desafio entre amigos",
-      "resumo": "A Fonte de Netuno, em Florença, na Itália Divulgação/Turismo de Itália Uma mulher foi multada em 5 mil euros (R$ 29,6 mil) após invadir a Fonte de Netuno, em Florença, na Itália. Segundo as autoridades locais, a jovem tentava tocar o pênis de uma estátua do ponto turístico durante um desafio entre a",
-      "url": "https://g1.globo.com/mundo/noticia/2026/04/22/mulher-e-multada-em-quase-r-30-mil-apos-tentar-tocar-penis-de-estatua-na-italia-em-desafio-pre-nupcial.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-04-22T19:16:27Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "ca9c044d7ce0",
-      "titulo": "Brasileiro mostra como é morar em favela chinesa pagando R$ 30 de aluguel: 'Minha viagem nunca acabou'",
-      "resumo": "Maurício da Cruz BBC/Arquivo pessoal Quando chegou à China pela primeira vez, aos onze anos, Maurício da Cruz teve a sensação de que nenhum outro lugar poderia ser sua casa. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp O ano era 2000 e seu pai havia sido transferido pelo trabalho para",
-      "url": "https://g1.globo.com/mundo/noticia/2026/04/22/brasileiro-mostra-como-e-morar-em-favela-chinesa-pagando-r-30-de-aluguel-minha-viagem-nunca-acabou.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Setor Hoteleiro"
-      ],
-      "categoria": "Setor Hoteleiro",
-      "data": "2026-04-22T09:47:16Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "3c508a5a8788",
-      "titulo": "Remarkable Natural Events Across the Globe",
-      "resumo": "Amid the constant hum of modern life, travelers around the globe are increasingly seeking meaningful ways to reconnect with the wonder and beauty of nature. In fact, 43%* of travelers say they would travel specifically to feel closer to the natural world. From awe-inspiring wildlife spectacles to br",
-      "url": "https://news.booking.com/remarkable-natural-events-across-the-globe/",
-      "fonte": "Booking.com Newsroom",
-      "fonte_url": "https://news.booking.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-04-22T07:39:00Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
-    },
-    {
-      "id": "0fb82590a390",
-      "titulo": "Guerra assimétrica: a estratégia do Irã no confronto com os EUA",
-      "resumo": "Logo após os ataques dos Estados Unidos e de Israel, Teerã decidiu bloquear a passagem pelo Estreito de Ormuz, uma tática que se assemelha a usada por Davi, da história bíblica de Davi e Golias.",
-      "url": "https://www.bbc.com/portuguese/articles/cede4l6023zo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC Brasil",
-      "fonte_url": "https://www.bbc.com/portuguese",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-04-20T16:10:04Z",
-      "data_coleta": "2026-06-12T17:49:09Z"
-    },
-    {
-      "id": "d06cc1a41fd3",
-      "titulo": "Booking.com Research Reveals How Climate Uncertainty is Reshaping Peak Season Travel",
-      "resumo": "Booking.com’s 2026 Travel & Sustainability Report reveals a growing tension in travel decisions, with nearly three quarters of travelers globally saying they consider extreme weather risk when choosing both destination (74%) and timing (74%), and nearly one-third (31%) canceling a trip due to these",
-      "url": "https://news.booking.com/bookingcom-research-reveals-how-climate-uncertainty-is-reshaping-peak-season-travel/",
-      "fonte": "Booking.com Newsroom",
-      "fonte_url": "https://news.booking.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-04-20T08:05:00Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
-    },
-    {
-      "id": "f7322b0e2fdf",
-      "titulo": "What Locals Want: Booking.com’s Guide to More Sustainable Travel Habits Informed by Residents",
-      "resumo": "Booking.com's 11th annual Travel & Sustainability Report reveals that 85% of global travelers say traveling more sustainably is important or very important to them. With 69% wanting to leave the places they visit better than they found them, supporting local communities and looking after the environ",
-      "url": "https://news.booking.com/what-locals-want-bookingcoms-guide-to-more-sustainable-travel-habits-informed-by-residents/",
-      "fonte": "Booking.com Newsroom",
-      "fonte_url": "https://news.booking.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-04-20T08:00:00Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
-    },
-    {
-      "id": "6bb462b329f2",
-      "titulo": "Booking.com’s Latest Travel and Sustainability Research Reveals Unexpected Generational Paradox",
-      "resumo": "AMSTERDAM, 20 APRIL 2026 - Today Booking.com released its 11th annual research report into consumer attitudes and understanding of the social and environmental impact of travel. With insights from 32,500 travelers across 35 markets globally, this year’s research highlights a generational paradox. Wh",
-      "url": "https://news.booking.com/bookingcoms-latest-travel-and-sustainability-research-reveals-unexpected-generational-paradox/",
-      "fonte": "Booking.com Newsroom",
-      "fonte_url": "https://news.booking.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-04-20T08:00:00Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
-    },
-    {
-      "id": "b043901977cf",
-      "titulo": "Companhia da Nova Zelândia vai oferecer 'cápsulas de soneca' na classe econômica, mas é proibido dormir de conchinha",
-      "resumo": "Companhia da Nova Zelândia vai oferecer 'beliches para cochilo' para passageiros na econô Uma companhia da Nova Zelândia vai oferecer sessões de até quatro horas de descanso em beliches de três andares para passageiros da classe econômica e econômica premium. Cada viajante poderá reservar até duas s",
-      "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/04/20/companhia-da-nova-zelandia-vai-oferecer-capsulas-de-soneca-na-classe-economica-mas-e-proibido-dormir-de-conchinha.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-04-20T05:00:30Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "5641074613b3",
-      "titulo": "Novo sistema de entrada na União Europeia causa filas de até 3h; veja como funciona e como agilizar",
-      "resumo": "Como funciona o novo sistema de entrada na União Europeia O sistema eletrônico que substituiu o carimbo no passaporte e passou a ser obrigatório para entrar na maioria dos países da União Europeia (veja quais abaixo) na quinta-feira (9) tem causado filas de até três horas nos aeroportos. Chamado de",
-      "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/04/19/novo-sistema-de-entrada-na-uniao-europeia-causa-filas-de-ate-3h-veja-como-funciona-e-como-agilizar.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-04-19T07:01:14Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "86d0a801a57d",
-      "titulo": "França impõe 'multa recorde' contra prédio de Paris transformado em Airbnb",
-      "resumo": "Torre Eiffel está enferrujada e precisa de grande reformas, diz revista francesa REUTERS/Benoit Tessier A Justiça da França impôs uma \"multa recorde\" pela conversão ilegal de um prédio de Paris em hospedagens turísticas alugadas pelo Airbnb. A informação foi divulgada pela prefeitura nesta sexta-fei",
-      "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/04/18/franca-impoe-multa-recorde-contra-predio-de-paris-transformado-em-airbnb.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Atrativos Internacionais"
-      ],
-      "categoria": "Atrativos Internacionais",
-      "data": "2026-04-18T08:01:07Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "c2e69d7dcd81",
-      "titulo": "Europa finalmente descobre o ônibus-leito, e modelo comum no Brasil cresce no continente",
-      "resumo": "Ônibus-leito da Twiliner Foto: Remo Vettori O transporte de passageiros europeu vive uma transformação silenciosa, mas significativa, com o lançamento dos primeiros ônibus-leito equipados com camas totalmente reclináveis, um modelo de transporte comum entre empresas de transporte no Brasil, mas que",
-      "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/04/18/europa-finalmente-descobre-o-onibus-leito-e-modelo-comum-no-brasil-cresce-no-continente.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-04-18T05:00:37Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
+      "data_coleta": "2026-06-12T18:13:55Z"
     },
     {
       "id": "bbb7d529ce6f",
@@ -2262,111 +1137,14 @@
       "fonte": "G1 Turismo",
       "fonte_url": "https://g1.globo.com/turismo-e-viagem",
       "tags": [
-        "Shows & Eventos"
+        "Shows & Eventos",
+        "Atrativos Internacionais"
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-04-15T21:28:26Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "85c28aa370c2",
-      "titulo": "Booking.com Reveals the Best Foodie Souvenir Destinations Around the World",
-      "resumo": "Gone are the days of traveling just to stretch out on a sun lounger. Today, people want to experience everything a destination has to offer, from its unique way of life to its local delicacies. With over two thirds (68%)* of travelers saying they’d happily bring home stylish kitchenware or tasty pan",
-      "url": "https://news.booking.com/bookingcom-reveals-the-best-foodie-souvenir-destinations-around-the-world/",
-      "fonte": "Booking.com Newsroom",
-      "fonte_url": "https://news.booking.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-04-15T14:24:00Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
-    },
-    {
-      "id": "484b27652004",
-      "titulo": "Hotel Burj Al Arab, em Dubai, conhecido como único 7 estrelas do mundo, fechará para reforma",
-      "resumo": "Fumaça é vista no céu de Dubai após prédio de luxo ser atingido e relatos de explosões O luxuoso hotel Burj Al Arab, em Dubai, fechará durante uma grande reforma de 18 meses, confirmou um funcionário à agência de notícias Reuters nesta quarta-feira (15). A reforma foi anunciada pela empresa propriet",
-      "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/04/15/hotel-burj-al-arab-dubai-unico-7-estrelas-do-mundo-fechara-para-reforma.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-04-15T12:27:37Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "6778115a445f",
-      "titulo": "Michelin que cabe no bolso: veja os novos restaurantes mais acessíveis do guia no Brasil",
-      "resumo": "Restaurante Koral, em Ipanema, é um dos novos nomes na lista Bib Gourmand do Guia Michelin Reprodução/Instagram Koral Na última segunda-feira (13), o Guia Michelin anunciou os novos restaurantes premiados no Brasil. Ao todo, o país passa a ter 35 casas estreladas — mas nem sempre os preços agradam a",
-      "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/04/15/michelin-que-cabe-no-bolso-veja-os-novos-restaurantes-mais-acessiveis-do-guia-no-brasil.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-04-15T07:01:32Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "9523151ca634",
-      "titulo": "Por que cada vez mais turistas estão evitando os EUA",
-      "resumo": "Cidadãos brasileiros que pretendem fazer turismo nos EUA têm enfrentado obstáculos para conseguir o visto Recentemente, viajantes vivenciaram tempos de espera de até quatro horas em aeroportos americanos — os mais longos dos 24 anos de história da Administração de Segurança do Transporte dos Estados",
-      "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/04/15/por-que-cada-vez-mais-turistas-estao-evitando-os-eua.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-04-15T06:00:56Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "925cf9e049d1",
-      "titulo": "Pizzaria de SP é eleita a melhor da América Latina pelo 3º ano seguido; capital tem mais duas no top 10",
-      "resumo": "Como é comer na terceira melhor pizzaria do mundo em São Paulo? A Leggera Pizza Napoletana, de São Paulo, foi eleita a melhor pizzaria da América Latina pelo terceiro ano consecutivo no ranking “50 Top Pizza Latin America 2026”, divulgado nesta terça-feira (14) no Rio de Janeiro. A pizzaria inauguro",
-      "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/04/14/pizzaria-de-sp-e-eleita-a-melhor-da-america-latina-pelo-3o-ano-seguido-capital-tem-mais-duas-no-top-10.ghtml",
-      "fonte": "G1 Turismo",
-      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-04-14T23:26:30Z",
-      "data_coleta": "2026-06-12T17:49:03Z"
-    },
-    {
-      "id": "855bf218ba9c",
-      "titulo": "Exploring Easter Traditions Around the World",
-      "resumo": "Easter falls on Sunday, 5 April this year, and beyond its religious significance is a time where many countries around the world mark public holidays and seasonal celebrations, acting as a time that brings communities together in diverse and meaningful ways. As 35%* of travelers now plan trips aroun",
-      "url": "https://news.booking.com/exploring-easter-traditions-around-the-world/",
-      "fonte": "Booking.com Newsroom",
-      "fonte_url": "https://news.booking.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-04-02T23:00:00Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
-    },
-    {
-      "id": "9877d1fb1605",
-      "titulo": "Set Course for a Taste of Sydney with Peter Gilmore on Booking.com’s Seafood Sail",
-      "resumo": "Ahead of Easter, Booking.com is inviting travellers to trade crowds for calm seas with the Booking.com Seafood Sail . The exclusive two-night stay gives bookers VIP access to the bustling new Sydney Fish Market, to then enjoy a seafood feast aboard a classic yacht on Sydney Harbour, led by Australia",
-      "url": "https://news.booking.com/set-course-for-a-taste-of-sydney-with-peter-gilmore-on-bookingcoms-seafood-sail/",
-      "fonte": "Booking.com Newsroom",
-      "fonte_url": "https://news.booking.com",
-      "tags": [
-        "Novidades no Setor"
-      ],
-      "categoria": "Novidades no Setor",
-      "data": "2026-03-23T23:00:00Z",
-      "data_coleta": "2026-06-12T17:49:02Z"
+      "data_coleta": "2026-06-12T18:13:55Z"
     }
   ],
-  "ultima_atualizacao": "2026-06-12T17:49:09Z",
-  "total": 169
+  "ultima_atualizacao": "2026-06-12T18:14:19Z",
+  "total": 80
 }
