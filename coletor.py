@@ -88,6 +88,42 @@ def limpar_html(texto, max_chars=300):
     if "<" in texto: texto = BeautifulSoup(texto,"html.parser").get_text(separator=" ")
     return " ".join(texto.split())[:max_chars].strip()
 
+def extrair_imagem(entry):
+    """Tenta extrair URL de imagem do RSS entry (media, enclosure ou img no summary)."""
+    try:
+        # 1. media:thumbnail
+        mt = getattr(entry, "media_thumbnail", None)
+        if mt and isinstance(mt, list):
+            url = mt[0].get("url", "")
+            if url.startswith("http"): return url
+        # 2. media:content
+        mc = getattr(entry, "media_content", None)
+        if mc and isinstance(mc, list):
+            for m in mc:
+                url = m.get("url", "")
+                medium = m.get("medium", "")
+                if url.startswith("http") and ("image" in medium or
+                   any(url.lower().endswith(ext) for ext in (".jpg",".jpeg",".png",".webp"))):
+                    return url
+        # 3. enclosures
+        for enc in getattr(entry, "enclosures", []):
+            if "image" in enc.get("type", ""):
+                url = enc.get("href", enc.get("url", ""))
+                if url.startswith("http"): return url
+        # 4. img tag no summary/content
+        html = entry.get("summary", "")
+        if not html and entry.get("content"):
+            html = entry["content"][0].get("value", "")
+        if "<img" in html:
+            soup = BeautifulSoup(html, "html.parser")
+            img = soup.find("img")
+            if img:
+                url = img.get("src", img.get("data-src", ""))
+                if url and url.startswith("http"): return url
+    except Exception:
+        pass
+    return None
+
 def coletar_rss(fonte, categorias, concorrentes, termos_relevancia, max_n, max_tags):
     noticias = []
     if not fonte.get("rss"): return noticias
@@ -121,9 +157,11 @@ def coletar_rss(fonte, categorias, concorrentes, termos_relevancia, max_n, max_t
                 descartadas_categoria += 1
                 continue
 
+            imagem = extrair_imagem(entry)
             noticias.append({"id":gerar_id(url),"titulo":titulo,"resumo":resumo,"url":url,
-                "fonte":fonte["nome"],"fonte_url":fonte["url"],"tags":tags,"categoria":tags[0],
-                "data":data,"data_coleta":datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")})
+                "imagem":imagem,"fonte":fonte["nome"],"fonte_url":fonte["url"],"tags":tags,
+                "categoria":tags[0],"data":data,
+                "data_coleta":datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")})
     except Exception as e: print(f"    aviso: {e}")
 
     partes = [f"{len(noticias)} aceitas"]
