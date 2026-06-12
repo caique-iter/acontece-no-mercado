@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Coletor de Notícias — Acontece no Mercado
-Busca notícias via RSS das fontes configuradas, categoriza e atualiza o histórico.
+Busca notícias via RSS, aplica múltiplas tags por notícia e publica no GitHub Pages.
 """
 
 import json
@@ -9,20 +9,25 @@ import hashlib
 import os
 import subprocess
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
+
+# ── Instalar dependências se necessário ───────────────────────────────────────
+def pip_install(*pkgs):
+    subprocess.check_call([sys.executable, "-m", "pip", "install", *pkgs,
+                           "-q", "--break-system-packages"])
 
 try:
     import feedparser
 except ImportError:
-    subprocess.check_call([sys.executable, "-m", "pip", "install", "feedparser", "-q"])
+    pip_install("feedparser")
     import feedparser
 
 try:
     import requests
     from bs4 import BeautifulSoup
 except ImportError:
-    subprocess.check_call([sys.executable, "-m", "pip", "install", "requests", "beautifulsoup4", "-q"])
+    pip_install("requests", "beautifulsoup4")
     import requests
     from bs4 import BeautifulSoup
 
@@ -31,12 +36,11 @@ BASE_DIR = Path(__file__).parent
 CONFIG_PATH = BASE_DIR / "config.json"
 DATA_PATH = BASE_DIR / "data" / "noticias.json"
 
-# ── Carregar configuração ─────────────────────────────────────────────────────
+# ── Carregar / salvar ─────────────────────────────────────────────────────────
 def carregar_config():
     with open(CONFIG_PATH, encoding="utf-8") as f:
         return json.load(f)
 
-# ── Carregar/salvar dados ─────────────────────────────────────────────────────
 def carregar_dados():
     if DATA_PATH.exists():
         with open(DATA_PATH, encoding="utf-8") as f:
@@ -48,45 +52,71 @@ def salvar_dados(dados):
     with open(DATA_PATH, "w", encoding="utf-8") as f:
         json.dump(dados, f, ensure_ascii=False, indent=2)
 
-# ── Gerar ID único por URL ────────────────────────────────────────────────────
-def gerar_id(url):
+# ── ID único por URL ──────────────────────────────────────────────────────────
+def gerar_id(url: str) -> str:
     return hashlib.md5(url.encode()).hexdigest()[:12]
 
-# ── Categorizar notícia ───────────────────────────────────────────────────────
-def categorizar(titulo, resumo, categorias):
+# ── Verificar menção a concorrente ────────────────────────────────────────────
+def detectar_concorrente(texto: str, concorrentes: dict) -> bool:
+    t = texto.lower()
+    todos = concorrentes.get("rj", []) + concorrentes.get("rs", [])
+    return any(c.lower() in t for c in todos)
+
+# ── Multi-tag: retorna lista de todas as categorias aplicáveis ────────────────
+def taguear(titulo: str, resumo: str, categorias: list, concorrentes: dict) -> list[str]:
     texto = (titulo + " " + resumo).lower()
+    tags = []
+
+    # Detectar concorrentes primeiro (prioridade)
+    if detectar_concorrente(texto, concorrentes):
+        tags.append("Concorrentes")
+
     for cat in categorias:
-        for palavra in cat["palavras_chave"]:
+        if cat["nome"] == "Concorrentes":
+            continue  # já tratado acima
+        for palavra in cat.get("palavras_chave", []):
             if palavra.lower() in texto:
-                return cat["nome"]
-    return "Geral"
+                if cat["nome"] not in tags:
+                    tags.append(cat["nome"])
+                break  # uma palavra já basta para essa categoria
+
+    # Categoria padrão se nenhuma bateu
+    if not tags:
+        tags = ["Novidades no Setor"]
+
+    return tags
+
+# ── Limpar HTML de resumo ─────────────────────────────────────────────────────
+def limpar_html(texto: str, max_chars: int = 300) -> str:
+    if "<" in texto:
+        texto = BeautifulSoup(texto, "html.parser").get_text(separator=" ")
+    return " ".join(texto.split())[:max_chars].strip()
 
 # ── Coletar via RSS ───────────────────────────────────────────────────────────
-def coletar_rss(fonte, categorias, max_noticias):
+def coletar_rss(fonte: dict, categorias: list, concorrentes: dict, max_n: int) -> list:
     noticias = []
     if not fonte.get("rss"):
         return noticias
 
-    print(f"  → Coletando RSS: {fonte['nome']}")
+    print(f"  → {fonte['nome']}")
     try:
         feed = feedparser.parse(fonte["rss"])
-        for entry in feed.entries[:max_noticias]:
+        for entry in feed.entries[:max_n]:
             titulo = entry.get("title", "").strip()
             url = entry.get("link", "").strip()
-            resumo = entry.get("summary", entry.get("description", "")).strip()
-            # Limpar HTML do resumo
-            if "<" in resumo:
-                resumo = BeautifulSoup(resumo, "html.parser").get_text()
-            resumo = resumo[:300].strip()
+            if not titulo or not url:
+                continue
 
-            pub_date = entry.get("published_parsed") or entry.get("updated_parsed")
-            if pub_date:
-                data = datetime(*pub_date[:6], tzinfo=timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+            resumo_raw = entry.get("summary", entry.get("description", ""))
+            resumo = limpar_html(resumo_raw)
+
+            pub = entry.get("published_parsed") or entry.get("updated_parsed")
+            if pub:
+                data = datetime(*pub[:6], tzinfo=timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
             else:
                 data = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
-            if not titulo or not url:
-                continue
+            tags = taguear(titulo, resumo, categorias, concorrentes)
 
             noticias.append({
                 "id": gerar_id(url),
@@ -95,32 +125,39 @@ def coletar_rss(fonte, categorias, max_noticias):
                 "url": url,
                 "fonte": fonte["nome"],
                 "fonte_url": fonte["url"],
-                "categoria": categorizar(titulo, resumo, categorias),
+                "tags": tags,
+                "categoria": tags[0],           # tag primária para compatibilidade
                 "data": data,
                 "data_coleta": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
             })
     except Exception as e:
-        print(f"    ⚠ Erro ao coletar {fonte['nome']}: {e}")
+        print(f"    ⚠ Erro: {e}")
+        return noticias
 
-    print(f"    ✓ {len(noticias)} notícias coletadas")
+    print(f"    ✓ {len(noticias)} notícias")
     return noticias
 
-# ── Deduplicar e mesclar ──────────────────────────────────────────────────────
-def mesclar(existentes, novas, dias_historico):
-    ids_existentes = {n["id"] for n in existentes}
+# ── Mesclar sem duplicatas + limpar histórico ─────────────────────────────────
+def mesclar(existentes: list, novas: list, dias_historico: int) -> tuple[list, int]:
+    ids = {n["id"] for n in existentes}
     adicionadas = 0
 
-    for noticia in novas:
-        if noticia["id"] not in ids_existentes:
-            existentes.append(noticia)
-            ids_existentes.add(noticia["id"])
+    for n in novas:
+        if n["id"] not in ids:
+            # Retrocompatibilidade: garantir campo tags em registros antigos
+            if "tags" not in n:
+                n["tags"] = [n.get("categoria", "Novidades no Setor")]
+            existentes.append(n)
+            ids.add(n["id"])
             adicionadas += 1
 
-    # Ordenar por data decrescente
+    # Garantir campo tags em registros existentes mais antigos
+    for n in existentes:
+        if "tags" not in n:
+            n["tags"] = [n.get("categoria", "Novidades no Setor")]
+
     existentes.sort(key=lambda n: n["data"], reverse=True)
 
-    # Manter apenas os últimos N dias
-    from datetime import timedelta
     corte = datetime.now(timezone.utc) - timedelta(days=dias_historico)
     existentes = [
         n for n in existentes
@@ -129,8 +166,8 @@ def mesclar(existentes, novas, dias_historico):
 
     return existentes, adicionadas
 
-# ── Git: commit e push ────────────────────────────────────────────────────────
-def git_push(token, usuario, repositorio):
+# ── Git push ──────────────────────────────────────────────────────────────────
+def git_push(token: str, usuario: str, repositorio: str):
     repo_url = f"https://{usuario}:{token}@github.com/{usuario}/{repositorio}.git"
     hoje = datetime.now().strftime("%Y-%m-%d")
 
@@ -139,56 +176,15 @@ def git_push(token, usuario, repositorio):
         ["git", "config", "user.name", "Coletor Automático"],
         ["git", "add", "data/noticias.json"],
         ["git", "commit", "-m", f"Coleta automática: {hoje}"],
-        ["git", "push", repo_url, "HEAD:main"]
+        ["git", "push", repo_url, "HEAD:main"],
     ]
 
     for cmd in cmds:
         result = subprocess.run(cmd, cwd=BASE_DIR, capture_output=True, text=True)
-        if result.returncode != 0 and "nothing to commit" not in result.stdout + result.stderr:
-            print(f"  ⚠ Git: {' '.join(cmd[:2])} → {result.stderr.strip()}")
+        stderr = result.stderr.strip()
+        if result.returncode != 0 and "nothing to commit" not in (result.stdout + stderr):
+            print(f"  ⚠ git {cmd[1]}: {stderr}")
             if cmd[1] == "push":
-                raise RuntimeError(f"Falha no push: {result.stderr}")
+                raise RuntimeError(f"Push falhou: {stderr}")
 
-# ── Main ──────────────────────────────────────────────────────────────────────
-def main():
-    token = os.environ.get("GITHUB_TOKEN", "")
-    if not token:
-        print("⚠ GITHUB_TOKEN não definido. O push será pulado.")
-
-    print("=" * 50)
-    print(f"Acontece no Mercado — Coleta {datetime.now().strftime('%Y-%m-%d %H:%M')}")
-    print("=" * 50)
-
-    config = carregar_config()
-    dados = carregar_dados()
-    categorias = config["categorias"]
-    cfg = config["configuracoes"]
-
-    fontes_ativas = [f for f in config["fontes"] if f.get("ativo", True)]
-    print(f"\n📡 Fontes ativas: {len(fontes_ativas)}")
-
-    todas_novas = []
-    for fonte in fontes_ativas:
-        novas = coletar_rss(fonte, categorias, cfg["max_noticias_por_coleta"])
-        todas_novas.extend(novas)
-
-    noticias_atualizadas, adicionadas = mesclar(
-        dados["noticias"], todas_novas, cfg["dias_historico"]
-    )
-
-    dados["noticias"] = noticias_atualizadas
-    dados["ultima_atualizacao"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-    dados["total"] = len(noticias_atualizadas)
-
-    salvar_dados(dados)
-    print(f"\n✅ {adicionadas} notícias novas | {dados['total']} no histórico total")
-
-    if token:
-        print("\n📤 Enviando para GitHub...")
-        git_push(token, cfg["github_usuario"], cfg["github_repositorio"])
-        print("✅ Push concluído!")
-
-    print("=" * 50)
-
-if __name__ == "__main__":
-    main()
+# ── Resumo por categoria ─────────────────────────────────
