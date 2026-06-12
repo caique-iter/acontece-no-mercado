@@ -1,10 +1,71 @@
 {
   "noticias": [
     {
+      "id": "d26fd692b738",
+      "titulo": "Panini lança atualização do álbum da Copa com figurinha de Neymar; confira o valor",
+      "resumo": "Neymar está entre os jogadores incluídos no novo produto da Panini, criado para atualizar o álbum oficial da Copa do Mundo",
+      "url": "https://www.abcmais.com/esportes/panini-lanca-atualizacao-do-album-da-copa-com-figurinha-de-neymar-confira-o-valor/",
+      "imagem": null,
+      "fonte": "ABC Mais",
+      "fonte_url": "https://www.abcmais.com",
+      "tags": [
+        "Shows & Eventos"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-12T18:27:51Z",
+      "data_coleta": "2026-06-12T18:41:13Z"
+    },
+    {
+      "id": "31fa25be44d8",
+      "titulo": "Estreia do Brasil contra Marrocos está entre os jogos mais procurados da Copa do Mundo; confira",
+      "resumo": "Confronto deste sábado deve levar mais de 75 mil torcedores ao MetLife Stadium e lidera venda de ingressos para camarotes no Mundial",
+      "url": "https://www.abcmais.com/esportes/estreia-do-brasil-contra-marrocos-esta-entre-os-jogos-mais-procurados-da-copa-do-mundo/",
+      "imagem": null,
+      "fonte": "ABC Mais",
+      "fonte_url": "https://www.abcmais.com",
+      "tags": [
+        "Shows & Eventos"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-12T18:20:33Z",
+      "data_coleta": "2026-06-12T18:41:13Z"
+    },
+    {
+      "id": "a2d920389c72",
+      "titulo": "Copacabana e Botafogo ganham arena gastronômica para assistir a Copa do Mundo",
+      "resumo": "Arena Caju terá transmissão dos jogos, telão e combos inspirados em diferentes seleções",
+      "url": "https://diariodorio.com/copacabana-e-botafogo-ganham-arena-gastronomica-para-assistir-a-copa-do-mundo/",
+      "imagem": "https://diariodorio.com/wp-content/uploads/2026/06/Caju-Gastrobar-Foto-Bruno-de-Lima-076-scaled.jpg",
+      "fonte": "Diario do Rio",
+      "fonte_url": "https://diariodorio.com",
+      "tags": [
+        "Shows & Eventos"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-12T18:15:37Z",
+      "data_coleta": "2026-06-12T18:41:14Z"
+    },
+    {
+      "id": "f34b6ab6c6de",
+      "titulo": "Canadá recebe 2ª abertura da Copa, correta e sem muita empolgação",
+      "resumo": "Com todo o gramado coberto por um tapete vermelho, decorado com uma imensa bola dourada no meio, o Estádio de Toronto recebeu a segunda cerimônia de abertura da Copa do Mundo de 2026 . Leia mais (06/12/2026 - 15h15)",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/canada-recebe-2a-abertura-da-copa-correta-e-sem-muita-empolgacao.shtml",
+      "imagem": null,
+      "fonte": "Folha de Sao Paulo",
+      "fonte_url": "https://www.folha.uol.com.br",
+      "tags": [
+        "Shows & Eventos"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-12T18:15:00Z",
+      "data_coleta": "2026-06-12T18:41:13Z"
+    },
+    {
       "id": "c5fe9e984942",
       "titulo": "Veja campanhas que unem Copa do Mundo e solidariedade",
       "resumo": "A Copa do Mundo de 2026 também inspirou iniciativas fora dos gramados. Organizações sociais estão aproveitando o clima do torneio para arrecadar recursos e doações por meio da venda de produtos temáticos e campanhas solidárias. As ações beneficiam projetos de combate à fome, apoio a pacientes com câ",
       "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/12/veja-campanhas-que-unem-copa-do-mundo-e-solidariedade.ghtml",
+      "imagem": "https://s2-g1.glbimg.com/MBZ5gTFKUpWdM9jCzlgB8WonYpg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/1/rglUQVSGO9KBQV4Pyk7g/imagem-cortada-63-.jpg",
       "fonte": "G1",
       "fonte_url": "https://g1.globo.com",
       "tags": [
@@ -12,13 +73,14 @@
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-06-12T18:01:09Z",
-      "data_coleta": "2026-06-12T18:14:12Z"
+      "data_coleta": "2026-06-12T18:41:13Z"
     },
     {
       "id": "ff29e4e794b0",
       "titulo": "Fã de Neymar, jovem mexicana conquista ingresso para Copa com habilidade no futebol",
       "resumo": "Fã de Neymar, jovem mexicana conquista ingresso para a Copa com habilidade no futebol A habilidade com a bola levou a jovem mexicana Yollet Cervantes a realizar um sonho improvável: assistir à abertura da Copa do Mundo 2026 direto de um espaço privilegiado. Moradora do estado de Veracruz, Yollet vir",
       "url": "https://g1.globo.com/jornal-hoje/noticia/2026/06/12/fa-de-neymar-jovem-mexicana-conquista-ingresso-para-copa-com-habilidade-no-futebol.ghtml",
+      "imagem": "https://s2-g1.glbimg.com/zV9bHY_8SPjv3GxKp8oHIeyh8Sc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/8/fJXcPtRKWkALKoB7tPsA/jovem-mexicana-2.jpg",
       "fonte": "G1",
       "fonte_url": "https://g1.globo.com",
       "tags": [
@@ -27,27 +89,14 @@
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-06-12T17:40:41Z",
-      "data_coleta": "2026-06-12T18:14:12Z"
-    },
-    {
-      "id": "26b667407118",
-      "titulo": "Shopping de Governador Valadares adota horário especial em dias de jogos do Brasil",
-      "resumo": "Shopping de Governador Valadares Arquivo/GV Shopping O shopping de Governador Valadares adotou horários especiais de funcionamento durante os jogos da Seleção Brasileira na primeira fase da Copa do Mundo. As mudanças irão ocorrer nos dias 13, 19 e 24 de junho, conforme programação divulgada. De acor",
-      "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/06/12/shopping-de-governador-valadares-adota-horario-especial-em-dias-de-jogos-do-brasil.ghtml",
-      "fonte": "G1",
-      "fonte_url": "https://g1.globo.com",
-      "tags": [
-        "Shows & Eventos"
-      ],
-      "categoria": "Shows & Eventos",
-      "data": "2026-06-12T17:20:04Z",
-      "data_coleta": "2026-06-12T18:14:12Z"
+      "data_coleta": "2026-06-12T18:41:13Z"
     },
     {
       "id": "3e966e94de4a",
       "titulo": "Arena Errejota terá transmissão dos jogos do Brasil com rodas de samba e pagode",
       "resumo": "Espaço no Shopping Metropolitano Barra prepara programação especial e gratuita para a primeira fase da Copa do Mundo de 2026",
       "url": "https://diariodorio.com/arena-errejota-tera-transmissao-dos-jogos-do-brasil-com-rodas-de-samba-e-pagode/",
+      "imagem": "https://diariodorio.com/wp-content/uploads/2026/06/samba.jpg",
       "fonte": "Diario do Rio",
       "fonte_url": "https://diariodorio.com",
       "tags": [
@@ -55,13 +104,14 @@
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-06-12T17:02:08Z",
-      "data_coleta": "2026-06-12T18:14:13Z"
+      "data_coleta": "2026-06-12T18:41:14Z"
     },
     {
       "id": "cb9ca7f92b8e",
       "titulo": "'A Copa não é para nós': os torcedores que desistiram após serem barrados ou ficarem sem visto para os países-sede",
       "resumo": "Quando a seleção de futebol do Iraque se classificou para a Copa do Mundo no fim de março, Abdulla Adnan comprou ingressos para os jogos de seu país contra Noruega e França, que serão disputados nas cidades americanas de Boston e Filadélfia neste mês. Leia mais (06/12/2026 - 14h01)",
       "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/esporte/2026/06/a-copa-nao-e-para-nos-os-torcedores-que-desistiram-apos-serem-barrados-ou-ficarem-sem-visto-para-os-paises-sede.shtml",
+      "imagem": null,
       "fonte": "Folha de Sao Paulo",
       "fonte_url": "https://www.folha.uol.com.br",
       "tags": [
@@ -70,27 +120,14 @@
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-06-12T17:01:00Z",
-      "data_coleta": "2026-06-12T18:14:12Z"
-    },
-    {
-      "id": "ab60d998e6a8",
-      "titulo": "Boqueirão Hotel Fazenda aposta em experiências ligadas à natureza e ao campo",
-      "resumo": "O Boqueirão Hotel Fazenda é uma das referências do turismo rural na hotelaria brasileira ao unir, há mais de três décadas, hospitalidade, produção agropecuária e experiências ligadas ao cotidiano do campo. O empreendimento opera desde 1990 em uma propriedade familiar datada do final do século XIX em",
-      "url": "https://g1.globo.com/sc/santa-catarina/festa-do-pinhao/especial-publicitario/boqueirao-hotel-fazenda/noticia/2026/06/12/boqueirao-hotel-fazenda-aposta-em-experiencias-ligadas-a-natureza-e-ao-campo.ghtml",
-      "fonte": "G1",
-      "fonte_url": "https://g1.globo.com",
-      "tags": [
-        "Atrativos Nacionais"
-      ],
-      "categoria": "Atrativos Nacionais",
-      "data": "2026-06-12T16:59:37Z",
-      "data_coleta": "2026-06-12T18:14:12Z"
+      "data_coleta": "2026-06-12T18:41:13Z"
     },
     {
       "id": "f931cda76ce7",
       "titulo": "Marco das Três Fronteiras ganhará mirante com revitalização do Espaço das Américas; fotos",
       "resumo": "Grupo Cataratas ganhou a concess&#227;o do espa&#231;o no ano passado o investir&#225; R$ 40 milh&#245;es no projeto",
       "url": "https://www.panrotas.com.br/destinos/entretenimento/2026/06/marco-das-tres-fronteiras-ganhara-mirante-com-revitalizacao-do-espaco-das-americas-fotos_229419.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/12/a7bd17cb3784217597bc7cc1bdab8a99-img3607.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -98,13 +135,14 @@
       ],
       "categoria": "Atrativos Nacionais",
       "data": "2026-06-12T14:01:00Z",
-      "data_coleta": "2026-06-12T18:13:52Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "88ac6559035f",
       "titulo": "Por que a economia faz desta Copa a mais 'louca' de todos os tempos",
       "resumo": "De guerras comerciais aos preços recordes dos ingressos, a Copa do Mundo de 2026 é diferente de qualquer edição anterior. Faisal Islam analisa o que este torneio revela sobre as transformações da economia global.",
       "url": "https://www.bbc.com/portuguese/articles/cy06977xj12o?at_medium=RSS&at_campaign=rss",
+      "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ed37/live/7c1f0a70-6672-11f1-bfb6-f5752cbbcf38.jpg",
       "fonte": "BBC Brasil",
       "fonte_url": "https://www.bbc.com/portuguese",
       "tags": [
@@ -112,13 +150,14 @@
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-06-12T13:48:53Z",
-      "data_coleta": "2026-06-12T18:14:13Z"
+      "data_coleta": "2026-06-12T18:41:14Z"
     },
     {
       "id": "7934bae9616e",
       "titulo": "Carga tributária do setor aéreo pode pular de R$ 4,8 bilhões para R$ 17,8 bilhões em 2027",
       "resumo": "Iata j&#225; prev&#234; queda de 30% da demanda caso a ind&#250;stria de avia&#231;&#227;o tenha de arcar com uma al&#237;quota maior",
       "url": "https://www.panrotas.com.br/aviacao/pesquisas-e-estatisticas/2026/06/carga-tributaria-do-setor-aereo-pode-pular-de-r-48-bilhoes-para-r-178-bilhoes-em-2027_229406.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2024/10/22/5eec637de6cb0b230c34a172a5239155-aenacgh00284.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -126,13 +165,14 @@
       ],
       "categoria": "Setor Aereo",
       "data": "2026-06-12T13:36:00Z",
-      "data_coleta": "2026-06-12T18:13:52Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "3249ff3144c5",
       "titulo": "CEO da United descarta grande fusão após negativa da American Airlines",
       "resumo": "Scott Kirby diz que empresa agora seguir&#225; atenta a oportunidades envolvendo slots, port&#245;es e outros ativos",
       "url": "https://www.panrotas.com.br/aviacao/empresas/2026/06/ceo-da-united-descarta-grande-fusao-apos-negativa-da-american-airlines_229394.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/05/13/a101fcc375b2fba934463b133ed61a72-max8.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -140,13 +180,14 @@
       ],
       "categoria": "Setor Aereo",
       "data": "2026-06-12T13:19:00Z",
-      "data_coleta": "2026-06-12T18:13:52Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "5ea6472b86c5",
       "titulo": "América Latina e Caribe movimentam quase 40 milhões de passageiros em abril",
       "resumo": "Segundo Alta, pre&#231;os das passagens a&#233;reas para o consumidor brasileiro aumentaram 23,2% no m&#234;s passado",
       "url": "https://www.panrotas.com.br/aviacao/empresas/2026/06/america-latina-e-caribe-movimentam-quase-40-milhoes-de-passageiros-em-abril_229416.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2024/08/02/2b23d4791f54f9fde7d81e4ad37009f1-gerrievanderwaltuoc3ldmsaiyunsplash.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -154,13 +195,14 @@
       ],
       "categoria": "Big Numbers",
       "data": "2026-06-12T12:41:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "331ab606e5a5",
       "titulo": "América Latina e Caribe avançam na intenção global de viagens para 2026; veja pesquisa",
       "resumo": "Dados da Data Appeal mostram alta da demanda internacional por destinos da regi&#227;o",
       "url": "https://www.panrotas.com.br/mercado/pesquisas-e-estatisticas/2026/06/america-latina-e-caribe-avancam-na-intencao-global-de-viagens-para-2026-veja-pesquisa_229396.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/04/22/930f31af62fd75b066b4a46974f10484-536565986914a2ff64320o.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -168,13 +210,14 @@
       ],
       "categoria": "Big Numbers",
       "data": "2026-06-12T12:16:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "417a66dbe6dd",
       "titulo": "Rogerio Mendes, ex-CVC, é o novo sócio da rede Sued's, de Porto Seguro (BA); saiba mais",
       "resumo": "No anivers&#225;rio de 25 anos do Sueds Plaza, rede tamb&#233;m anuncia plano de expans&#227;o nacional",
       "url": "https://www.panrotas.com.br/gente/movimentacao/2026/06/sueds-hotels-anuncia-rogerio-mendes-ex-cvc-como-novo-socio_229414.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/12/c93d584cdbec4a95b93426537dca23fd-dsc4258.jpg.jpeg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -184,13 +227,14 @@
       ],
       "categoria": "Novidades no Setor",
       "data": "2026-06-12T11:39:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "02112f295973",
       "titulo": "Governo cria Sistema Nacional de Trilhas para fortalecer o ecoturismo",
       "resumo": "Projeto re&#250;ne mais de 20 trilhas e foca em preservar as riquezas nacionais e criar oportunidades",
       "url": "https://www.panrotas.com.br/mercado/economia-e-politica/2026/06/governo-cria-sistema-nacional-de-trilhas-para-fortalecer-o-ecoturismo_229382.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/11/567c8bcd0328cf8485c23bf649d41329-whatsappimage20260611at10.31.20.jpeg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -199,13 +243,14 @@
       ],
       "categoria": "Atrativos Nacionais",
       "data": "2026-06-12T11:22:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "56607bff788c",
       "titulo": "Edge NYC inaugura sete instalações imersivas inspiradas em Nova York; conheça",
       "resumo": "Lan&#231;amentos ser&#227;o inaugurados no mirante do Hudson Yard e abrangem v&#225;rios n&#237;veis da experi&#234;ncia",
       "url": "https://www.panrotas.com.br/destinos/eventos/2026/06/edge-nyc-inaugura-sete-instalacoes-imersivas-inspiradas-em-nova-york-conheca_229389.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/11/c8f1b6f5d6d25a1b9710888fa61adc3e-edgenyckaleidoscope2courtesyofmomentfactoryforedgenyc.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -213,13 +258,14 @@
       ],
       "categoria": "Atrativos Internacionais",
       "data": "2026-06-12T11:01:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "80b6c800ab68",
       "titulo": "A escolha do hotel antes do destino, wellness e exclusividade: o olhar do luxo na LE Miami",
       "resumo": "Veja esses e outros apontamentos que consultores de viagens brasileiros captaram na feira da Fl&#243;rida",
       "url": "https://www.panrotas.com.br/viagens-de-luxo/agencias-de-viagens/2026/06/a-escolha-do-hotel-antes-do-destino-wellness-e-exclusividade-tendencias-da-le-miami-2026_229408.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/04/2a9b24e7dfb3b8b29ab6b839fda59e63-dsc0332.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -228,13 +274,14 @@
       ],
       "categoria": "Atrativos Internacionais",
       "data": "2026-06-12T11:00:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "4b1e092cddfc",
       "titulo": "Laghetto Canela é eleito um dos melhores hotéis do Brasil pelo TripAdvisor",
       "resumo": "A experiência de visitar a Serra Gaúcha vai muito além dos cartões-postais e passeios ao ar livre. Em Canela, o Laghetto Canela — integrante da Rede Laghetto Hotéis, Resorts &#38; Experiências — consolida-se como um verdadeiro destino self-contained, ideal para quem busca conforto, entretenimento, a",
       "url": "https://acontecegramado.com.br/laghetto-canela-e-eleito-um-dos-melhores-hoteis-do-brasil-pelo-tripadvisor/",
+      "imagem": null,
       "fonte": "Acontece Gramado",
       "fonte_url": "https://acontecegramado.com.br",
       "tags": [
@@ -243,13 +290,14 @@
       ],
       "categoria": "Setor Hoteleiro",
       "data": "2026-06-12T09:58:32Z",
-      "data_coleta": "2026-06-12T18:14:12Z"
+      "data_coleta": "2026-06-12T18:41:12Z"
     },
     {
       "id": "4f6c49893b2c",
       "titulo": "Mundo Criamigos entra no ranking de melhores hotéis para famílias do mundo",
       "resumo": "O Mundo Criamigos, localizado em Gramado (RS), acaba de conquistar um lugar de destaque no cenário do turismo internacional. O empreendimento, que se consolidou como o primeiro hotel totalmente voltado para crianças no Brasil, foi eleito o 16º melhor hotel para famílias do mundo pelo prêmio Tripadvi",
       "url": "https://acontecegramado.com.br/mundo-criamigos-entra-no-ranking-de-melhores-hoteis-para-familias-do-mundo/",
+      "imagem": null,
       "fonte": "Acontece Gramado",
       "fonte_url": "https://acontecegramado.com.br",
       "tags": [
@@ -257,13 +305,14 @@
       ],
       "categoria": "Setor Hoteleiro",
       "data": "2026-06-12T09:54:36Z",
-      "data_coleta": "2026-06-12T18:14:12Z"
+      "data_coleta": "2026-06-12T18:41:12Z"
     },
     {
       "id": "333d20371c35",
       "titulo": "Gate to American: veja fotos do evento da Ancoradouro em parceria com a American Airlines",
       "resumo": "Evento teve momentos de integra&#231;&#227;o, troca de experi&#234;ncias e apresenta&#231;&#227;o das novidades da companhia a&#233;rea",
       "url": "https://www.panrotas.com.br/mercado/consolidadoras/2026/06/gate-to-american-veja-fotos-do-evento-da-ancoradouro-em-parceria-com-a-american-airlines _229413.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/11/f88a1be99e0dbc03d299a7f16cfc7139-rem8714.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -271,13 +320,14 @@
       ],
       "categoria": "Setor Aereo",
       "data": "2026-06-12T02:00:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "351d2edecf73",
       "titulo": "Mercado em ebulição: Operadoras destacam importância de Foz e novidades na FIT Cataratas",
       "resumo": "Destino ganha relev&#226;ncia para operadoras, que registram crescimento nas ag&#234;ncias e nas viagens para Foz",
       "url": "https://www.panrotas.com.br/mercado/feiras/2026/06/mercado-em-ebulicao-operadoras-destacam-importancia-de-foz-e-novidades-na-fit-cataratas_229404.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/11/7677e69e12e5b50d25721c8c265abda0-whatsappimage20260611at6.51.19pm.jpeg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -286,13 +336,14 @@
       ],
       "categoria": "Novidades no Setor",
       "data": "2026-06-11T21:48:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "2d0296c6677f",
       "titulo": "Abreu destaca bloqueios e apresenta nova executiva para Norte do Paraná",
       "resumo": "Ana Paula Almeida est&#225; na empresa h&#225; quase tr&#234;s meses e se apresenta ao trade na FIT Cataratas",
       "url": "https://www.panrotas.com.br/gente/movimentacao/2026/06/abreu-destaca-bloqueios-e-apresenta-nova-executiva-para-oeste-do-parana_229411.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/11/bbcb41caa332a8b0ba54a0c903d73917-img3574.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -301,13 +352,14 @@
       ],
       "categoria": "Novidades no Setor",
       "data": "2026-06-11T21:29:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "d93ff659890d",
       "titulo": "Miami recebe 28,3 milhões de visitantes internacionais em 2025; Brasil é Top 2",
       "resumo": "Turismo representou cerca de 8% do Produto Interno Bruto (PIB) do Condado de Miami-Dade no ano passado",
       "url": "https://www.panrotas.com.br/mercado/destinos/2026/06/miami-recebe-283-milhoes-de-visitantes-internacionais-em-2025-brasil-e-top-2_229410.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2024/10/07/21f155dd4eaf10697579044870bebea1-pexelsantoniocuellar28259744366062.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -316,13 +368,14 @@
       ],
       "categoria": "Atrativos Internacionais",
       "data": "2026-06-11T21:28:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "db0987e86c06",
       "titulo": "Networking e negócios: veja fotos do trade reunido no 1º dia da FIT Cataratas 2026",
       "resumo": "Operadoras, destinos, hotelaria, atra&#231;&#245;es se encontram no Rafain Palace Hotel &amp; Convention para a feira",
       "url": "https://www.panrotas.com.br/mercado/feiras/2026/06/networking-e-negocios-veja-fotos-do-trade-reunido-no-1o-dia-da-fit-cataratas-2026_229405.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/11/52bcd0e5d5e022d0917d49a9f42c97f3-img3422.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -331,13 +384,14 @@
       ],
       "categoria": "Novidades no Setor",
       "data": "2026-06-11T21:27:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "e2f4ff1aef7f",
       "titulo": "Academia GTA treina mais de 1,5 mil agentes de viagens de todo o Brasil",
       "resumo": "Programa aprofundou o conhecimento do trade sobre coberturas, assist&#234;ncia e gest&#227;o de riscos nas viagens",
       "url": "https://www.panrotas.com.br/mercado/cartoes-de-assistencia/2026/06/academia-gta-treina-mais-de-15-mil-agentes-de-viagens-de-todo-o-brasil_229409.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/04/09/bd57bd2cd34007eec033a2fdf51980a0-rem1360.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -345,13 +399,14 @@
       ],
       "categoria": "Novidades no Setor",
       "data": "2026-06-11T21:21:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "57a9e4006f54",
       "titulo": "Agaxtur cria DMC na Europa para captar eventos e viagens corporativas ao Brasil",
       "resumo": "Empresa amplia atua&#231;&#227;o internacional e mira mercado europeu de incentivos, conven&#231;&#245;es e eventos",
       "url": "https://www.panrotas.com.br/mercado/operadoras/2026/06/agaxtur-cria-dmc-na-europa-para-captar-eventos-e-viagens-corporativas-ao-brasil_229407.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2021/10/20/503c5707910c7dfb4d53eeb0cc023025-dsc6863.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -359,13 +414,14 @@
       ],
       "categoria": "Novidades no Setor",
       "data": "2026-06-11T21:03:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "483452d030e5",
       "titulo": "Após revitalização, Valiant Lady, da Virgin Voyages, inicia temporada no Mediterrâneo",
       "resumo": "Navio est&#225; com dez espa&#231;os p&#250;blicos renovados e 20 novas atividades di&#225;rias",
       "url": "https://www.panrotas.com.br/mercado/cruzeiros/2026/06/apos-revitalizacao-valiant-lady-da-virgin-voyages-inicia-temporada-no-mediterraneo_229401.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2022/05/26/593feca67c89657d87e9dffd4a437c56-valiantladyvirginvoyages.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -373,13 +429,14 @@
       ],
       "categoria": "Temporada de Navios & Cruzeiros",
       "data": "2026-06-11T20:18:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "558dc757d816",
       "titulo": "Royal Caribbean recebe o Legend of the Seas e confirma estreia em julho; VÍDEO",
       "resumo": "Navio da Classe Icon far&#225; roteiros pelo Mediterr&#226;neo e Caribe a partir de 2026",
       "url": "https://www.panrotas.com.br/mercado/cruzeiros/2026/06/royal-caribbean-recebe-o-legend-of-the-seas-e-confirma-estreia-em-julho-video_229402.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/11/2b8b444102de5ea7fa21e8e0166d2b63-legendots542.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -387,13 +444,14 @@
       ],
       "categoria": "Temporada de Navios & Cruzeiros",
       "data": "2026-06-11T20:16:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "7c2c57a4d838",
       "titulo": "Quais são as melhores aéreas em experiência de passageiro em 2026? Brasileiras se destacam",
       "resumo": "Azul lidera na Am&#233;rica do Sul; avalia&#231;&#227;o re&#250;ne notas de passageiros de 600 companhias",
       "url": "https://www.panrotas.com.br/aviacao/empresas/2026/06/quais-sao-as-melhores-aereas-em-experiencia-de-passageiro-em-2026-brasileiras-se-destacam_229400.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2024/10/22/a1aee8d1d2aae64cf8aac74db335791b-aenacgh00279.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -401,13 +459,14 @@
       ],
       "categoria": "Setor Aereo",
       "data": "2026-06-11T19:49:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "db6eafe99444",
       "titulo": "Kissimmee apresenta programação especial para a Copa do Mundo Fifa 2026; confira",
       "resumo": "Destino re&#250;ne festivais, fan fests, watch parties, gastronomia tem&#225;tica e casas de f&#233;rias",
       "url": "https://www.panrotas.com.br/destinos/eventos/2026/06/kissimmee-apresenta-programacao-especial-para-a-copa-do-mundo-fifa-2026-confira_229398.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/11/24/7fe6a010ced421c781bcc84e5e860f83-dtminichpresidenteeceodoexperiencekissimmee.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -416,13 +475,14 @@
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-06-11T19:24:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "61631ba386e9",
       "titulo": "Famoso Festival de Sopas de São Paulo chega a Gramado e inicia operação no Dreams Motor Show",
       "resumo": "Uma das maiores tradições gastronômicas de São Paulo acaba de desembarcar na Serra Gaúcha. O famoso Festival de Sopas do Ceagesp, que esquenta as noites paulistanas há décadas, inicia sua operação em Gramado em uma parceria inédita com o Dreams Motor Show. O projeto traz para a região a icônica sopa",
       "url": "https://acontecegramado.com.br/famoso-festival-de-sopas-de-sao-paulo-chega-a-gramado-e-inicia-operacao-no-dreams-motor-show/",
+      "imagem": null,
       "fonte": "Acontece Gramado",
       "fonte_url": "https://acontecegramado.com.br",
       "tags": [
@@ -430,13 +490,14 @@
       ],
       "categoria": "Atrativos Nacionais",
       "data": "2026-06-11T19:17:07Z",
-      "data_coleta": "2026-06-12T18:14:12Z"
+      "data_coleta": "2026-06-12T18:41:12Z"
     },
     {
       "id": "94c56ffe7446",
       "titulo": "Kontrip anuncia Peterson Prado, ex-Avipam e Onfly, como sócio e CEO",
       "resumo": "Travel tech espera chegar a R$ 300 milh&#245;es em reservas at&#233; 2028 e tem 100 colaboradores",
       "url": "https://www.panrotas.com.br/gente/movimentacao/2026/06/kontrip-anuncia-peterson-prado-ex-avipam-e-onfly-como-socio-e-ceo_229399.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/11/2453295d811477508ab55ee01cd31d9f-rem8569.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -444,13 +505,14 @@
       ],
       "categoria": "Novidades no Setor",
       "data": "2026-06-11T18:46:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "d2644583c3cb",
       "titulo": "Gramado e UFRGS oferece minicurso gratuito de inglês voltado para profissionais do turismo",
       "resumo": "Com o objetivo de elevar o patamar do atendimento aos visitantes internacionais, a Universidade Federal do Rio Grande do Sul (UFRGS), em parceria com a Secretaria Municipal de Turismo de Gramado, promove no próximo dia 20 de junho o minicurso Inglês para Turismo. A ação de extensão é direcionada a p",
       "url": "https://acontecegramado.com.br/gramado-e-ufrgs-oferece-minicurso-gratuito-de-ingles-voltado-para-profissionais-do-turismo/",
+      "imagem": null,
       "fonte": "Acontece Gramado",
       "fonte_url": "https://acontecegramado.com.br",
       "tags": [
@@ -458,13 +520,14 @@
       ],
       "categoria": "Atrativos Internacionais",
       "data": "2026-06-11T18:28:05Z",
-      "data_coleta": "2026-06-12T18:14:12Z"
+      "data_coleta": "2026-06-12T18:41:12Z"
     },
     {
       "id": "a25eb2bb4f6d",
       "titulo": "Foz do Iguaçu se projeta ao mundo com campanha inédita em parceria com Embratur e Beautiful Destin",
       "resumo": "O post Foz do Iguaçu se projeta ao mundo com campanha inédita em parceria com Embratur e Beautiful Destin apareceu primeiro em Embratur .",
       "url": "https://embratur.com.br/2026/06/11/foz-do-iguacu-se-projeta-ao-mundo-com-campanha-inedita-em-parceria-com-embratur-e-beautiful-destin/",
+      "imagem": null,
       "fonte": "Embratur",
       "fonte_url": "https://embratur.com.br",
       "tags": [
@@ -472,13 +535,14 @@
       ],
       "categoria": "Atrativos Nacionais",
       "data": "2026-06-11T17:57:18Z",
-      "data_coleta": "2026-06-12T18:13:55Z"
+      "data_coleta": "2026-06-12T18:41:09Z"
     },
     {
       "id": "8e06a07a3ce8",
       "titulo": "Turismo de Saint-Barth promove ações no Brasil para expandir presença no mercado nacional",
       "resumo": "Diretor da entidade, Narcisse Dupr&#233;-Paule, est&#225; no Pa&#237;s para apresentar cultura e hist&#243;ria locais",
       "url": "https://www.panrotas.com.br/viagens-de-luxo/destinos/2026/06/turismo-de-saint-barth-promove-acoes-no-brasil-para-expandir-presenca-no-mercado-nacional_229395.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/11/910f63f5716abd9f16e79de1240aa023-and7096.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -486,13 +550,14 @@
       ],
       "categoria": "Atrativos Internacionais",
       "data": "2026-06-11T17:55:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "caa43bfb52c6",
       "titulo": "Origens 2026, da Avant Garde, será no México e debaterá papel humano no futuro das viagens",
       "resumo": "Evento ocorre em agosto e reunir&#225; DMCs, hot&#233;is, parceiros da ind&#250;stria e buyers da Am&#233;rica Latina",
       "url": "https://www.panrotas.com.br/viagens-de-luxo/eventos/2026/06/origens-2026-da-avant-garde-sera-no-mexico-e-debatera-papel-humano-no-futuro-das-viagens_229393.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/11/c16b9e7ebfe9125222701b7559d53179-e68a5529.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -500,13 +565,14 @@
       ],
       "categoria": "Novidades no Setor",
       "data": "2026-06-11T17:27:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "8546a3935fbf",
       "titulo": "Labadee inaugura unidade em Ribeirão Preto (SP) e lança projeto sobre destinos",
       "resumo": "Ag&#234;ncia apresentou nova marca, parceria com a Perti Travel e s&#233;rie de encontros tem&#225;ticos",
       "url": "https://www.panrotas.com.br/viagens-de-luxo/agencias-de-viagens/2026/06/labadee-inaugura-unidade-em-ribeirao-preto-sp-e-lanca-projeto-sobre-destinos_229391.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/11/c60f4decbc6f262217f7cab316cc41d3-b3bffee124414d02b6a63ffaa5dddbc8.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -514,13 +580,14 @@
       ],
       "categoria": "Setor Hoteleiro",
       "data": "2026-06-11T17:00:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "d4e51d4c21fc",
       "titulo": "TBO cresce apesar de crises globais e eleva receita em 83% no trimestre",
       "resumo": "Plataforma de viagens registra GTV de US$ 1,09 bilh&#227;o e mant&#233;m expans&#227;o em todas as regi&#245;es",
       "url": "https://www.panrotas.com.br/mercado/operadoras/2026/06/tbo-cresce-apesar-de-crises-globais-e-eleva-receita-em-83-no-trimestre_229384.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/11/fe838b59a97b857650788506f535a33f-gauravbhatnagareankushnijhawanfundadoresdatbo6b.jpeg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -528,13 +595,14 @@
       ],
       "categoria": "Big Numbers",
       "data": "2026-06-11T16:31:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "362db02d42ea",
       "titulo": "Costa Cruzeiros lança novos conceitos de itinerários para o verão europeu de 2027",
       "resumo": "Companhia reformula a plataforma Sea &amp; Land Wonder e passa a organizar roteiros por experi&#234;ncias tem&#225;ticas",
       "url": "https://www.panrotas.com.br/mercado/cruzeiros/2026/06/costa-cruzeiros-lanca-novos-conceitos-de-itinerarios-para-o-verao-europeu-de-2027_229387.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/11/7a478ae71db83376a89568c14d615d73-unnamed20260611t115201.872.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -542,13 +610,14 @@
       ],
       "categoria": "Temporada de Navios & Cruzeiros",
       "data": "2026-06-11T16:06:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "e07602887808",
       "titulo": "FIT Cataratas aposta em inovação e lança app que premia agente mais engajado com iPhone",
       "resumo": "Para seguir entre os principais eventos do setor, feira tem apostado em unir diferentes pontas do Turismo",
       "url": "https://www.panrotas.com.br/mercado/feiras/2026/06/fit-cataratas-aposta-em-inovacao-e-lanca-app-que-premia-agente-mais-engajado-com-iphone_229390.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/11/9d60c687b1d17844bf9d65cf9b4c92b6-img3394.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -557,13 +626,14 @@
       ],
       "categoria": "Novidades no Setor",
       "data": "2026-06-11T15:39:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "af205d3a75e7",
       "titulo": "Tripadvisor revela os melhores hotéis de luxo do Brasil e mundo em 2026",
       "resumo": "Brasil coloca resort paulista entre os destaques mundiais de experi&#234;ncias de alto padr&#227;o neste ano",
       "url": "https://www.panrotas.com.br/viagens-de-luxo/hotelaria/2026/06/travellers-choice-revela-os-melhores-hoteis-de-luxo-do-brasil-e-mundo-em-2026-ranking_229388.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/11/5cdd292d62dc4d57d3f494fe1da51833-internamidiapremiacoes2900x474.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -571,13 +641,14 @@
       ],
       "categoria": "Setor Hoteleiro",
       "data": "2026-06-11T15:15:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "e3e84eae4c7a",
       "titulo": "Travellers' Choice: conheça os 25 melhores hotéis do Brasil em 2026",
       "resumo": "Cidade da Serra Ga&#250;cha ocupa as tr&#234;s primeiras posi&#231;&#245;es do ranking Travellers Choice 2026 do Tripadvisor",
       "url": "https://www.panrotas.com.br/hotelaria/mercado/2026/06/travellers-choice-conheca-os-25-melhores-hoteis-do-brasil-em-2026_229385.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/11/52e511bf80c7ff16044e503af38db912-default.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -585,13 +656,14 @@
       ],
       "categoria": "Setor Hoteleiro",
       "data": "2026-06-11T14:46:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "8e5afb351049",
       "titulo": "Nordeste supera 7,4 milhões de passageiros e bate recorde histórico em 2026",
       "resumo": "Movimenta&#231;&#227;o a&#233;rea cresceu 11,2% no primeiro quadrimestre de 2026; voos internacionais avan&#231;aram 32,8%",
       "url": "https://www.panrotas.com.br/aviacao/aeroportos/2026/06/nordeste-supera-74-milhoes-de-passageiros-e-bate-recorde-historico-em-2026_229370.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/10/24/e257def9267edcf9c23b64212ff1910f-unnamed20251024t124903.771.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -599,13 +671,14 @@
       ],
       "categoria": "Big Numbers",
       "data": "2026-06-11T14:19:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "df2538fb521a",
       "titulo": "Travellers' Choice: Brasil emplaca hotel entre os melhores do mundo de 2026",
       "resumo": "&#218;nico hotel brasileiro no ranking dos melhores do mundo &#233; Colline de France (RS); veja ranking completo",
       "url": "https://www.panrotas.com.br/hotelaria/mercado/2026/06/travellers-choice-brasil-emplaca-hotel-entre-os-melhores-do-mundo-de-2026_229383.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2023/05/31/178a8dbf8a4155270f4b014c884b293e-1fachada2.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -613,13 +686,14 @@
       ],
       "categoria": "Setor Hoteleiro",
       "data": "2026-06-11T13:56:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "a22c5a6d0cf3",
       "titulo": "WestJet adia estreia em Guarulhos e reduz temporada da rota para Calgary",
       "resumo": "Companhia cita combust&#237;vel caro e demanda abaixo do esperado como motivos para mudan&#231;a de planos",
       "url": "https://www.panrotas.com.br/aviacao/empresas/2026/06/westjet-adia-estreia-em-guarulhos-e-reduz-temporada-da-rota-para-calgary_229381.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/02/24/cc9337a4aadcad55b65b8adf5f0a7c32-unnamed17.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -627,13 +701,14 @@
       ],
       "categoria": "Setor Aereo",
       "data": "2026-06-11T13:29:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "f0cb5b487e6a",
       "titulo": "'A Copa não é para nós': os torcedores que desistiram após serem barrados ou ficarem sem visto para os países-sede",
       "resumo": "Torcedores de todo o mundo dizem que as proibições de viagens e os regulamentos de vistos dos EUA fazem com que se sintam excluídos da Copa do Mundo.",
       "url": "https://www.bbc.com/portuguese/articles/cly920e2x2no?at_medium=RSS&at_campaign=rss",
+      "imagem": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5caf/live/02106910-60d0-11f1-89a3-d1f559421220.jpg",
       "fonte": "BBC Brasil",
       "fonte_url": "https://www.bbc.com/portuguese",
       "tags": [
@@ -642,13 +717,14 @@
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-06-11T13:28:07Z",
-      "data_coleta": "2026-06-12T18:14:13Z"
+      "data_coleta": "2026-06-12T18:41:14Z"
     },
     {
       "id": "4dd8bbea84d2",
       "titulo": "Nordic Ways anuncia nova CEO e inicia nova fase de crescimento",
       "resumo": "H&#225; seis anos na empresa, Monique Garcia assume lideran&#231;a da DMC para fortalecer sua estrutura",
       "url": "https://www.panrotas.com.br/gente/movimentacao/2026/06/nordic-ways-anuncia-nova-ceo-e-inicia-nova-fase-de-crescimento_229380.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/11/9817dfc2647069a3a85687facddd064c-r51176.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -656,13 +732,14 @@
       ],
       "categoria": "Novidades no Setor",
       "data": "2026-06-11T13:14:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "ebd894bbef62",
       "titulo": "Setor aéreo está entre os que mais devem se beneficiar da Copa do Mundo 2026; veja ganhos",
       "resumo": "Companhias a&#233;reas podem registrar aproximadamente US$ 1 bilh&#227;o em receitas adicionais durante o per&#237;odo",
       "url": "https://www.panrotas.com.br/aviacao/pesquisas-e-estatisticas/2026/06/setor-aereo-esta-entre-os-que-mais-devem-se-beneficiar-da-copa-do-mundo-2026-veja-ganhos_229366.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/07/30/d7196e0699b0df7eecb3aee8eac2cd3a-reproducaofifa.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -672,13 +749,14 @@
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-06-11T12:58:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "1c3078d02619",
       "titulo": "Ocupação hoteleira do Rio de Janeiro bateu recorde durante show da Shakira",
       "resumo": "Hotelaria carioca registrou sua maior taxa de ocupa&#231;&#227;o para um m&#234;s de maio desde 2013",
       "url": "https://www.panrotas.com.br/hotelaria/eventos/2026/06/ocupacao-hoteleira-do-rio-de-janeiro-bateu-recorde-durante-show-da-shakira_229334.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/03/23/626d63c5267c33b20a0698a58b9f75e1-unnamed10.png",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -686,13 +764,14 @@
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-06-11T12:31:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "166deb2f16de",
       "titulo": "Gol vai operar voos no Terminal 8 do JFK, hub da American em Nova York",
       "resumo": "Decis&#227;o proporcionar&#225; conex&#245;es mais &#225;geis para nova rota entre Rio de Janeiro (GIG) a Nova York (JFK)",
       "url": "https://www.panrotas.com.br/aviacao/empresas/2026/06/gol-vai-operar-voos-no-terminal-8-do-jfk-hub-da-american-airlines-em-nova-york_229378.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/05/18/413d2cf7fe9145c429f2e9118cd0b633-unnamed.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -700,13 +779,14 @@
       ],
       "categoria": "Atrativos Internacionais",
       "data": "2026-06-11T12:04:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "96bbfa2ba638",
       "titulo": "Turismo de luxo impulsiona demanda por seguro viagem em 54%, aponta Omint",
       "resumo": "Prote&#231;&#227;o deixa de ser acess&#243;rio e passa a integrar a experi&#234;ncia premium; coberturas chegam a US$ 500 mil",
       "url": "https://www.panrotas.com.br/viagens-de-luxo/mercado/2026/06/turismo-de-luxo-impulsiona-demanda-por-seguro-viagem-em-54-aponta-omint_229342.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/01/13/14b1d9049f6bf3282b531acbbb1d2bbd-wangxirtrzvglvlqcunsplash.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -714,13 +794,14 @@
       ],
       "categoria": "Novidades no Setor",
       "data": "2026-06-11T11:38:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "55a40d73d86a",
       "titulo": "Copa do Mundo: veja cinco cuidados para fazer pagamentos no Exterior",
       "resumo": "Orienta&#231;&#245;es ajudam viajantes a usar cart&#245;es e pagamentos por aproxima&#231;&#227;o durante a viagem",
       "url": "https://www.panrotas.com.br/mercado/economia-e-politica/2026/06/copa-do-mundo-veja-cinco-cuidados-para-fazer-pagamentos-no-exterior_229376.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/05/25/af6d14ab0b9bb2ab6fc938d307c08233-towfiqubarbhuiyahnprwoh2z8uunsplash.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -728,13 +809,14 @@
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-06-11T11:21:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "35e0a8f1d933",
       "titulo": "Miami divulga calendário de eventos durante a Copa do Mundo 2026; veja programação",
       "resumo": "Destino oferecer&#225; watch parties, celebra&#231;&#245;es &#224; beira-mar, ativa&#231;&#245;es e mais",
       "url": "https://www.panrotas.com.br/destinos/eventos/2026/06/miami-divulga-calendario-de-eventos-durante-a-copa-do-mundo-2026-veja-programacao_229335.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/10/1ad8a3fd87947538e8e8d0188d9d13db-unnamed4.png",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -743,13 +825,14 @@
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-06-11T11:05:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "0ff35502d0bc",
       "titulo": "Los Cabos se consolida como um dos destinos favoritos para viagens em família no México",
       "resumo": "Com conectividade a&#233;rea mais acess&#237;vel a partir do Brasil, resort aposta no Turismo familiar",
       "url": "https://www.panrotas.com.br/hotelaria/mercado/2026/06/los-cabos-se-consolida-como-um-dos-destinos-favoritos-para-viagens-em-familia-no-mexico_229361.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/10/9fa6dd8bfbaead9da760763091fe9982-lyricpooldrone.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -757,13 +840,14 @@
       ],
       "categoria": "Atrativos Internacionais",
       "data": "2026-06-11T03:00:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "31d18f3c2b5b",
       "titulo": "Cape Town a 7 horas de São Paulo: como chegar e 72 horas na Cidade do Cabo",
       "resumo": "South African Airways e LATAM somam 10 voos semanais diretos entre Brasil e &#193;frica do Sul",
       "url": "https://www.panrotas.com.br/destinos/alternativo/2026/06/cape-town-a-7-horas-de-sao-paulo-como-chegar-e-72-horas-na-cidade-do-cabo_229360.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/10/db69ef58e66616e496a3dc0ca1761586-tablemountain.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -771,13 +855,14 @@
       ],
       "categoria": "Atrativos Internacionais",
       "data": "2026-06-11T03:00:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "54f0ad5f1912",
       "titulo": "Força do Turismo de Foz do Iguaçu é pauta da abertura da FIT Cataratas 2026",
       "resumo": "Autoridades destacaram o crescimento do Turismo na regi&#227;o e os atrativos que fazem o destino ser &#250;nico",
       "url": "https://www.panrotas.com.br/mercado/feiras/2026/06/fit-cataratas-tem-cerimonia-de-abertura-com-forca-de-foz-do-iguacu-em-pauta_229379.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/10/086988d379200b4561de08cb260aafdf-img3245.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -787,13 +872,14 @@
       ],
       "categoria": "Big Numbers",
       "data": "2026-06-11T00:51:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "8c154829f109",
       "titulo": "Cerimônia de abertura da FIT Cataratas reúne autoridades e trade turístico em Foz; fotos",
       "resumo": "Feira de Turismo ser&#225; realizada nesta quinta e sexta-feira, para dois dias de muitos neg&#243;cios e networking",
       "url": "https://www.panrotas.com.br/mercado/feiras/2026/06/cerimonia-de-abertura-da-fit-cataratas-reune-autoridades-e-trade-turistico-em-foz-fotos_229377.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/10/e2ebb0a5afa5ca502b6333f216511024-img3221.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -802,13 +888,14 @@
       ],
       "categoria": "Novidades no Setor",
       "data": "2026-06-11T00:34:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "a647a411f028",
       "titulo": "CCO da Air France-KLM fala de proposta na Tap, impactos com voos da Gol na Europa e mais",
       "resumo": "Veja a entrevista exclusiva de Adriaan den Heijer ao Portal PANROTAS em sua visita ao Brasil",
       "url": "https://www.panrotas.com.br/aviacao/empresas/2026/06/cco-da-air-france-klm-fala-de-proposta-na-tap-impactos-com-voos-da-gol-na-europa-e-mais_229371.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/10/a4aa00117b3811623941341fbae51cbb-dsc0637.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -816,13 +903,14 @@
       ],
       "categoria": "Setor Aereo",
       "data": "2026-06-10T22:13:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "d2d96a1486e8",
       "titulo": "Azul reduz 5% da operação após alta do combustível, afirma CEO",
       "resumo": "Companhia cortou rotas e frequ&#234;ncias; setor prev&#234; impacto na demanda a&#233;rea",
       "url": "https://www.panrotas.com.br/aviacao/empresas/2026/06/azul-reduz-5-da-operacao-apos-alta-do-combustivel-afirma-ceo_229373.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2023/06/19/1b1f78003079c38545be21055e1e5b2e-rem9765.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -830,13 +918,14 @@
       ],
       "categoria": "Setor Aereo",
       "data": "2026-06-10T21:18:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "893fea514776",
       "titulo": "Copa do Mundo: TSA promete inspeções rápidas, eficientes e seguras em aeroportos dos EUA",
       "resumo": "Ag&#234;ncia aposta em tecnologias de reconhecimento e promete agilizar experi&#234;ncia de milh&#245;es de torcedores",
       "url": "https://www.panrotas.com.br/aviacao/eventos/2026/06/copa-do-mundo-tsa-promete-inspecoes-rapidas-eficientes-e-seguras-em-aeroportos-dos-eua_229374.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/05/08/54c33d73e0517505de39e58f11877904-tsascreening.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -844,13 +933,14 @@
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-06-10T20:53:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "56c947cccb62",
       "titulo": "Diretores do Grupo Xcaret revelam novidades e destacam perfil do turista brasileiro",
       "resumo": "Lideran&#231;as do grupo deixam clara a aposta na retomada do mercado brasileiro ap&#243;s o visto eletr&#244;nico",
       "url": "https://www.panrotas.com.br/mercado/encontros/2026/06/diretores-do-grupo-xcaret-revelam-novidades-e-destacam-perfil-do-turista-brasileiro_229372.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/10/58adbd6cc6cbb558a9e10102da46435a-rem8481.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -858,13 +948,14 @@
       ],
       "categoria": "Atrativos Internacionais",
       "data": "2026-06-10T20:51:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "18b0085b69d8",
       "titulo": "Veja em fotos quem foi à Casa LIDE para discutir o futuro do Turismo no Brasil",
       "resumo": "Lideran&#231;as dos v&#225;rios setores da ind&#250;stria foram &#224; Faria Lima e elevaram o n&#237;vel do debate",
       "url": "https://www.panrotas.com.br/gente/eventos/2026/06/veja-em-fotos-quem-foi-a-casa-lide-para-discutir-o-futuro-do-turismo-no-brasil_229375.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/10/785af40de0f0f2009d0cb90b27be2c8c-rem8419.jpg",
       "fonte": "Panrotas",
       "fonte_url": "https://www.panrotas.com.br",
       "tags": [
@@ -873,13 +964,14 @@
       ],
       "categoria": "Novidades no Setor",
       "data": "2026-06-10T20:42:00Z",
-      "data_coleta": "2026-06-12T18:13:53Z"
+      "data_coleta": "2026-06-12T18:41:06Z"
     },
     {
       "id": "b6dab768c07f",
       "titulo": "Airbnb hosts offer guests the ultimate upgrade: Free tickets to FIFA World Cup 2026™",
       "resumo": "Select Airbnb homes across FIFA World Cup 2026™ host cities come with the ultimate perk: free tickets to a match, included with a stay. The post Airbnb hosts offer guests the ultimate upgrade: Free tickets to FIFA World Cup 2026™ appeared first on Airbnb Newsroom .",
       "url": "https://news.airbnb.com/free-fifa-tickets/",
+      "imagem": null,
       "fonte": "Airbnb Newsroom",
       "fonte_url": "https://news.airbnb.com",
       "tags": [
@@ -887,13 +979,14 @@
       ],
       "categoria": "Tecnologia & Inovacao",
       "data": "2026-06-10T13:00:00Z",
-      "data_coleta": "2026-06-12T18:13:55Z"
+      "data_coleta": "2026-06-12T18:41:09Z"
     },
     {
       "id": "3014b8b81046",
       "titulo": "EUA pedem que Europa imponha restrições de viagem relacionadas ao ebola antes da Copa do Mundo",
       "resumo": "Pessoas reagem enquanto funcionários da Cruz Vermelha caminham em formação desinfetando o hospital geral de Rwampara antes de manusearem o corpo de uma pessoa que morreu de Ebola, em meio aos esforços das agências humanitárias para conter um novo surto da cepa Bundibugyo, em Rwampara, nos arredores",
       "url": "https://g1.globo.com/mundo/noticia/2026/06/10/eua-pedem-que-europa-imponha-restricoes-de-viagem-relacionadas-ao-ebola-antes-da-copa-do-mundo.ghtml",
+      "imagem": "https://s2-g1.glbimg.com/k0qg4c-PYFr6Yqw5GzWhZDHTEgE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/q/mE2ZevTFAN0F9KUkRE0A/th6dqkphy5ozpifianlcjuycde.avif",
       "fonte": "G1 Turismo",
       "fonte_url": "https://g1.globo.com/turismo-e-viagem",
       "tags": [
@@ -901,13 +994,14 @@
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-06-10T11:17:49Z",
-      "data_coleta": "2026-06-12T18:13:55Z"
+      "data_coleta": "2026-06-12T18:41:08Z"
     },
     {
       "id": "b6c5ba698f92",
       "titulo": "Visto não garante entrada e beber na rua pode ser proibido: o que brasileiros precisam saber antes de ir à Copa",
       "resumo": "Imagem aérea do estádio Azteca, onde acontece a cerimônia de abertura da Copa do Mundo de 2026. AP/Fernando Llano/Arquivo A Copa do Mundo começa nesta quinta-feira (11), e os brasileiros que vão acompanhar os 40 dias de jogos nos Estados Unidos, no México e no Canadá devem ficar atentos a regras de",
       "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/06/10/regras-paises-copa.ghtml",
+      "imagem": "https://s2-g1.glbimg.com/pEZWPrPWMT8NNOXMWcPNHVD_QaA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/4/gdHP8DSdGxt7pDCLYBJA/ap26156713226787.jpg",
       "fonte": "G1 Turismo",
       "fonte_url": "https://g1.globo.com/turismo-e-viagem",
       "tags": [
@@ -915,13 +1009,14 @@
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-06-10T03:00:59Z",
-      "data_coleta": "2026-06-12T18:13:55Z"
+      "data_coleta": "2026-06-12T18:41:08Z"
     },
     {
       "id": "4b9b6641ee1e",
       "titulo": "Brasil recebe seis prêmios internacionais com iniciativas de turismo sustentável e de impacto social",
       "resumo": "O post Brasil recebe seis prêmios internacionais com iniciativas de turismo sustentável e de impacto social apareceu primeiro em Embratur .",
       "url": "https://embratur.com.br/2026/06/09/brasil-recebe-seis-premios-internacionais-com-iniciativas-de-turismo-sustentavel-e-de-impacto-social/",
+      "imagem": null,
       "fonte": "Embratur",
       "fonte_url": "https://embratur.com.br",
       "tags": [
@@ -929,13 +1024,14 @@
       ],
       "categoria": "Atrativos Nacionais",
       "data": "2026-06-09T18:23:32Z",
-      "data_coleta": "2026-06-12T18:13:55Z"
+      "data_coleta": "2026-06-12T18:41:09Z"
     },
     {
       "id": "982c6483d4e5",
       "titulo": "Cobertura de seguros da Copa do Mundo é afetada por complexidade geopolítica e transfronteiriça",
       "resumo": "Tudo o que você precisa saber sobre a Copa do Mundo de 2026, além dos jogos Com um número recorde de 48 seleções competindo e partidas disputadas em três países, a Copa do Mundo da Fifa de 2026 promete ser a maior da história do torneio. No entanto, um cenário geopolítico complexo complicou a contra",
       "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/06/09/cobertura-de-seguros-da-copa-do-mundo-e-afetada-por-complexidade-geopolitica-e-transfronteirica.ghtml",
+      "imagem": "https://s2-g1.glbimg.com/pEZWPrPWMT8NNOXMWcPNHVD_QaA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/4/gdHP8DSdGxt7pDCLYBJA/ap26156713226787.jpg",
       "fonte": "G1 Turismo",
       "fonte_url": "https://g1.globo.com/turismo-e-viagem",
       "tags": [
@@ -943,13 +1039,14 @@
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-06-09T14:55:18Z",
-      "data_coleta": "2026-06-12T18:13:55Z"
+      "data_coleta": "2026-06-12T18:41:08Z"
     },
     {
       "id": "0fe78c4ec322",
       "titulo": "Em contraponto aos EUA, México 'abre as portas' para a Copa do Mundo e à diversidade",
       "resumo": "Em contraponto aos EUA, México \"abre as portas\" para a Copa do Mundo Enquanto os Estados Unidos enfrentam críticas por restrições e dificuldades relatadas por visitantes que chegam ao país durante a Copa do Mundo, o México aposta em uma mensagem de acolhimento para turistas e torcedores. Com o sloga",
       "url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/06/09/sede-da-cerimonia-de-abertura-da-copa-do-mundo-mexico-abre-as-portas-aos-visitantes.ghtml",
+      "imagem": "https://s2-g1.glbimg.com/pEZWPrPWMT8NNOXMWcPNHVD_QaA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/4/gdHP8DSdGxt7pDCLYBJA/ap26156713226787.jpg",
       "fonte": "G1 Turismo",
       "fonte_url": "https://g1.globo.com/turismo-e-viagem",
       "tags": [
@@ -958,13 +1055,14 @@
       ],
       "categoria": "Novidades no Setor",
       "data": "2026-06-09T13:42:20Z",
-      "data_coleta": "2026-06-12T18:13:55Z"
+      "data_coleta": "2026-06-12T18:41:08Z"
     },
     {
       "id": "213acbe3c960",
       "titulo": "Como serão as viagens no avião criado para fazer a rota mais longa do mundo",
       "resumo": "Como foi 1º voo teste de avião que fará rota mais longa do mundo O avião que fará o voo sem paradas mais longo do mundo permitirá aos passageiros ver o nascer do Sol duas vezes e terá primeira classe com quarto privativo, cama e TV de 32 polegadas. Essa é a promessa da companhia aérea australiana Qa",
       "url": "https://g1.globo.com/inovacao/noticia/2026/06/06/como-serao-as-viagens-no-aviao-criado-para-fazer-a-rota-mais-longa-do-mundo.ghtml",
+      "imagem": "https://s2-g1.glbimg.com/HMSYjTlaxoXDvJSoibESYifTxtM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/J/40NSWHQxqAzV8B7zPuHg/first-flight-of-the-qantas-a350-1000ulr-msn-707.jpg",
       "fonte": "G1 Turismo",
       "fonte_url": "https://g1.globo.com/turismo-e-viagem",
       "tags": [
@@ -972,13 +1070,14 @@
       ],
       "categoria": "Setor Aereo",
       "data": "2026-06-06T07:01:48Z",
-      "data_coleta": "2026-06-12T18:13:55Z"
+      "data_coleta": "2026-06-12T18:41:08Z"
     },
     {
       "id": "9f241ce2b765",
       "titulo": "Pousada brasileira integra lista internacional de referências em turismo sustentável da revista Wanderlust",
       "resumo": "O post Pousada brasileira integra lista internacional de referências em turismo sustentável da revista Wanderlust apareceu primeiro em Embratur .",
       "url": "https://embratur.com.br/2026/06/02/pousada-brasileira-integra-lista-internacional-de-referencias-em-turismo-sustentavel-da-revista-wanderlust/",
+      "imagem": null,
       "fonte": "Embratur",
       "fonte_url": "https://embratur.com.br",
       "tags": [
@@ -986,13 +1085,14 @@
       ],
       "categoria": "Atrativos Nacionais",
       "data": "2026-06-02T20:21:04Z",
-      "data_coleta": "2026-06-12T18:13:55Z"
+      "data_coleta": "2026-06-12T18:41:09Z"
     },
     {
       "id": "534e00657189",
       "titulo": "Brasil já ganhou Copa do Mundo no México; veja como cidade do tri de Pelé se prepara para receber mais um Mundial",
       "resumo": "Cidade do México foi palco do tri de Pelé em 1970 Reprodução/TV Globo Daqui a duas semanas começa a maior Copa da história, com 48 seleções. Pela primeira vez, o torneio será realizado em três países. E o Globo Repórter escolheu como destino aquele que vai bater um recorde: o México será o primeiro",
       "url": "https://g1.globo.com/globo-reporter/noticia/2026/05/30/brasil-ja-ganhou-copa-do-mundo-no-mexico-veja-como-cidade-do-tri-de-pele-se-prepara-para-receber-mais-um-mundial.ghtml",
+      "imagem": "https://s2-g1.glbimg.com/_YglHuiOK_RU2gSQ87IgLIuEnjM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/N/XXo8tXRzmkoBA7rk2JQA/g0493666.copy.01-frame-9013.jpeg",
       "fonte": "G1 Turismo",
       "fonte_url": "https://g1.globo.com/turismo-e-viagem",
       "tags": [
@@ -1000,13 +1100,14 @@
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-05-30T20:16:25Z",
-      "data_coleta": "2026-06-12T18:13:55Z"
+      "data_coleta": "2026-06-12T18:41:08Z"
     },
     {
       "id": "20c6f5aedbb5",
       "titulo": "Robô viaja de avião como passageiro, vira alvo de nova regra e reclama de proibição: 'Conspiração'",
       "resumo": "Robô humanoide entra em avião da Southwest Airlines Reprodução/Rentbots Um robô humanoide embarcou como passageiro em um voo da Southwest Airlines nos Estados Unidos, virou alvo de uma nova restrição criada pela companhia aérea e ainda “reclamou” da proibição depois da viagem. \"Stewie\", como é chama",
       "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/05/28/robo-viaja-de-aviao-como-passageiro-vira-alvo-de-nova-regra-e-reclama-de-proibicao-conspiracao.ghtml",
+      "imagem": "https://s2-g1.glbimg.com/OSZRLowGNL0cYlPvZBsTOL-2nfs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/I/BvY1wCQ1iMOYgAA2AY7g/9b763711-9401-486f-9bc2-e96ad71baf38.jpg",
       "fonte": "G1 Turismo",
       "fonte_url": "https://g1.globo.com/turismo-e-viagem",
       "tags": [
@@ -1014,13 +1115,14 @@
       ],
       "categoria": "Setor Aereo",
       "data": "2026-05-28T19:54:48Z",
-      "data_coleta": "2026-06-12T18:13:55Z"
+      "data_coleta": "2026-06-12T18:41:08Z"
     },
     {
       "id": "96043fc5b4bc",
       "titulo": "Copa do Mundo: EUA, México e Canadá anunciam medidas de viagem para conter risco de contágio pelo Ebola",
       "resumo": "Surto de ebola preocupa o mundo Os Estados Unidos, o México e o Canadá anunciaram nesta quinta-feira (28), em um comunicado conjunto, medidas de saúde pública para viagens direcionadas a pessoas vindas de regiões africanas com maior risco de contágio pelo Ebola, com o objetivo de proteger cidadãos e",
       "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/05/28/copa-do-mundo-eua-mexico-e-canada-medidas-ebola.ghtml",
+      "imagem": "https://s2-g1.glbimg.com/73llTmOZ-hY6Lg3lirY6XU9ooGc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/p/RrvsesRluAaSAQalsECQ/ap26143622806954.jpg",
       "fonte": "G1 Turismo",
       "fonte_url": "https://g1.globo.com/turismo-e-viagem",
       "tags": [
@@ -1028,13 +1130,14 @@
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-05-28T15:17:12Z",
-      "data_coleta": "2026-06-12T18:13:55Z"
+      "data_coleta": "2026-06-12T18:41:08Z"
     },
     {
       "id": "6c62765b1525",
       "titulo": "2026 Summer Release: Now there’s even more to Airbnb",
       "resumo": "Introducing car rentals, grocery delivery, airport pickups, exclusive FIFA World Cup 2026™ Experiences, boutique hotels, and more—making your entire trip even better. The post 2026 Summer Release: Now there’s even more to Airbnb appeared first on Airbnb Newsroom .",
       "url": "https://news.airbnb.com/airbnb-2026-summer-release/",
+      "imagem": null,
       "fonte": "Airbnb Newsroom",
       "fonte_url": "https://news.airbnb.com",
       "tags": [
@@ -1042,13 +1145,14 @@
       ],
       "categoria": "Setor Hoteleiro",
       "data": "2026-05-20T17:00:00Z",
-      "data_coleta": "2026-06-12T18:13:55Z"
+      "data_coleta": "2026-06-12T18:41:09Z"
     },
     {
       "id": "c3ef6f6e7f98",
       "titulo": "A preocupação dos proprietários de hotéis nos EUA frente ao baixo nível de reservas antes da Copa do Mundo",
       "resumo": "A preocupação dos proprietários de hotéis nos EUA frente ao baixo nível de reservas antes da Copa do Mundo Getty Images Percorrendo as ruas de Kansas City, Houston, Miami e Nova York, nos Estados Unidos, é difícil ignorar que está prestes a começar a Copa do Mundo Fifa de Futebol Masculino 2026. Exi",
       "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/05/20/a-preocupacao-dos-proprietarios-de-hoteis-nos-eua-frente-ao-baixo-nivel-de-reservas-antes-da-copa-do-mundo.ghtml",
+      "imagem": "https://s2-g1.glbimg.com/3x6myD8UyLavyQ6j1Tk2m0OFBM4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/B/UjN9B5RkKEEuZ6nknhAQ/dc499430-52d4-11f1-a650-a94a8fc7de38.jpg.webp",
       "fonte": "G1 Turismo",
       "fonte_url": "https://g1.globo.com/turismo-e-viagem",
       "tags": [
@@ -1057,13 +1161,14 @@
       ],
       "categoria": "Atrativos Internacionais",
       "data": "2026-05-20T09:25:45Z",
-      "data_coleta": "2026-06-12T18:13:55Z"
+      "data_coleta": "2026-06-12T18:41:08Z"
     },
     {
       "id": "1add11c8cd2a",
       "titulo": "Tailândia reduz de 60 para 30 dias período de estadia sem visto para turistas",
       "resumo": "Bankok, Tailândia Pexels/Kirandeep Singh Walia O governo da Tailândia decidiu reduzir de 60 para 30 dias, na maioria dos casos, a duração das estadias sem visto para turistas de mais de 90 países, com o objetivo de combater a criminalidade. \"O sistema atual tem vantagens, especialmente para a econom",
       "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/05/19/tailandia-reduz-60-para-30-dias-estadia-sem-visto-turistas.ghtml",
+      "imagem": "https://s2-g1.glbimg.com/91Rs9Ipe-qFEZoW33rMOhfY_WuU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/U/o/gPlb7DQfaBIrh5DxYTLQ/pexels-kirandeepsingh-30073413.jpg",
       "fonte": "G1 Turismo",
       "fonte_url": "https://g1.globo.com/turismo-e-viagem",
       "tags": [
@@ -1071,13 +1176,14 @@
       ],
       "categoria": "Atrativos Internacionais",
       "data": "2026-05-19T11:31:22Z",
-      "data_coleta": "2026-06-12T18:13:55Z"
+      "data_coleta": "2026-06-12T18:41:08Z"
     },
     {
       "id": "fe80b7e936e3",
       "titulo": "Paraíso sob terror: violência assola destino turístico da Colômbia",
       "resumo": "O Parque Nacional de Tayrona, na Colômbia Luis Acosta/AFP À primeira vista, é um ponto turístico de águas cristalinas às margens do Caribe, cercado por montanhas nevadas. Mas, no interior deste destino paradisíaco da Colômbia, a violência paramilitar mantém comerciantes e povos indígenas sob o medo.",
       "url": "https://g1.globo.com/mundo/noticia/2026/05/06/paraiso-sob-terror-violencia-assola-destino-turistico-da-colombia.ghtml",
+      "imagem": "https://s2-g1.glbimg.com/dsLpkaWNmsjqsfBcEJOn--i_nlI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/S/d0xKuVQjmIwsOow2Ildw/afp-20260505-a99q4g3-v1-midres-colombiaindigenouscrimetourism.jpg",
       "fonte": "G1 Turismo",
       "fonte_url": "https://g1.globo.com/turismo-e-viagem",
       "tags": [
@@ -1085,13 +1191,14 @@
       ],
       "categoria": "Atrativos Nacionais",
       "data": "2026-05-06T05:00:43Z",
-      "data_coleta": "2026-06-12T18:13:55Z"
+      "data_coleta": "2026-06-12T18:41:08Z"
     },
     {
       "id": "c60c6fd57b46",
       "titulo": "Copa nos Estados Unidos vira desafio de orçamento para torcedores: 'Está todo mundo revoltado'",
       "resumo": "Completar álbum da Copa do Mundo de 2026 pode custar mais de R$ 6 mil Assistir aos jogos de uma Copa do Mundo nunca foi barato, mas o Mundial nos Estados Unidos parece estar extrapolando os limites. Ingressos que podem chegar à casa dos milhões de dólares, custos elevados para conseguir um visto e t",
       "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/04/30/copa-nos-estados-unidos-vira-desafio-de-orcamento-para-torcedores-esta-todo-mundo-revoltado.ghtml",
+      "imagem": "https://s2-g1.glbimg.com/kFEh99f77wv5LsEtHETMCHP2cqw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/v/JDitY6TxapgAfeAMB9jg/2018-02-20t124418z-1689928921-rc1869f3b920-rtrmadp-3-soccer-worldcup-jordan.jpg",
       "fonte": "G1 Turismo",
       "fonte_url": "https://g1.globo.com/turismo-e-viagem",
       "tags": [
@@ -1099,13 +1206,14 @@
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-04-30T08:06:57Z",
-      "data_coleta": "2026-06-12T18:13:55Z"
+      "data_coleta": "2026-06-12T18:41:08Z"
     },
     {
       "id": "99a6aa197a03",
       "titulo": "Anac atualiza regras para transporte de carregadores portáteis em voos; veja o que muda",
       "resumo": "Powerbank Freepik/xb100 A Agência Nacional de Aviação Civil (Anac) atualizou as regras para o transporte de carregadores portáteis, também conhecidos como powerbanks, em voos. As mudanças foram publicadas no Diário Oficial da União e divulgadas nesta sexta-feira (24). Segundo a nova Instrução Suplem",
       "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/04/24/anac-atualiza-regras-para-transporte-de-carregadores-portateis-em-voos-veja-o-que-muda.ghtml",
+      "imagem": "https://s2-g1.glbimg.com/ivXIlrOhoiGoFAYbRH_KqBo0qtA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/1/FgjO6uQAqY8JK8dAN1MA/powerbank-cellphone-wooden-table.jpg",
       "fonte": "G1 Turismo",
       "fonte_url": "https://g1.globo.com/turismo-e-viagem",
       "tags": [
@@ -1113,13 +1221,14 @@
       ],
       "categoria": "Setor Aereo",
       "data": "2026-04-24T21:38:42Z",
-      "data_coleta": "2026-06-12T18:13:55Z"
+      "data_coleta": "2026-06-12T18:41:08Z"
     },
     {
       "id": "fe747278e1b1",
       "titulo": "Como usar o novo sistema de check-in digital que passou a ser obrigatório para hotéis e pousadas",
       "resumo": "Como usar o novo sistema de check-in digital Hotéis, pousadas e outros meios de hospedagem passaram a ser obrigados, desde segunda-feira (20), a adotar a Ficha Nacional de Registro de Hóspedes (FNRH) Digital. O sistema, que vem sendo adotado gradativamente desde novembro de 2025, permite que o viaja",
       "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/04/23/como-usar-o-novo-sistema-de-check-in-digital-que-passou-a-ser-obrigatorio-para-hoteis-e-pousadas.ghtml",
+      "imagem": "https://s2-g1.glbimg.com/PvkD19dTz-om4pdqxobi-GkdWfw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/a/SQi1V8TjK1v1p6DdAHVA/pexels-cottonbro-5137969.jpg",
       "fonte": "G1 Turismo",
       "fonte_url": "https://g1.globo.com/turismo-e-viagem",
       "tags": [
@@ -1127,13 +1236,14 @@
       ],
       "categoria": "Tecnologia & Inovacao",
       "data": "2026-04-23T03:01:38Z",
-      "data_coleta": "2026-06-12T18:13:55Z"
+      "data_coleta": "2026-06-12T18:41:08Z"
     },
     {
       "id": "bbb7d529ce6f",
       "titulo": "Brasileiros que forem à Copa do Mundo podem agendar visto dos EUA com prioridade, diz embaixada",
       "resumo": "Foto mostra um carimbo de visto em um passaporte estrangeiro em Los Angeles, nos EUA, em 6 de junho de 2020 Chris Delmas/AFP A Embaixada dos Estados Unidos em Brasília informou nesta quarta-feira (15) que os torcedores que forem assistir aos jogos da Copa do Mundo deste ano podem agendar, com priori",
       "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/04/15/brasileiros-que-forem-a-copa-do-mundo-podem-agendar-visto-dos-eua-com-prioridade-diz-embaixada.ghtml",
+      "imagem": "https://s2-g1.glbimg.com/V0IdYaaI10eddlZtwepwUBDv0vc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/Y/s/DRjAlWTJaL8gHAw5iokg/000-1uq6zv.jpg",
       "fonte": "G1 Turismo",
       "fonte_url": "https://g1.globo.com/turismo-e-viagem",
       "tags": [
@@ -1142,9 +1252,9 @@
       ],
       "categoria": "Shows & Eventos",
       "data": "2026-04-15T21:28:26Z",
-      "data_coleta": "2026-06-12T18:13:55Z"
+      "data_coleta": "2026-06-12T18:41:08Z"
     }
   ],
-  "ultima_atualizacao": "2026-06-12T18:14:19Z",
-  "total": 80
+  "ultima_atualizacao": "2026-06-12T18:41:33Z",
+  "total": 82
 }
