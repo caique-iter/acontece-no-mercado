@@ -1,15 +1,16 @@
 {
   "jornal": {
     "nome": "Acontece no Mercado",
-    "descricao": "Monitor de notícias do setor turístico",
+    "descricao": "Monitor de notícias do setor turístico — Grupo Iter",
     "logo_emoji": "🗞️",
     "cor_primaria": "#1a3a5c",
     "cor_destaque": "#e8a020"
   },
+
   "fontes": [
     {
       "nome": "Panrotas",
-      "rss": "https://www.panrotas.com.br/rss/",
+      "rss": "https://www.panrotas.com.br/feed/",
       "url": "https://www.panrotas.com.br",
       "ativo": true
     },
@@ -20,55 +21,76 @@
       "ativo": true
     },
     {
-      "nome": "Ministério do Turismo",
-      "rss": "",
-      "url": "https://www.gov.br/turismo/pt-br/assuntos/noticias",
-      "ativo": false,
-      "observacao": "Sem RSS - requer scraping HTML. Ativar quando configurar seletor CSS."
-    }
-  ],
-  "categorias": [
-    {
-      "nome": "Hospedagem",
-      "cor": "#2e86ab",
-      "palavras_chave": ["hotel", "hospedagem", "pousada", "resort", "airbnb", "aluguel por temporada", "hotelaria"]
+      "nome": "G1",
+      "rss": "https://g1.globo.com/rss/g1/",
+      "url": "https://g1.globo.com",
+      "ativo": true
     },
     {
-      "nome": "Transporte Aéreo",
-      "cor": "#a23b72",
-      "palavras_chave": ["aéreo", "companhia aérea", "voo", "aviação", "aeroporto", "latam", "gol", "azul", "decolagem", "passagem"]
+      "nome": "G1 Turismo",
+      "rss": "https://g1.globo.com/rss/g1/turismo-e-viagem/",
+      "url": "https://g1.globo.com/turismo-e-viagem",
+      "ativo": true
     },
     {
-      "nome": "Eventos & Feiras",
-      "cor": "#f18f01",
-      "palavras_chave": ["evento", "feira", "congresso", "abav", "wtm", "festuris", "encontro", "summit", "workshop"]
+      "nome": "O Globo",
+      "rss": "https://oglobo.globo.com/rss.xml",
+      "url": "https://oglobo.globo.com",
+      "ativo": true
     },
     {
-      "nome": "Política & Regulação",
-      "cor": "#c73e1d",
-      "palavras_chave": ["regulação", "ministério", "lei", "decreto", "política pública", "embratur", "mtur", "legislação", "anvisa", "vistos"]
+      "nome": "Folha de São Paulo",
+      "rss": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml",
+      "url": "https://www.folha.uol.com.br",
+      "ativo": true
     },
     {
-      "nome": "Destinos",
-      "cor": "#3b1f2b",
-      "palavras_chave": ["destino", "roteiro", "cidade", "praia", "montanha", "trilha", "ecoturismo", "turismo rural", "atração"]
+      "nome": "CNN Brasil",
+      "rss": "https://www.cnnbrasil.com.br/feed/",
+      "url": "https://www.cnnbrasil.com.br",
+      "ativo": true
     },
     {
-      "nome": "Tecnologia & Inovação",
-      "cor": "#44bba4",
-      "palavras_chave": ["tecnologia", "app", "plataforma", "digital", "inteligência artificial", "reserva online", "ota", "startup", "inovação"]
+      "nome": "Forbes Brasil",
+      "rss": "https://forbes.com.br/feed/",
+      "url": "https://forbes.com.br",
+      "ativo": true
     },
     {
-      "nome": "Economia & Mercado",
-      "cor": "#e94f37",
-      "palavras_chave": ["receita", "crescimento", "queda", "mercado", "investimento", "resultado", "lucro", "prejuízo", "ipca", "dólar", "câmbio"]
-    }
-  ],
-  "configuracoes": {
-    "dias_historico": 90,
-    "max_noticias_por_coleta": 50,
-    "categoria_padrao": "Geral",
-    "github_usuario": "caique-iter",
-    "github_repositorio": "acontece-no-mercado"
-  }
-}
+      "nome": "BBC Brasil",
+      "rss": "https://feeds.bbci.co.uk/portuguese/rss.xml",
+      "url": "https://www.bbc.com/portuguese",
+      "ativo": true
+    },
+    {
+      "nome": "Diário do Rio",
+      "rss": "https://diariodorio.com/feed/",
+      "url": "https://diariodorio.com",
+      "ativo": true
+    },
+    {
+      "nome": "Acontece Gramado",
+      "rss": "https://acontecegramado.com.br/feed/",
+      "url": "https://acontecegramado.com.br",
+      "ativo": true
+    },
+    {
+      "nome": "ABC Mais",
+      "rss": "https://www.abcmais.com/feed/",
+      "url": "https://www.abcmais.com",
+      "ativo": true
+    },
+    {
+      "nome": "Embratur",
+      "rss": "https://embratur.com.br/feed/",
+      "url": "https://embratur.com.br",
+      "ativo": true
+    },
+    {
+      "nome": "Airbnb Newsroom",
+      "rss": "https://news.airbnb.com/feed/",
+      "url": "https://news.airbnb.com",
+      "ativo": true
+    },
+    {
+      "nome": "Booking.com Newsroom",
