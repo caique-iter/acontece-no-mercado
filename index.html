@@ -1,190 +1,663 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Acontece no Mercado</title>
-  <style>
-    :root{--primary:#1a3a5c;--accent:#e8a020;--bg:#f0f2f6;--card:#fff;--text:#1e2d3d;--muted:#6b7a8d;--border:#dde3ec;--r:10px}
-    *{box-sizing:border-box;margin:0;padding:0}
-    body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(--text)}
-    header{background:var(--primary);color:#fff;padding:0 24px;position:sticky;top:0;z-index:100;box-shadow:0 2px 16px rgba(0,0,0,.3)}
-    .hi{max-width:1280px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;height:62px;gap:16px}
-    .logo{display:flex;align-items:center;gap:10px;text-decoration:none;color:#fff}
-    .logo-icon{font-size:26px}.logo-text{font-size:19px;font-weight:700}.logo-sub{font-size:10px;opacity:.6;letter-spacing:.8px;text-transform:uppercase}
-    .hr{display:flex;align-items:center;gap:14px;flex-shrink:0}
-    .sw{position:relative}
-    .sw input{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.2);color:#fff;padding:8px 36px 8px 12px;border-radius:20px;font-size:13px;width:230px;outline:none;transition:background .2s}
-    .sw input::placeholder{color:rgba(255,255,255,.45)}.sw input:focus{background:rgba(255,255,255,.2)}
-    .si{position:absolute;right:11px;top:50%;transform:translateY(-50%);opacity:.5;pointer-events:none}
-    #sb{font-size:11px;opacity:.65;white-space:nowrap}
-    #ra{display:none;background:#fff3cd;border-bottom:2px solid #e8a020;padding:8px 24px;font-size:13px;font-weight:500;color:#7a4a00;cursor:pointer;text-align:center}
-    #ra:hover{background:#fde8a0}
-    .fb{background:var(--card);border-bottom:1px solid var(--border);position:sticky;top:62px;z-index:99}
-    .fi{max-width:1280px;margin:0 auto;padding:0 24px;display:flex;gap:2px;overflow-x:auto;scrollbar-width:none}
-    .fi::-webkit-scrollbar{display:none}
-    .btn{padding:11px 14px;border:none;background:none;cursor:pointer;font-size:13px;font-weight:500;color:var(--muted);white-space:nowrap;border-bottom:3px solid transparent;transition:all .15s;display:flex;align-items:center;gap:5px}
-    .btn:hover{color:var(--primary)}.btn.on{color:var(--primary);border-bottom-color:var(--accent);font-weight:700}
-    .bdg{display:inline-flex;align-items:center;justify-content:center;background:var(--bg);border-radius:10px;font-size:11px;padding:1px 6px;color:var(--muted);min-width:20px}
-    .btn.on .bdg{background:var(--accent);color:#fff}
-    .rv{border-left:3px solid #dc3545!important}
-    main{max-width:1280px;margin:0 auto;padding:20px 24px}
-    .tb{display:flex;align-items:center;justify-content:space-between;margin-bottom:18px;gap:12px;flex-wrap:wrap}
-    .mn{display:flex;gap:6px;align-items:center;flex-wrap:wrap}
-    .mb{background:var(--card);border:1px solid var(--border);padding:5px 13px;border-radius:20px;cursor:pointer;font-size:12px;font-weight:500;color:var(--muted);transition:all .15s}
-    .mb:hover{border-color:var(--primary);color:var(--primary)}.mb.on{background:var(--primary);color:#fff;border-color:var(--primary)}
-    #tl{font-size:13px;color:var(--muted)}
-    #ng{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:16px}
-    .card{background:var(--card);border:1px solid var(--border);border-radius:var(--r);padding:18px;display:flex;flex-direction:column;gap:10px;transition:box-shadow .2s,transform .2s;text-decoration:none;color:inherit}
-    .card:hover{box-shadow:0 6px 24px rgba(0,0,0,.11);transform:translateY(-2px)}.card.rival{border-left:3px solid #dc3545}
-    .ch{display:flex;align-items:flex-start;justify-content:space-between;gap:8px}
-    .cd{font-size:11px;color:var(--muted);white-space:nowrap;flex-shrink:0;margin-top:2px}
-    .tr{display:flex;flex-wrap:wrap;gap:5px}
-    .tag{font-size:10px;font-weight:700;padding:2px 8px;border-radius:20px;color:#fff;letter-spacing:.3px;text-transform:uppercase;cursor:pointer;transition:opacity .15s}
-    .tag:hover{opacity:.8}
-    .ct{font-size:14px;font-weight:600;line-height:1.45;color:var(--text)}
-    .cr{font-size:12.5px;color:var(--muted);line-height:1.6;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
-    .cf{display:flex;align-items:center;justify-content:space-between;margin-top:auto;padding-top:10px;border-top:1px solid var(--border)}
-    .fn{font-size:11px;color:var(--muted);font-weight:500}.rl{font-size:12px;color:var(--primary);font-weight:700;text-decoration:none}
-    .rl:hover{text-decoration:underline}
-    .sb{grid-column:1/-1;text-align:center;padding:80px 20px;color:var(--muted)}
-    .si2{font-size:52px;margin-bottom:18px}.sb h3{font-size:18px;margin-bottom:10px;color:var(--text)}.sb p{font-size:14px;max-width:440px;margin:0 auto;line-height:1.7}
-    @keyframes spin{to{transform:rotate(360deg)}}
-    .sp{width:36px;height:36px;border:3px solid var(--border);border-top-color:var(--primary);border-radius:50%;animation:spin .8s linear infinite;margin:0 auto 20px}
-    footer{text-align:center;padding:20px 24px;font-size:12px;color:var(--muted);border-top:1px solid var(--border);margin-top:40px}
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Acontece no Mercado</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+/* ── Stolzl font (add woff2 files to /fonts/ se tiver licença) ──────── */
+@font-face { font-family:'Stolzl'; src:url('fonts/Stolzl-Regular.woff2') format('woff2'); font-weight:400; font-display:swap; }
+@font-face { font-family:'Stolzl'; src:url('fonts/Stolzl-Medium.woff2') format('woff2'); font-weight:500; font-display:swap; }
+@font-face { font-family:'Stolzl'; src:url('fonts/Stolzl-Bold.woff2') format('woff2'); font-weight:700; font-display:swap; }
+@font-face { font-family:'Stolzl'; src:url('fonts/Stolzl-Book.woff2') format('woff2'); font-weight:300; font-display:swap; }
+
+/* ── Tokens ─────────────────────────────────────────────────────────── */
+:root {
+  --navy:       #1a3a5c;
+  --navy-80:    #2d5a8e;
+  --navy-20:    #d6e4f0;
+  --gold:       #e8a020;
+  --gold-light: #fef3dc;
+  --red:        #dc3545;
+  --bg:         #f0f4f8;
+  --surface:    #ffffff;
+  --border:     #e2e8f0;
+  --text:       #0f172a;
+  --text-2:     #475569;
+  --text-3:     #94a3b8;
+  --sidebar-w:  268px;
+  --header-h:   60px;
+  --radius:     12px;
+  --radius-sm:  8px;
+  --shadow:     0 1px 3px rgba(0,0,0,.08), 0 4px 16px rgba(0,0,0,.06);
+  --shadow-lg:  0 8px 32px rgba(0,0,0,.12);
+  --font:       'Stolzl','Plus Jakarta Sans',system-ui,-apple-system,sans-serif;
+  --transition: .2s cubic-bezier(.4,0,.2,1);
+}
+
+/* ── Reset ───────────────────────────────────────────────────────────── */
+*,*::before,*::after { box-sizing:border-box; margin:0; padding:0; }
+html { font-size:16px; -webkit-font-smoothing:antialiased; }
+body { font-family:var(--font); background:var(--bg); color:var(--text); overflow-x:hidden; }
+a { text-decoration:none; color:inherit; }
+button { cursor:pointer; border:none; background:none; font-family:inherit; }
+img { display:block; max-width:100%; }
+
+/* ── Header ──────────────────────────────────────────────────────────── */
+.header {
+  position:fixed; top:0; left:0; right:0; height:var(--header-h);
+  background:var(--navy); z-index:100;
+  display:flex; align-items:center; gap:16px; padding:0 20px;
+  border-bottom:1px solid rgba(255,255,255,.08);
+}
+.header-logo {
+  display:flex; align-items:center; gap:10px;
+  color:#fff; white-space:nowrap; min-width:var(--sidebar-w);
+  padding-left:4px;
+}
+.header-logo-mark {
+  width:32px; height:32px; background:var(--gold); border-radius:8px;
+  display:flex; align-items:center; justify-content:center;
+  font-size:17px; flex-shrink:0;
+}
+.header-logo-text { font-size:15px; font-weight:700; letter-spacing:-.2px; line-height:1.2; }
+.header-logo-sub { font-size:11px; font-weight:400; opacity:.6; letter-spacing:.3px; text-transform:uppercase; }
+.header-search {
+  flex:1; position:relative; max-width:500px;
+}
+.header-search input {
+  width:100%; height:38px; padding:0 40px 0 40px;
+  border-radius:20px; border:none;
+  background:rgba(255,255,255,.1); color:#fff;
+  font-family:var(--font); font-size:14px;
+  transition:background var(--transition);
+  outline:none;
+}
+.header-search input::placeholder { color:rgba(255,255,255,.45); }
+.header-search input:focus { background:rgba(255,255,255,.16); }
+.header-search .search-icon {
+  position:absolute; left:13px; top:50%; transform:translateY(-50%);
+  color:rgba(255,255,255,.5); font-size:15px; pointer-events:none;
+}
+.header-search .search-clear {
+  position:absolute; right:12px; top:50%; transform:translateY(-50%);
+  color:rgba(255,255,255,.5); font-size:18px; cursor:pointer;
+  display:none; background:none; border:none; padding:0; line-height:1;
+}
+.header-meta {
+  margin-left:auto; display:flex; align-items:center; gap:8px;
+}
+.header-updated {
+  font-size:12px; color:rgba(255,255,255,.5); white-space:nowrap;
+}
+.header-rival-dot {
+  width:8px; height:8px; border-radius:50%; background:var(--gold);
+  box-shadow:0 0 0 3px rgba(232,160,32,.3);
+  animation:pulse 2s infinite; display:none;
+}
+@keyframes pulse {
+  0%,100%{box-shadow:0 0 0 3px rgba(232,160,32,.3);}
+  50%{box-shadow:0 0 0 6px rgba(232,160,32,.1);}
+}
+.ham { display:none; width:36px; height:36px; align-items:center; justify-content:center;
+  border-radius:8px; color:#fff; font-size:20px; }
+.ham:hover { background:rgba(255,255,255,.1); }
+
+/* ── Layout ──────────────────────────────────────────────────────────── */
+.app { display:flex; padding-top:var(--header-h); min-height:100vh; }
+
+/* ── Sidebar ─────────────────────────────────────────────────────────── */
+.sidebar {
+  width:var(--sidebar-w); flex-shrink:0;
+  position:fixed; top:var(--header-h); bottom:0; left:0;
+  background:var(--surface); border-right:1px solid var(--border);
+  overflow-y:auto; overflow-x:hidden;
+  scrollbar-width:thin; scrollbar-color:var(--border) transparent;
+  z-index:80; transition:transform var(--transition);
+}
+.sidebar::-webkit-scrollbar { width:4px; }
+.sidebar::-webkit-scrollbar-thumb { background:var(--border); border-radius:2px; }
+
+.sidebar-section { padding:12px 0; }
+.sidebar-section + .sidebar-section { border-top:1px solid var(--border); }
+.sidebar-label {
+  font-size:10.5px; font-weight:700; letter-spacing:.8px; text-transform:uppercase;
+  color:var(--text-3); padding:8px 20px 6px;
+}
+
+.cat-btn {
+  width:100%; display:flex; align-items:center; gap:10px;
+  padding:9px 20px; border-radius:0;
+  font-family:var(--font); font-size:13.5px; font-weight:500; color:var(--text-2);
+  transition:background var(--transition), color var(--transition);
+  position:relative; text-align:left;
+}
+.cat-btn:hover { background:var(--bg); color:var(--text); }
+.cat-btn.active {
+  background:var(--navy-20); color:var(--navy);
+}
+.cat-btn.active::before {
+  content:''; position:absolute; left:0; top:20%; bottom:20%;
+  width:3px; border-radius:0 3px 3px 0; background:var(--navy);
+}
+.cat-dot {
+  width:9px; height:9px; border-radius:50%; flex-shrink:0;
+}
+.cat-emoji { font-size:16px; flex-shrink:0; width:20px; text-align:center; }
+.cat-name { flex:1; min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+.cat-count {
+  font-size:11px; font-weight:600; min-width:22px; height:20px;
+  background:var(--bg); border-radius:10px; padding:0 6px;
+  display:flex; align-items:center; justify-content:center; color:var(--text-3);
+  flex-shrink:0;
+}
+.cat-btn.active .cat-count { background:var(--navy); color:#fff; }
+
+/* Month picker */
+.month-btn {
+  width:100%; display:flex; align-items:center; justify-content:space-between;
+  padding:9px 20px; font-family:var(--font); font-size:13.5px; font-weight:500;
+  color:var(--text-2); transition:background var(--transition);
+}
+.month-btn:hover { background:var(--bg); }
+.month-btn.active { color:var(--navy); font-weight:600; }
+
+/* Sidebar overlay mobile */
+.sidebar-overlay {
+  display:none; position:fixed; inset:0; background:rgba(0,0,0,.4);
+  z-index:79; backdrop-filter:blur(2px);
+}
+
+/* ── Main content ─────────────────────────────────────────────────────── */
+.main { flex:1; margin-left:var(--sidebar-w); padding:24px; min-width:0; }
+
+/* Rival alert */
+.rival-alert {
+  display:none; align-items:flex-start; gap:14px;
+  background:#fff5f5; border:1px solid #fecaca; border-radius:var(--radius);
+  padding:14px 18px; margin-bottom:20px;
+}
+.rival-alert-icon { font-size:22px; flex-shrink:0; }
+.rival-alert-body h4 { font-size:13.5px; font-weight:700; color:#991b1b; margin-bottom:4px; }
+.rival-alert-body p { font-size:13px; color:#7f1d1d; }
+.rival-alert-body p a { text-decoration:underline; color:#991b1b; }
+
+/* Stats bar */
+.stats-bar {
+  display:flex; align-items:center; gap:12px; margin-bottom:20px;
+  flex-wrap:wrap;
+}
+.stats-bar h1 {
+  font-size:20px; font-weight:800; color:var(--navy); margin-right:4px;
+}
+.stats-chip {
+  font-size:12px; font-weight:600; padding:4px 10px; border-radius:20px;
+  background:var(--bg); color:var(--text-2); border:1px solid var(--border);
+}
+.stats-chip.primary { background:var(--navy); color:#fff; border-color:var(--navy); }
+
+/* Cards grid */
+.grid {
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(300px,1fr));
+  gap:20px;
+}
+
+/* Card */
+.card {
+  background:var(--surface); border-radius:var(--radius);
+  box-shadow:var(--shadow); overflow:hidden;
+  display:flex; flex-direction:column;
+  transition:transform var(--transition), box-shadow var(--transition);
+  border:1px solid var(--border);
+}
+.card:hover { transform:translateY(-3px); box-shadow:var(--shadow-lg); }
+
+.card-img {
+  position:relative; aspect-ratio:16/9; overflow:hidden; background:var(--bg);
+}
+.card-img img {
+  width:100%; height:100%; object-fit:cover;
+  transition:transform .4s ease;
+}
+.card:hover .card-img img { transform:scale(1.04); }
+.card-img-placeholder {
+  position:absolute; inset:0; display:flex; align-items:center; justify-content:center;
+  font-size:36px;
+}
+.card-img-overlay {
+  position:absolute; bottom:0; left:0; right:0; height:60%;
+  background:linear-gradient(to top, rgba(0,0,0,.55) 0%, transparent 100%);
+  pointer-events:none;
+}
+.card-source {
+  position:absolute; top:10px; left:10px;
+  background:rgba(255,255,255,.92); backdrop-filter:blur(6px);
+  border-radius:20px; padding:3px 10px;
+  font-size:11px; font-weight:700; color:var(--text); letter-spacing:.2px;
+  border:1px solid rgba(255,255,255,.5);
+}
+.card-rival-badge {
+  position:absolute; top:10px; right:10px;
+  background:var(--red); color:#fff;
+  border-radius:20px; padding:3px 8px;
+  font-size:10.5px; font-weight:700; letter-spacing:.3px;
+}
+
+.card-body { padding:14px 16px 16px; flex:1; display:flex; flex-direction:column; gap:8px; }
+
+.card-tags { display:flex; flex-wrap:wrap; gap:5px; }
+.card-tag {
+  display:inline-flex; align-items:center; gap:4px;
+  font-size:11px; font-weight:600; letter-spacing:.1px;
+  padding:3px 9px; border-radius:20px; border:1px solid transparent;
+}
+
+.card-title {
+  font-size:15px; font-weight:700; line-height:1.4; color:var(--text);
+  display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;
+}
+.card-title a:hover { color:var(--navy); }
+
+.card-excerpt {
+  font-size:13px; line-height:1.55; color:var(--text-2);
+  display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden;
+  flex:1;
+}
+
+.card-footer {
+  display:flex; align-items:center; justify-content:space-between;
+  padding-top:8px; border-top:1px solid var(--border); margin-top:auto;
+}
+.card-date { font-size:12px; color:var(--text-3); font-weight:500; }
+.card-link {
+  font-size:12px; font-weight:700; color:var(--navy);
+  display:flex; align-items:center; gap:4px;
+  transition:gap var(--transition);
+}
+.card-link:hover { gap:7px; }
+
+/* Empty state */
+.empty {
+  grid-column:1/-1; text-align:center; padding:60px 20px;
+  color:var(--text-3);
+}
+.empty-icon { font-size:48px; margin-bottom:12px; }
+.empty h3 { font-size:18px; font-weight:700; color:var(--text-2); margin-bottom:6px; }
+.empty p { font-size:14px; }
+
+/* Loading */
+.loading {
+  grid-column:1/-1; display:flex; align-items:center; justify-content:center;
+  gap:12px; padding:60px; color:var(--text-3); font-size:14px;
+}
+.spinner {
+  width:22px; height:22px; border-radius:50%;
+  border:2px solid var(--border); border-top-color:var(--navy);
+  animation:spin .7s linear infinite;
+}
+@keyframes spin { to { transform:rotate(360deg); } }
+
+/* Skeleton loader */
+.skeleton { animation:shimmer 1.5s infinite; }
+@keyframes shimmer {
+  0%,100%{opacity:1} 50%{opacity:.45}
+}
+
+/* ── Responsive ───────────────────────────────────────────────────────── */
+@media (max-width:900px) {
+  :root { --sidebar-w:240px; }
+  .grid { grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); gap:16px; }
+}
+@media (max-width:700px) {
+  .ham { display:flex; }
+  .header-logo { min-width:0; }
+  .header-logo-sub { display:none; }
+  .sidebar {
+    transform:translateX(-100%);
+  }
+  .sidebar.open { transform:translateX(0); }
+  .sidebar-overlay.open { display:block; }
+  .main { margin-left:0; padding:16px; }
+  .grid { grid-template-columns:1fr; }
+  .header-search { max-width:none; }
+  .header-updated { display:none; }
+}
+@media (max-width:420px) {
+  .stats-bar h1 { font-size:18px; }
+}
+</style>
 </head>
 <body>
-<header>
-  <div class="hi">
-    <a class="logo" href="#" onclick="reset();return false">
-      <span class="logo-icon">&#128478;&#65039;</span>
-      <div><div class="logo-text">Acontece no Mercado</div><div class="logo-sub">Grupo Iter &middot; Monitor Tur&iacute;stico</div></div>
-    </a>
-    <div class="hr">
-      <div class="sw">
-        <input type="text" id="si" placeholder="Buscar not&iacute;cias..." />
-        <svg class="si" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-      </div>
-      <span id="sb">Carregando&hellip;</span>
+
+<!-- Header -->
+<header class="header">
+  <button class="ham" id="hamBtn" aria-label="Menu" onclick="toggleSidebar()">&#9776;</button>
+  <div class="header-logo">
+    <div class="header-logo-mark">🗞️</div>
+    <div>
+      <div class="header-logo-text" id="jornal-nome">Acontece no Mercado</div>
+      <div class="header-logo-sub">Monitor de Notícias</div>
     </div>
   </div>
+  <div class="header-search">
+    <span class="search-icon">🔍</span>
+    <input type="search" id="searchInput" placeholder="Buscar notícias..." oninput="onSearch(this.value)">
+    <button class="search-clear" id="searchClear" onclick="clearSearch()">×</button>
+  </div>
+  <div class="header-meta">
+    <div class="header-rival-dot" id="rivalDot" title="Menções a concorrentes hoje"></div>
+    <span class="header-updated" id="lastUpdated"></span>
+  </div>
 </header>
-<div id="ra" onclick="filtrar('Concorrentes')">&#9876;&#65039; <span id="rc"></span> men&ccedil;&atilde;o(es) a concorrentes hoje &mdash; clique para ver</div>
-<div class="fb"><div class="fi" id="fi"></div></div>
-<main>
-  <div class="tb"><div class="mn" id="mn"></div><span id="tl"></span></div>
-  <div id="ng"><div class="sb"><div class="sp"></div><h3>Carregando not&iacute;cias&hellip;</h3></div></div>
-</main>
-<footer id="ft">Acontece no Mercado &middot; Grupo Iter</footer>
+
+<!-- Layout -->
+<div class="app">
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-section">
+      <div class="sidebar-label">Categorias</div>
+      <button class="cat-btn active" data-cat="" onclick="setCategory('')" id="cat-all">
+        <span class="cat-dot" style="background:#1a3a5c"></span>
+        <span class="cat-emoji">📰</span>
+        <span class="cat-name">Todas as Notícias</span>
+        <span class="cat-count" id="count-all">0</span>
+      </button>
+      <div id="cat-list"></div>
+    </div>
+
+    <div class="sidebar-section" id="month-section">
+      <div class="sidebar-label">Período</div>
+      <div id="month-list"></div>
+    </div>
+
+    <div class="sidebar-section">
+      <div class="sidebar-label">Fontes ativas</div>
+      <div id="source-list" style="padding:4px 20px 8px; font-size:12.5px; color:var(--text-3); line-height:1.7;"></div>
+    </div>
+  </aside>
+
+  <div class="sidebar-overlay" id="sidebarOverlay" onclick="toggleSidebar()"></div>
+
+  <main class="main">
+    <!-- Competitor alert -->
+    <div class="rival-alert" id="rivalAlert">
+      <div class="rival-alert-icon">⚔️</div>
+      <div class="rival-alert-body">
+        <h4 id="rivalTitle">Menções a concorrentes hoje</h4>
+        <p id="rivalBody"></p>
+      </div>
+    </div>
+
+    <!-- Stats -->
+    <div class="stats-bar">
+      <h1 id="statsTitle">Notícias</h1>
+      <span class="stats-chip primary" id="statsCount">0</span>
+      <span class="stats-chip" id="statsMonth"></span>
+      <span class="stats-chip" id="statsSearch" style="display:none"></span>
+    </div>
+
+    <!-- Grid -->
+    <div class="grid" id="grid">
+      <div class="loading"><div class="spinner"></div> Carregando notícias...</div>
+    </div>
+  </main>
+</div>
+
 <script>
-var ALL=[],TAG='Todas',MES=null,Q='',CORES={},EMJS={};
-var fmtD=function(s){return new Date(s).toLocaleDateString('pt-BR',{day:'2-digit',month:'short',year:'numeric'})};
-var fmtM=function(s){var p=s.split('-');return new Date(p[0],p[1]-1,1).toLocaleDateString('pt-BR',{month:'long',year:'numeric'})};
-var getMes=function(s){return s.substring(0,7)};
-var cor=function(n){return CORES[n]||'#6b7a8d'};
-var emj=function(n){return EMJS[n]||''};
-function base(){
-  var l=ALL;
-  if(MES) l=l.filter(function(n){return getMes(n.data)===MES});
-  if(Q.length>=2){var q=Q.toLowerCase();l=l.filter(function(n){return n.titulo.toLowerCase().indexOf(q)>=0||(n.resumo||'').toLowerCase().indexOf(q)>=0||n.fonte.toLowerCase().indexOf(q)>=0||(n.tags||[]).join(' ').toLowerCase().indexOf(q)>=0})}
-  return l;
-}
-function lista(){
-  var l=base();
-  if(TAG!=='Todas') l=l.filter(function(n){return (n.tags||[n.categoria]).indexOf(TAG)>=0});
-  return l;
-}
-function render(){
-  var l=lista();
-  var ng=document.getElementById('ng');
-  document.getElementById('tl').textContent=l.length?l.length+' not\xedcia'+(l.length!==1?'s':''):'';
-  if(!l.length){ng.innerHTML='<div class="sb"><div class="si2">&#128205;</div><h3>Nenhuma not\xedcia encontrada</h3><p>Tente outro filtro, m\xeas ou termo de busca.</p></div>';return}
-  ng.innerHTML=l.map(function(n){
-    var tags=n.tags||[n.categoria];
-    var rival=tags.indexOf('Concorrentes')>=0;
-    var th=tags.map(function(t){
-      return '<span class="tag" style="background:'+cor(t)+'" onclick="event.preventDefault();filtrar(\''+t.replace(/'/g,"\\'")+'\')" title="Filtrar por '+t+'">'+emj(t)+' '+t+'</span>';
-    }).join('');
-    return '<a class="card'+(rival?' rival':'')+'" href="'+n.url+'" target="_blank" rel="noopener">'
-      +'<div class="ch"><div class="tr">'+th+'</div><span class="cd">'+fmtD(n.data)+'</span></div>'
-      +'<div class="ct">'+n.titulo+'</div>'
-      +(n.resumo?'<div class="cr">'+n.resumo+'</div>':'')
-      +'<div class="cf"><span class="fn">&#128240; '+n.fonte+'</span><span class="rl">Ler &rarr;</span></div>'
-      +'</a>';
-  }).join('');
-}
-function contagens(){
-  var b=base();
-  document.querySelectorAll('.btn').forEach(function(btn){
-    var t=btn.dataset.tag;
-    var c=t==='Todas'?b.length:b.filter(function(n){return (n.tags||[n.categoria]).indexOf(t)>=0}).length;
-    var bdg=btn.querySelector('.bdg');
-    if(bdg) bdg.textContent=c;
-  });
-}
-function filtrar(tag){
-  TAG=tag;
-  document.querySelectorAll('.btn').forEach(function(b){b.classList.toggle('on',b.dataset.tag===tag)});
-  contagens();render();
-  window.scrollTo({top:120,behavior:'smooth'});
-}
-function reset(){
-  TAG='Todas';Q='';document.getElementById('si').value='';
-  document.querySelectorAll('.btn').forEach(function(b){b.classList.toggle('on',b.dataset.tag==='Todas')});
-  contagens();render();
-}
-function meses(){
-  var ms=[...new Set(ALL.map(function(n){return getMes(n.data)}))].sort().reverse();
-  if(!ms.length) return;
-  MES=ms[0];
-  document.getElementById('mn').innerHTML=ms.map(function(m){
-    return '<button class="mb'+(m===MES?' on':'')+'" onclick="selMes(\''+m+'\',this)">'+fmtM(m)+'</button>';
-  }).join('');
-}
-function selMes(m,btn){
-  MES=m;
-  document.querySelectorAll('.mb').forEach(function(b){b.classList.remove('on')});
-  btn.classList.add('on');
-  contagens();render();
-}
-function filtros(cats){
-  var bar=document.getElementById('fi');bar.innerHTML='';
-  var t=document.createElement('button');t.className='btn on';t.dataset.tag='Todas';
-  t.onclick=function(){filtrar('Todas')};t.innerHTML='Todas <span class="bdg">0</span>';bar.appendChild(t);
-  var present=new Set();ALL.forEach(function(n){(n.tags||[n.categoria]).forEach(function(x){present.add(x)})});
-  var ordem=cats.map(function(c){return c.nome});
-  var sorted=[...present].sort(function(a,b){var ia=ordem.indexOf(a),ib=ordem.indexOf(b);if(ia<0&&ib<0) return a.localeCompare(b);if(ia<0) return 1;if(ib<0) return -1;return ia-ib});
-  sorted.forEach(function(tag){
-    var btn=document.createElement('button');btn.className='btn'+(tag==='Concorrentes'?' rv':'');
-    btn.dataset.tag=tag;btn.onclick=function(){filtrar(tag)};
-    btn.innerHTML=emj(tag)+' '+tag+' <span class="bdg">0</span>';bar.appendChild(btn);
-  });
-}
-function rivais(){
-  var hoje=new Date().toISOString().substring(0,10);
-  var r=ALL.filter(function(n){return (n.tags||[]).indexOf('Concorrentes')>=0&&n.data.startsWith(hoje)});
-  if(r.length){document.getElementById('rc').textContent=r.length;document.getElementById('ra').style.display='block'}
-}
-document.getElementById('si').addEventListener('input',function(){Q=this.value.trim();contagens();render()});
-async function init(){
-  var cats=[];
-  try{var rc=await fetch('config.json?t='+Date.now());if(rc.ok){var cfg=await rc.json();cats=cfg.categorias||[];cats.forEach(function(c){CORES[c.nome]=c.cor;EMJS[c.nome]=c.emoji||''})}}catch(e){}
-  try{
-    var rd=await fetch('data/noticias.json?t='+Date.now());
-    if(!rd.ok) throw new Error('HTTP '+rd.status);
-    var d=await rd.json();ALL=d.noticias||[];
-    var sb=document.getElementById('sb');
-    if(d.ultima_atualizacao){var dt=new Date(d.ultima_atualizacao);sb.textContent='Atualizado '+dt.toLocaleDateString('pt-BR')+' '+dt.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'})}
-    else sb.textContent=ALL.length?ALL.length+' not\xedcias':'Aguardando coleta';
-    document.getElementById('ft').textContent='Acontece no Mercado \xb7 Grupo Iter \xb7 '+ALL.length+' not\xedcias \xb7 Coleta autom\xe1tica di\xe1ria';
-    if(!ALL.length){document.getElementById('ng').innerHTML='<div class="sb"><div class="si2">&#128640;</div><h3>Sistema pronto!</h3><p>Nenhuma not\xedcia ainda. Aguarde a primeira coleta ou rode o coletor.py manualmente.</p></div>';return}
-    meses();filtros(cats);rivais();contagens();render();
-  }catch(e){
-    document.getElementById('ng').innerHTML='<div class="sb"><div class="si2">&#9888;&#65039;</div><h3>Erro ao carregar dados</h3><p>'+e.message+'</p></div>';
-    document.getElementById('sb').textContent='Erro';
+// ── State ───────────────────────────────────────────────────────────────
+let allNews = [];
+let allCategories = [];
+let state = { cat: '', month: '', search: '' };
+
+// ── Category images/gradients fallback ─────────────────────────────────
+const CAT_GRADIENT = {
+  'Big Numbers':                   'linear-gradient(135deg,#0d6efd 0%,#0a3a7a 100%)',
+  'Novidades no Setor':            'linear-gradient(135deg,#20c997 0%,#0d6e50 100%)',
+  'Shows & Eventos':               'linear-gradient(135deg,#fd7e14 0%,#a84000 100%)',
+  'Concorrentes':                  'linear-gradient(135deg,#dc3545 0%,#7a0010 100%)',
+  'Atrativos Nacionais':           'linear-gradient(135deg,#198754 0%,#0a3d24 100%)',
+  'Atrativos Internacionais':      'linear-gradient(135deg,#6f42c1 0%,#3a1a70 100%)',
+  'Tecnologia & Inovacao':         'linear-gradient(135deg,#0dcaf0 0%,#0a6e8a 100%)',
+  'Politica & Economia':           'linear-gradient(135deg,#6c757d 0%,#2e3338 100%)',
+  'Setor Aereo':                   'linear-gradient(135deg,#a23b72 0%,#5a1540 100%)',
+  'Setor Hoteleiro':               'linear-gradient(135deg,#2e86ab 0%,#0f3d52 100%)',
+  'Temporada de Navios & Cruzeiros':'linear-gradient(135deg,#17a2b8 0%,#0a5460 100%)',
+  'Incidentes':                    'linear-gradient(135deg,#e63946 0%,#7a0008 100%)',
+};
+const CAT_EMOJI_MAP = {
+  'Big Numbers':'📊','Novidades no Setor':'🆕','Shows & Eventos':'🎭',
+  'Concorrentes':'⚔️','Atrativos Nacionais':'🇧🇷','Atrativos Internacionais':'🌍',
+  'Tecnologia & Inovacao':'💡','Politica & Economia':'🏛️','Setor Aereo':'✈️',
+  'Setor Hoteleiro':'🏨','Temporada de Navios & Cruzeiros':'🚢','Incidentes':'⚠️',
+};
+
+// ── Fetch data ──────────────────────────────────────────────────────────
+async function init() {
+  try {
+    const [newsRes, cfgRes] = await Promise.all([
+      fetch('data/noticias.json?t=' + Date.now()),
+      fetch('config.json?t=' + Date.now())
+    ]);
+    const data = await newsRes.json();
+    const cfg  = await cfgRes.json();
+
+    allNews = (data.noticias || []).map(n => ({
+      ...n,
+      tags: Array.isArray(n.tags) ? n.tags : [n.categoria || 'Novidades no Setor']
+    }));
+    allCategories = cfg.categorias || [];
+
+    if (cfg.jornal?.nome) document.getElementById('jornal-nome').textContent = cfg.jornal.nome;
+
+    // Last updated
+    if (data.ultima_atualizacao) {
+      const d = new Date(data.ultima_atualizacao);
+      document.getElementById('lastUpdated').textContent =
+        'Atualizado ' + d.toLocaleString('pt-BR', {day:'2-digit',month:'short',hour:'2-digit',minute:'2-digit'});
+    }
+
+    renderSidebar();
+    detectRivals();
+    render();
+  } catch(e) {
+    document.getElementById('grid').innerHTML =
+      '<div class="empty"><div class="empty-icon">⚠️</div><h3>Erro ao carregar</h3><p>' + e.message + '</p></div>';
   }
 }
+
+// ── Filter logic ────────────────────────────────────────────────────────
+function filteredNews() {
+  let news = allNews;
+  if (state.cat)
+    news = news.filter(n => n.tags && n.tags.includes(state.cat));
+  if (state.month)
+    news = news.filter(n => n.data && n.data.startsWith(state.month));
+  if (state.search) {
+    const q = state.search.toLowerCase();
+    news = news.filter(n =>
+      (n.titulo||'').toLowerCase().includes(q) ||
+      (n.resumo||'').toLowerCase().includes(q) ||
+      (n.fonte||'').toLowerCase().includes(q) ||
+      (n.tags||[]).some(t => t.toLowerCase().includes(q))
+    );
+  }
+  return news;
+}
+
+// ── Sidebar ─────────────────────────────────────────────────────────────
+function renderSidebar() {
+  // Category counts (total, not filtered)
+  const counts = {};
+  allNews.forEach(n => (n.tags||[]).forEach(t => { counts[t] = (counts[t]||0)+1; }));
+  document.getElementById('count-all').textContent = allNews.length;
+
+  const list = document.getElementById('cat-list');
+  list.innerHTML = allCategories.filter(c => counts[c.nome] > 0).map(c => `
+    <button class="cat-btn ${state.cat===c.nome?'active':''}"
+      data-cat="${esc(c.nome)}" onclick="setCategory('${esc(c.nome)}')">
+      <span class="cat-dot" style="background:${c.cor||'#999'}"></span>
+      <span class="cat-emoji">${c.emoji||'📄'}</span>
+      <span class="cat-name">${esc(c.nome)}</span>
+      <span class="cat-count">${counts[c.nome]||0}</span>
+    </button>`).join('');
+
+  // Months
+  const months = [...new Set(allNews.map(n => n.data?.slice(0,7)).filter(Boolean))].sort().reverse();
+  const mList = document.getElementById('month-list');
+  if (months.length <= 1) {
+    document.getElementById('month-section').style.display = 'none';
+  } else {
+    mList.innerHTML = months.map(m => {
+      const d = new Date(m + '-01');
+      const label = d.toLocaleString('pt-BR',{month:'long',year:'numeric'});
+      return `<button class="month-btn ${state.month===m?'active':''}"
+        onclick="setMonth('${m}')">${label[0].toUpperCase()+label.slice(1)}</button>`;
+    }).join('');
+  }
+
+  // Sources
+  const srcs = [...new Set(allNews.map(n => n.fonte).filter(Boolean))].sort();
+  document.getElementById('source-list').textContent = srcs.join(' · ');
+}
+
+// ── Competitor alert ────────────────────────────────────────────────────
+function detectRivals() {
+  const today = new Date().toISOString().slice(0,10);
+  const rivals = allNews.filter(n =>
+    n.data && n.data.startsWith(today) &&
+    n.tags && n.tags.includes('Concorrentes')
+  );
+  if (!rivals.length) return;
+  document.getElementById('rivalDot').style.display = 'block';
+  const alert = document.getElementById('rivalAlert');
+  alert.style.display = 'flex';
+  document.getElementById('rivalTitle').textContent =
+    rivals.length === 1 ? '1 menção a concorrente detectada hoje' :
+    `${rivals.length} menções a concorrentes detectadas hoje`;
+  document.getElementById('rivalBody').innerHTML =
+    rivals.map(n => `<a href="${n.url}" target="_blank">${esc(n.titulo)}</a>`).join(' · ');
+}
+
+// ── Render grid ─────────────────────────────────────────────────────────
+function render() {
+  const news = filteredNews();
+  const grid = document.getElementById('grid');
+
+  // Update stats
+  const catLabel = state.cat || 'Todas as Notícias';
+  document.getElementById('statsTitle').textContent = catLabel;
+  document.getElementById('statsCount').textContent = news.length + ' notícias';
+
+  const sm = document.getElementById('statsMonth');
+  if (state.month) {
+    const d = new Date(state.month + '-01');
+    sm.textContent = d.toLocaleString('pt-BR',{month:'long',year:'numeric'});
+    sm.style.display = '';
+  } else { sm.style.display = 'none'; }
+
+  const ss = document.getElementById('statsSearch');
+  if (state.search) {
+    ss.textContent = '🔍 "' + state.search + '"';
+    ss.style.display = '';
+  } else { ss.style.display = 'none'; }
+
+  if (!news.length) {
+    grid.innerHTML = `<div class="empty">
+      <div class="empty-icon">🔍</div>
+      <h3>Nenhuma notícia encontrada</h3>
+      <p>Tente ajustar os filtros ou a busca.</p>
+    </div>`;
+    return;
+  }
+
+  grid.innerHTML = news.map(renderCard).join('');
+}
+
+function renderCard(n) {
+  const primaryTag = n.tags?.[0] || 'Novidades no Setor';
+  const gradient = CAT_GRADIENT[primaryTag] || 'linear-gradient(135deg,#1a3a5c 0%,#0a1a2c 100%)';
+  const emoji = CAT_EMOJI_MAP[primaryTag] || '📄';
+  const isRival = n.tags?.includes('Concorrentes');
+
+  const imgHtml = n.imagem
+    ? `<img src="${esc(n.imagem)}" alt="${esc(n.titulo)}" loading="lazy"
+         onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">`
+    : '';
+
+  const tags = (n.tags||[]).slice(0,2).map(t => {
+    const cat = allCategories.find(c => c.nome===t);
+    const col = cat?.cor || '#6c757d';
+    const em  = cat?.emoji || '📄';
+    return `<span class="card-tag" style="background:${col}18;color:${col};border-color:${col}30">${em} ${esc(t)}</span>`;
+  }).join('');
+
+  const date = n.data ? new Date(n.data).toLocaleDateString('pt-BR',{day:'2-digit',month:'short',year:'numeric'}) : '';
+
+  return `<article class="card">
+  <div class="card-img">
+    ${imgHtml}
+    <div class="card-img-placeholder" style="background:${gradient};display:${n.imagem?'none':'flex'}">
+      <span style="font-size:40px;filter:drop-shadow(0 2px 8px rgba(0,0,0,.3))">${emoji}</span>
+    </div>
+    <div class="card-img-overlay"></div>
+    <span class="card-source">${esc(n.fonte||'')}</span>
+    ${isRival ? '<span class="card-rival-badge">⚔️ Concorrente</span>' : ''}
+  </div>
+  <div class="card-body">
+    <div class="card-tags">${tags}</div>
+    <h3 class="card-title"><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.titulo)}</a></h3>
+    <p class="card-excerpt">${esc(n.resumo||'')}</p>
+    <div class="card-footer">
+      <time class="card-date">${date}</time>
+      <a class="card-link" href="${esc(n.url)}" target="_blank" rel="noopener">Ler artigo →</a>
+    </div>
+  </div>
+</article>`;
+}
+
+// ── Controls ────────────────────────────────────────────────────────────
+function setCategory(cat) {
+  state.cat = cat;
+  document.querySelectorAll('.cat-btn').forEach(b => b.classList.toggle('active', b.dataset.cat===cat));
+  render();
+  if (window.innerWidth <= 700) toggleSidebar(false);
+  window.scrollTo({top:0, behavior:'smooth'});
+}
+
+function setMonth(m) {
+  state.month = state.month===m ? '' : m;
+  renderSidebar();
+  render();
+}
+
+function onSearch(val) {
+  state.search = val.trim();
+  document.getElementById('searchClear').style.display = val ? 'block' : 'none';
+  render();
+}
+
+function clearSearch() {
+  const inp = document.getElementById('searchInput');
+  inp.value = '';
+  onSearch('');
+  inp.focus();
+}
+
+function toggleSidebar(force) {
+  const s = document.getElementById('sidebar');
+  const o = document.getElementById('sidebarOverlay');
+  const open = force !== undefined ? force : !s.classList.contains('open');
+  s.classList.toggle('open', open);
+  o.classList.toggle('open', open);
+}
+
+function esc(s) {
+  return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
 init();
 </script>
 </body>
