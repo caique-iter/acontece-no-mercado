@@ -1,0 +1,74 @@
+{
+  "jornal": {
+    "nome": "Acontece no Mercado",
+    "descricao": "Monitor de notícias do setor turístico",
+    "logo_emoji": "🗞️",
+    "cor_primaria": "#1a3a5c",
+    "cor_destaque": "#e8a020"
+  },
+  "fontes": [
+    {
+      "nome": "Panrotas",
+      "rss": "https://www.panrotas.com.br/rss/",
+      "url": "https://www.panrotas.com.br",
+      "ativo": true
+    },
+    {
+      "nome": "Brasil Turis",
+      "rss": "https://www.brasilturis.com.br/feed/",
+      "url": "https://www.brasilturis.com.br",
+      "ativo": true
+    },
+    {
+      "nome": "Ministério do Turismo",
+      "rss": "",
+      "url": "https://www.gov.br/turismo/pt-br/assuntos/noticias",
+      "ativo": false,
+      "observacao": "Sem RSS - requer scraping HTML. Ativar quando configurar seletor CSS."
+    }
+  ],
+  "categorias": [
+    {
+      "nome": "Hospedagem",
+      "cor": "#2e86ab",
+      "palavras_chave": ["hotel", "hospedagem", "pousada", "resort", "airbnb", "aluguel por temporada", "hotelaria"]
+    },
+    {
+      "nome": "Transporte Aéreo",
+      "cor": "#a23b72",
+      "palavras_chave": ["aéreo", "companhia aérea", "voo", "aviação", "aeroporto", "latam", "gol", "azul", "decolagem", "passagem"]
+    },
+    {
+      "nome": "Eventos & Feiras",
+      "cor": "#f18f01",
+      "palavras_chave": ["evento", "feira", "congresso", "abav", "wtm", "festuris", "encontro", "summit", "workshop"]
+    },
+    {
+      "nome": "Política & Regulação",
+      "cor": "#c73e1d",
+      "palavras_chave": ["regulação", "ministério", "lei", "decreto", "política pública", "embratur", "mtur", "legislação", "anvisa", "vistos"]
+    },
+    {
+      "nome": "Destinos",
+      "cor": "#3b1f2b",
+      "palavras_chave": ["destino", "roteiro", "cidade", "praia", "montanha", "trilha", "ecoturismo", "turismo rural", "atração"]
+    },
+    {
+      "nome": "Tecnologia & Inovação",
+      "cor": "#44bba4",
+      "palavras_chave": ["tecnologia", "app", "plataforma", "digital", "inteligência artificial", "reserva online", "ota", "startup", "inovação"]
+    },
+    {
+      "nome": "Economia & Mercado",
+      "cor": "#e94f37",
+      "palavras_chave": ["receita", "crescimento", "queda", "mercado", "investimento", "resultado", "lucro", "prejuízo", "ipca", "dólar", "câmbio"]
+    }
+  ],
+  "configuracoes": {
+    "dias_historico": 90,
+    "max_noticias_por_coleta": 50,
+    "categoria_padrao": "Geral",
+    "github_usuario": "caique-iter",
+    "github_repositorio": "acontece-no-mercado"
+  }
+}
