@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Coletor de Noticias - Acontece no Mercado (v3 - sem catch-all)"""
+"""Coletor de Noticias - Acontece no Mercado (v4 - Novidades no Setor exige frases proprias)"""
 
 import json, hashlib, os, subprocess, sys
 from datetime import datetime, timezone, timedelta
@@ -33,11 +33,15 @@ def salvar_dados(dados):
 def gerar_id(url): return hashlib.md5(url.encode()).hexdigest()[:12]
 
 def normalizar(texto):
+    import re as _re
     t = texto.lower()
     subs = [("ã","a"),("â","a"),("á","a"),("à","a"),("ê","e"),("é","e"),("è","e"),
             ("î","i"),("í","i"),("õ","o"),("ô","o"),("ó","o"),("ò","o"),
             ("ú","u"),("û","u"),("ù","u"),("ç","c"),("ñ","n")]
     for orig, rep in subs: t = t.replace(orig, rep)
+    # remover pontuação especial (aspas, apostrofe, traço) sem apagar espaços
+    t = _re.sub(r"['\-]", " ", t)
+    t = _re.sub(r"\s+", " ", t).strip()
     return t
 
 def e_relevante_turismo(texto_norm, termos):
@@ -50,34 +54,32 @@ def detectar_concorrente(texto_norm, concorrentes):
 def taguear_com_score(titulo, resumo, categorias, concorrentes, max_tags,
                       termos_relevancia, especializada):
     """
-    Retorna lista de tags ou [] se nenhuma categoria bateu.
-    - Concorrentes: prioridade absoluta ao detectar nome da lista
-    - Categorias específicas: precisam de score >= score_minimo
-    - Novidades no Setor (catch-all): só entra se nenhuma outra categoria bateu
-      E a noticia tem termos turisticos (mesmo para especializadas)
-    - Se nada bater: retorna [] → noticia descartada
+    TODAS as categorias — inclusive "Novidades no Setor" — precisam ter frases
+    que se encaixem na noticia. Sem catch-all.
+    
+    Se nenhuma categoria encaixar → retorna [] → noticia descartada.
+    Fontes generalistas: filtro de relevância turística aplicado antes de chegar aqui.
+    Fontes especializadas: ainda precisam encaixar em pelo menos uma categoria.
     """
     texto_norm = normalizar(titulo + " " + resumo)
     scores = {}
 
+    # Concorrentes: prioridade absoluta via lista dedicada
     if detectar_concorrente(texto_norm, concorrentes):
         scores["Concorrentes"] = 999
 
+    # Avaliar todas as categorias (incluindo Novidades no Setor)
     for cat in categorias:
         nome = cat["nome"]
-        if nome in ("Concorrentes", "Novidades no Setor"): continue
+        if nome == "Concorrentes": continue
         frases = cat.get("frases", cat.get("palavras_chave", []))
         score_min = cat.get("score_minimo", 1)
         score = sum(1 for f in frases if normalizar(f) in texto_norm)
         if score >= score_min:
             scores[nome] = score
 
-    # Se nenhuma categoria específica bateu: testar "Novidades no Setor"
-    # Apenas se a noticia realmente tem contexto turístico
     if not scores:
-        if e_relevante_turismo(texto_norm, termos_relevancia):
-            return ["Novidades no Setor"]
-        return []  # descartar: sem relevância turística identificável
+        return []  # nenhuma categoria encaixou: descartar
 
     ordenado = sorted(scores.items(), key=lambda x: -x[1])
     return [tag for tag, _ in ordenado[:max_tags]]
@@ -101,7 +103,7 @@ def coletar_rss(fonte, categorias, concorrentes, termos_relevancia, max_n, max_t
             if not titulo or not url: continue
             resumo = limpar_html(entry.get("summary", entry.get("description","")))
 
-            # Filtro de relevância: fontes generalistas precisam de termo turístico no título+resumo
+            # Filtro de relevância: fontes generalistas precisam de termo turístico
             if not especializada:
                 texto_norm = normalizar(titulo + " " + resumo)
                 if not e_relevante_turismo(texto_norm, termos_relevancia):
@@ -115,7 +117,6 @@ def coletar_rss(fonte, categorias, concorrentes, termos_relevancia, max_n, max_t
             tags = taguear_com_score(titulo, resumo, categorias, concorrentes, max_tags,
                                      termos_relevancia, especializada)
 
-            # Se nenhuma tag foi atribuída: descartar mesmo fontes especializadas
             if not tags:
                 descartadas_categoria += 1
                 continue
@@ -146,7 +147,6 @@ def mesclar(existentes, novas, dias_historico):
 def git_push(token, usuario, repositorio):
     repo_url = f"https://{usuario}:{token}@github.com/{usuario}/{repositorio}.git"
     hoje = datetime.now().strftime("%Y-%m-%d")
-    # Pull antes de push para evitar conflito
     subprocess.run(["git","pull","--rebase",repo_url,"main"], cwd=BASE_DIR, capture_output=True)
     cmds = [
         ["git","config","user.email","coletor@acontece-no-mercado.local"],
