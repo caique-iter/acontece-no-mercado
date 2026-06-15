@@ -1,6 +1,313 @@
 {
   "noticias": [
     {
+      "id": "24f9c029ec70",
+      "titulo": "Copa do Mundo: Suécia goleia Tunísia e assume liderança de grupo que pode estar no caminho do Brasil",
+      "resumo": "Partida fechou a rodada deste domingo (14) pela competição",
+      "url": "https://www.abcmais.com/esportes/copa-do-mundo-suecia-goleia-tunisia-e-assume-lideranca-de-grupo-que-pode-estar-no-caminho-do-brasil/",
+      "imagem": null,
+      "fonte": "ABC Mais",
+      "fonte_url": "https://www.abcmais.com",
+      "tags": [
+        "Shows & Eventos"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-15T11:25:12Z",
+      "data_coleta": "2026-06-15T11:28:12Z"
+    },
+    {
+      "id": "662863d86448",
+      "titulo": "Corpo de produtor brasileiro que morreu em acidente aéreo é velado no RJ",
+      "resumo": "Cerimônia de Lucas Frota deve ocorrer a partir das 11h no Cemitério Memorial do Carmo, no bairro Caju, Centro do Rio; além dele, outras cinco pessoas morreram",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/corpo-de-produtor-brasileiro-que-morreu-em-acidente-aereo-e-velado-no-rj/",
+      "imagem": null,
+      "fonte": "CNN Brasil",
+      "fonte_url": "https://www.cnnbrasil.com.br",
+      "tags": [
+        "Incidentes"
+      ],
+      "categoria": "Incidentes",
+      "data": "2026-06-15T10:49:02Z",
+      "data_coleta": "2026-06-15T11:28:16Z"
+    },
+    {
+      "id": "2b33b6147853",
+      "titulo": "Anac diz que vai investigar se helicópteros que bateram no Recreio faziam transporte clandestino de passageiros",
+      "resumo": "Testemunhas relatam série de explosões após colisão entre helicópteros no Rio A Agência Nacional de Aviação Civil (Anac) informou que vai investigar se os helicópteros envolvidos na colisão que matou 6 pessoas no Recreio dos Bandeirantes, na Zona Sudoeste do Rio, realizavam transporte clandestino de",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/15/anac-diz-que-vai-investigar-se-helicopteros-que-bateram-no-recreio-faziam-transporte-clandestino-de-passageiros.ghtml",
+      "imagem": "https://s2-g1.glbimg.com/wjf31er69cQxBHUTPGOM5NTE8Yc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/t/7ZUCm1TAmG9RrrJoeFbQ/14cops.jpg",
+      "fonte": "G1",
+      "fonte_url": "https://g1.globo.com",
+      "tags": [
+        "Setor Aereo"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-06-15T10:24:33Z",
+      "data_coleta": "2026-06-15T11:28:13Z"
+    },
+    {
+      "id": "aa5aa55af2b6",
+      "titulo": "Sob Milei, Argentina deixa de ser principal destino internacional de Lula",
+      "resumo": "No Lula 1 e Lula 2, vizinho era comandado por Néstor e Cristina Kirchner e foi mais país visitado pelo petista; cenário muda em terceiro mandato",
+      "url": "https://www.cnnbrasil.com.br/internacional/sob-milei-argentina-deixa-de-ser-principal-destino-internacional-de-lula/",
+      "imagem": null,
+      "fonte": "CNN Brasil",
+      "fonte_url": "https://www.cnnbrasil.com.br",
+      "tags": [
+        "Atrativos Internacionais"
+      ],
+      "categoria": "Atrativos Internacionais",
+      "data": "2026-06-15T10:00:56Z",
+      "data_coleta": "2026-06-15T11:28:16Z"
+    },
+    {
+      "id": "89c321efd1d5",
+      "titulo": "Trump esnoba Copa do Mundo nos EUA e é alvo de críticas",
+      "resumo": "No início da semana, Donald Trump foi o primeiro presidente americano em exercício a comparecer a uma final da NBA , a liga de basquete americano. Na noite deste domingo (14), Trump comemorou seus 80 anos promovendo uma luta de UFC no gramado da Casa Branca. Leia mais (06/15/2026 - 06h00)",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mundo/2026/06/trump-esnoba-copa-do-mundo-nos-eua-e-e-alvo-de-criticas.shtml",
+      "imagem": null,
+      "fonte": "Folha de Sao Paulo",
+      "fonte_url": "https://www.folha.uol.com.br",
+      "tags": [
+        "Shows & Eventos"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-15T09:00:00Z",
+      "data_coleta": "2026-06-15T11:28:15Z"
+    },
+    {
+      "id": "8d26ebf62132",
+      "titulo": "Copa do Mundo: veja a agenda de jogos desta segunda-feira (15)",
+      "resumo": "Torneio chega no seu quinto dia de disputa com quatro jogos acontecendo nos gramados dos Estados Unidos",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/copa-do-mundo-veja-a-agenda-de-jogos-desta-segunda-feira-15/",
+      "imagem": null,
+      "fonte": "CNN Brasil",
+      "fonte_url": "https://www.cnnbrasil.com.br",
+      "tags": [
+        "Shows & Eventos"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-15T07:00:51Z",
+      "data_coleta": "2026-06-15T11:28:16Z"
+    },
+    {
+      "id": "b499ea9e4f80",
+      "titulo": "Helicóptero envolvido em colisão no Rio cedia horas de voo à prefeitura sem autorização da Anac",
+      "resumo": "O helicóptero PR-DJJ, envolvido na colisão aérea que deixou seis pessoas mortas neste domingo (14) no Rio de Janeiro , é objeto de um modelo de prestação de serviço com a prefeitura carioca considerado irregular pela Anac (Agência Nacional de Aviação Civil). Leia mais (06/15/2026 - 04h00)",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/cotidiano/2026/06/helicoptero-envolvido-em-colisao-no-rio-cedia-horas-de-voo-a-prefeitura-sem-autorizacao-da-anac.shtml",
+      "imagem": null,
+      "fonte": "Folha de Sao Paulo",
+      "fonte_url": "https://www.folha.uol.com.br",
+      "tags": [
+        "Setor Aereo"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-06-15T07:00:00Z",
+      "data_coleta": "2026-06-15T11:28:16Z"
+    },
+    {
+      "id": "eca9b8e6666e",
+      "titulo": "Curaçao convoca parceiros do trade para assistir estreia na Copa do Mundo; veja fotos",
+      "resumo": "Blue Wave Watch Party em S&#227;o Paulo reuniu especialmente agentes de viagens e parceiros comerciais",
+      "url": "https://www.panrotas.com.br/mercado/destinos/2026/06/curacao-convoca-parceiros-do-trade-para-assistir-estreia-na-copa-do-mundo-veja-fotos_229447.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/14/b82c5b9b6153f0c838f8d6e42ff28b64-rem9107.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Shows & Eventos"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-14T19:04:00Z",
+      "data_coleta": "2026-06-15T11:28:02Z"
+    },
+    {
+      "id": "87bb7f75573c",
+      "titulo": "Brasil Empata com Marrocos na Estreia da Copa do Mundo 2026 com Gol de Vini Jr.",
+      "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Início do torneio foi no MetLife Stadium, em Nova Jersey, com estádio lotado O post Brasil Empata com Marrocos na Estreia da Copa do Mundo 2026 com Gol de Vini Jr. apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-life/forbes-sport/2026/06/brasil-empata-com-marrocos-na-estreia-da-copa-do-mundo-2026-com-gol-de-vini-jr/",
+      "imagem": null,
+      "fonte": "Forbes Brasil",
+      "fonte_url": "https://forbes.com.br",
+      "tags": [
+        "Shows & Eventos",
+        "Atrativos Internacionais"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-14T00:32:03Z",
+      "data_coleta": "2026-06-15T11:28:17Z"
+    },
+    {
+      "id": "a810de8f1e50",
+      "titulo": "Startup Capta US$ 28 Milhões e Leva Talheres À Base de Plantas para a Copa do Mundo",
+      "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. A startup da lista Under 30 está convencendo empresas — do SoFi Stadium à Starlink, de Elon Musk — a adotar copos e talheres sustentáveis O post Startup Capta US$ 28 Milhões e Leva Talheres À Base de Plantas para a Copa do Mundo apa",
+      "url": "https://forbes.com.br/forbes-money/2026/06/startup-capta-us-28-milhoes-e-leva-talheres-a-base-de-plantas-para-a-copa-do-mundo/",
+      "imagem": null,
+      "fonte": "Forbes Brasil",
+      "fonte_url": "https://forbes.com.br",
+      "tags": [
+        "Shows & Eventos"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-13T08:00:00Z",
+      "data_coleta": "2026-06-15T11:28:17Z"
+    },
+    {
+      "id": "d5c1b25787be",
+      "titulo": "Destinos, cartões de assistência, consolidadoras: mais destaques da FIT Cataratas",
+      "resumo": "Fornecedores se encontram em Foz do Igua&#231;u na feira que une todas as pontas do Turismo",
+      "url": "https://www.panrotas.com.br/mercado/feiras/2026/06/destinos-cartoes-de-assistencia-consolidadoras-mais-destaques-da-fit-cataratas_229442.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/12/47037dbcc37081e6ebe012db8408a366-img3689.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor",
+        "Shows & Eventos"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-12T21:44:00Z",
+      "data_coleta": "2026-06-15T11:28:02Z"
+    },
+    {
+      "id": "fb05f5ae2d8b",
+      "titulo": "Mandarin Oriental retornará a Manila, nas Filipinas, após 12 anos de ausência",
+      "resumo": "Localizado no distrito de Makati, novo hotel ocupar&#225; um alto edif&#237;cio e contar&#225; com 275 quartos",
+      "url": "https://www.panrotas.com.br/viagens-de-luxo/hotelaria/2026/06/mandarin-oriental-retornara-a-manila-nas-filipinas-apos-12-anos-de-ausencia_229437.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/12/8a5d6533869b0d7721d21d4aebb3744b-mandarinorientalmanila.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Setor Hoteleiro"
+      ],
+      "categoria": "Setor Hoteleiro",
+      "data": "2026-06-12T21:33:00Z",
+      "data_coleta": "2026-06-15T11:28:02Z"
+    },
+    {
+      "id": "5081730b7e26",
+      "titulo": "TTWgroup e IHG fazem ação em parceria em clima de Copa do Mundo",
+      "resumo": "A&#231;&#227;o foi para que todos criassem a arte da camisa que ser&#225; usada pela equipe para torcer pelo Brasil",
+      "url": "https://www.panrotas.com.br/viagens-de-luxo/parcerias/2026/06/ttwgroup-e-ihg-fazem-acao-em-parceria-em-clima-de-copa-do-mundo_229446.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/12/253aea076778b7901476fb355bfa385b-fototurismo2.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Shows & Eventos",
+        "Setor Hoteleiro"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-12T20:59:00Z",
+      "data_coleta": "2026-06-15T11:28:02Z"
+    },
+    {
+      "id": "e7a6aee2c375",
+      "titulo": "Trade turístico se reúne em Foz do Iguaçu na FIT Cataratas 2026; veja fotos",
+      "resumo": "Players de diversos segmentos do setor se encontram para dois dias de muito networking e neg&#243;cios",
+      "url": "https://www.panrotas.com.br/mercado/feiras/2026/06/trade-turistico-se-reune-em-foz-do-iguacu-na-fit-cataratas-2026-veja-fotos_229444.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/12/64c28cc7168e06299cf18014fd6d64d0-img3727.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor",
+        "Shows & Eventos",
+        "Atrativos Nacionais"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-12T20:44:00Z",
+      "data_coleta": "2026-06-15T11:28:02Z"
+    },
+    {
+      "id": "f92afa5390f9",
+      "titulo": "Joyce Cordeiro, ex-Aviareps, é a nova gerente de Vendas Lazer da Wyndham no Brasil",
+      "resumo": "Executiva ter&#225; a miss&#227;o de apoiar o crescimento da companhia junto a operadoras, ag&#234;ncias e parceiros",
+      "url": "https://www.panrotas.com.br/gente/movimentacao/2026/06/joyce-cordeiro-ex-aviareps-e-a-nova-gerente-de-vendas-lazer-da-wyndham-no-brasil_229443.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/12/046b3e85b8ed8ad0339dfc381ab4bd4a-picture1.png",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Setor Hoteleiro"
+      ],
+      "categoria": "Setor Hoteleiro",
+      "data": "2026-06-12T20:33:00Z",
+      "data_coleta": "2026-06-15T11:28:02Z"
+    },
+    {
+      "id": "3f4d09613469",
+      "titulo": "Disney vê alta de brasileiros em hotéis e avanço do modelo Land &amp; Sea",
+      "resumo": "Companhia vem percebendo uma mudan&#231;a no comportamento do viajante brasileiro nos parques de Orlando",
+      "url": "https://www.panrotas.com.br/mercado/cruzeiros/2026/05/brasileiros-ampliam-presenca-em-hoteis-disney-e-impulsionam-land-sea-na-florida_228967.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/05/26/445b514ad2e95763bd36e12a5bbab4ac-img5659.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Atrativos Internacionais"
+      ],
+      "categoria": "Atrativos Internacionais",
+      "data": "2026-06-12T20:02:00Z",
+      "data_coleta": "2026-06-15T11:28:02Z"
+    },
+    {
+      "id": "21b9fad1329a",
+      "titulo": "American Airlines expande operação na Venezuela e anuncia voos para o Haiti",
+      "resumo": "American lan&#231;ar&#225; voos para Maracaibo a partir de Miami no pr&#243;ximo dia 14 de julho",
+      "url": "https://www.panrotas.com.br/aviacao/novas-rotas/2026/06/american-airlines-expande-operacao-na-venezuela-e-anuncia-voos-para-o-haiti_229431.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/01/28/6ff1a2c342e1fd5e581a3020f3dc6a12-2601264q25.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Atrativos Internacionais",
+        "Setor Aereo"
+      ],
+      "categoria": "Atrativos Internacionais",
+      "data": "2026-06-12T19:57:00Z",
+      "data_coleta": "2026-06-15T11:28:02Z"
+    },
+    {
+      "id": "1949ab139d16",
+      "titulo": "Farah Nile Cruise se anima com alta procura de brasileiros por cruzeiros de luxo Rio Nilo",
+      "resumo": "Na LE Miami, empresa chama aten&#231;&#227;o dos buyers brasileiros. Be Hospitality faz a representa&#231;&#227;o no Brasil",
+      "url": "https://www.panrotas.com.br/viagens-de-luxo/cruzeiros/2026/06/farah-nile-cruise-se-anima-com-alta-procura-de-brasileiros-por-cruzeiros-de-luxo-rio-nilo_229439.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/12/d919bb6d632be96c83d7acb098274896-farahnile.jpeg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Atrativos Internacionais"
+      ],
+      "categoria": "Atrativos Internacionais",
+      "data": "2026-06-12T19:55:00Z",
+      "data_coleta": "2026-06-15T11:28:02Z"
+    },
+    {
+      "id": "362f058b2689",
+      "titulo": "Frt lança campanha de vendas que premia agências com camisetas do Brasil e televisões",
+      "resumo": "Lan&#231;amento da a&#231;&#227;o acontece na FIT Cataratas, feira importante para a operadora de Foz do Igua&#231;u",
+      "url": "https://www.panrotas.com.br/mercado/operadoras/2026/06/frt-lanca-campanha-de-vendas-que-premia-agencias-com-camisetas-do-brasil-e-televisoes_229438.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/12/07e14f403c86043ef661c861d0b0dcc7-img3648.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor",
+        "Shows & Eventos"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-12T19:53:00Z",
+      "data_coleta": "2026-06-15T11:28:02Z"
+    },
+    {
+      "id": "74041ca0539d",
+      "titulo": "Voos para Copa do Mundo nos EUA e México estão 16% mais caros que 2025, revela pesquisa",
+      "resumo": "Levantamento revela alta de 37% nas buscas para os dois pa&#237;ses no per&#237;odo, em compara&#231;&#227;o com o ano passado",
+      "url": "https://www.panrotas.com.br/aviacao/eventos/2026/06/voos-para-copa-do-mundo-nos-eua-e-mexico-estao-16-mais-caros-que-2025-revela-pesquisa_229436.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/02/12/787587c07e23490f8763e4813874ea24-envatolabsimageedit.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Shows & Eventos"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-12T19:36:00Z",
+      "data_coleta": "2026-06-15T11:28:02Z"
+    },
+    {
       "id": "d26fd692b738",
       "titulo": "Panini lança atualização do álbum da Copa com figurinha de Neymar; confira o valor",
       "resumo": "Neymar está entre os jogadores incluídos no novo produto da Panini, criado para atualizar o álbum oficial da Copa do Mundo",
@@ -61,6 +368,21 @@
       "data_coleta": "2026-06-12T18:41:13Z"
     },
     {
+      "id": "f1d92e291fc0",
+      "titulo": "Orinter e OTT Consolidadora lançam campanhas de Copa do Mundo para agentes de viagens",
+      "resumo": "Operadora anunciou que ter&#225; surpresas para os profissionais do Turismo nos dias de jogos do Brasil",
+      "url": "https://www.panrotas.com.br/mercado/operadoras/2026/06/orinter-e-ott-consolidadora-lancam-campanhas-de-copa-do-mundo-para-agentes-de-viagens_229429.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/12/d5028986884870db5224d2839984950f-tanarede1.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Shows & Eventos"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-12T18:08:00Z",
+      "data_coleta": "2026-06-15T11:28:02Z"
+    },
+    {
       "id": "c5fe9e984942",
       "titulo": "Veja campanhas que unem Copa do Mundo e solidariedade",
       "resumo": "A Copa do Mundo de 2026 também inspirou iniciativas fora dos gramados. Organizações sociais estão aproveitando o clima do torneio para arrecadar recursos e doações por meio da venda de produtos temáticos e campanhas solidárias. As ações beneficiam projetos de combate à fome, apoio a pacientes com câ",
@@ -92,6 +414,22 @@
       "data_coleta": "2026-06-12T18:41:13Z"
     },
     {
+      "id": "8d12c42f23a4",
+      "titulo": "WTTC revela as transformações que a Copa do Mundo 2026 proporciona ao setor de viagens",
+      "resumo": "Torneios demonstram como megaeventos podem servir como catalisadores de transforma&#231;&#245;es duradouras.",
+      "url": "https://www.panrotas.com.br/mercado/pesquisas-e-estatisticas/2026/06/wttc-revela-as-transformacoes-que-a-copa-do-mundo-2026-proporciona-ao-setor-de-viagens_229424.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2024/10/31/eb1ffd9237abc8d6d6aefa89c15705dc-unnamed3.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Shows & Eventos",
+        "Atrativos Internacionais"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-12T17:04:00Z",
+      "data_coleta": "2026-06-15T11:28:02Z"
+    },
+    {
       "id": "3e966e94de4a",
       "titulo": "Arena Errejota terá transmissão dos jogos do Brasil com rodas de samba e pagode",
       "resumo": "Espaço no Shopping Metropolitano Barra prepara programação especial e gratuita para a primeira fase da Copa do Mundo de 2026",
@@ -121,6 +459,69 @@
       "categoria": "Shows & Eventos",
       "data": "2026-06-12T17:01:00Z",
       "data_coleta": "2026-06-12T18:41:13Z"
+    },
+    {
+      "id": "606168e6738b",
+      "titulo": "Copa do Mundo tem início abaixo das expectativas e decepciona hotéis e aéreas nos EUA",
+      "resumo": "Em Nova York, uma das principais sedes do torneio e palco da final, o cen&#225;rio preocupa o setor hoteleiro",
+      "url": "https://www.panrotas.com.br/destinos/eventos/2026/06/copa-do-mundo-tem-inicio-abaixo-das-expectativas-e-decepciona-hoteis-e-aereas-nos-eua_229426.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/07/30/d7196e0699b0df7eecb3aee8eac2cd3a-reproducaofifa.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Shows & Eventos",
+        "Atrativos Internacionais"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-12T16:33:00Z",
+      "data_coleta": "2026-06-15T11:28:02Z"
+    },
+    {
+      "id": "22bce9c474e9",
+      "titulo": "Anac retoma atividades suspensas após repasse de R$ 25 milhões",
+      "resumo": "Recursos permitir&#227;o o restabelecimento imediato de 100% das atividades da ag&#234;ncia",
+      "url": "https://www.panrotas.com.br/aviacao/investimentos/2026/06/anac-retoma-atividades-suspensas-apos-repasse-de-r-25-milhoes_229425.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/04/06/31481e85e56cd558cce16fcd3fe04a7d-image.jpeg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Setor Aereo"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-06-12T16:04:00Z",
+      "data_coleta": "2026-06-15T11:28:02Z"
+    },
+    {
+      "id": "04723af17277",
+      "titulo": "Grupo BRT invade a FIT Cataratas com caravana de 120 agentes de viagens",
+      "resumo": "Profissionais de S&#227;o Paulo, Rio Grande do Sul, Santa Catarina e, claro, Paran&#225;, s&#227;o convidados da empresa",
+      "url": "https://www.panrotas.com.br/mercado/consolidadoras/2026/06/grupo-brt-invade-a-fit-cataratas-com-caravana-de-120-agentes-de-viagens_229422.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/12/1df4a141d494260bce4eec75fae7437b-brt.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor",
+        "Shows & Eventos"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-12T14:50:00Z",
+      "data_coleta": "2026-06-15T11:28:02Z"
+    },
+    {
+      "id": "e0e7d872bec3",
+      "titulo": "Grupo Xcaret e Orinter celebram crescimento de 100% em room nights",
+      "resumo": "Rede hoteleira est&#225; no Brasil para ampliar relacionamento com trade nacional",
+      "url": "https://www.panrotas.com.br/mercado/operadoras/2026/06/grupo-xcaret-e-orinter-celebram-crescimento-de-100-em-room-nights_229417.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/12/d10cf3c824900492c3f98059604e43a7-whatsappimage20260611at17.12.02.jpeg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Atrativos Internacionais",
+        "Setor Hoteleiro"
+      ],
+      "categoria": "Atrativos Internacionais",
+      "data": "2026-06-12T14:28:00Z",
+      "data_coleta": "2026-06-15T11:28:02Z"
     },
     {
       "id": "f931cda76ce7",
@@ -1255,6 +1656,6 @@
       "data_coleta": "2026-06-12T18:41:08Z"
     }
   ],
-  "ultima_atualizacao": "2026-06-12T18:41:33Z",
-  "total": 82
+  "ultima_atualizacao": "2026-06-15T11:28:25Z",
+  "total": 108
 }
