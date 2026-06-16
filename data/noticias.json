@@ -1,6 +1,235 @@
 {
   "noticias": [
     {
+      "id": "12aaed0d99ac",
+      "titulo": "Tijuca: Estudantes reciclam envelopes de figurinhas da Copa",
+      "resumo": "Enquanto milhões de brasileiros colecionam figurinhas da Copa do Mundo, os alunos do Colégio Marista São José, na Tijuca, decidiram dar um novo destino aos resíduos gerados pela paixão nacional. Desde o dia 13 de junho, durante a Festa Junina, estudantes, famílias e educadores foram convidados a par",
+      "url": "https://diariodorio.com/tijuca-estudantes-reciclam-envelopes-de-figurinhas-da-copa/",
+      "imagem": "https://diariodorio.com/wp-content/uploads/2026/06/IMG_3971.heic",
+      "fonte": "Diario do Rio",
+      "fonte_url": "https://diariodorio.com",
+      "tags": [
+        "Shows & Eventos"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-16T13:14:00Z",
+      "data_coleta": "2026-06-16T14:20:03Z"
+    },
+    {
+      "id": "a97889453eb6",
+      "titulo": "Azul e American Airlines negam redução de concorrência em parecer ao Cade",
+      "resumo": "American Airlines e a Azul apresentaram ao Cade (Conselho Administrativo de Defesa Econômica) nesta segunda (15) um parecer afirmando que a compra de 8% da companhia aérea brasileira pela norte-americana não cria incentivos para que as duas empresas reduzam rivalidade entre si. Leia mais (06/16/2026",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/06/azul-e-american-airlines-negam-reducao-de-concorrencia-em-parecer-ao-cade.shtml",
+      "imagem": null,
+      "fonte": "Folha de Sao Paulo",
+      "fonte_url": "https://www.folha.uol.com.br",
+      "tags": [
+        "Setor Aereo"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-06-16T13:09:00Z",
+      "data_coleta": "2026-06-16T14:20:01Z"
+    },
+    {
+      "id": "49f4587e95ac",
+      "titulo": "Capitão do Irã é retido em aeroporto dos EUA e atrasa voo da delegação",
+      "resumo": "Atacante Taremi e auxiliar Saeed Al-Hawie passaram por \"atrasos injustificados\" no aeroporto de Los Angeles",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/capitao-do-ira-e-retido-em-aeroporto-dos-eua-e-atrasa-voo-da-delegacao/",
+      "imagem": null,
+      "fonte": "CNN Brasil",
+      "fonte_url": "https://www.cnnbrasil.com.br",
+      "tags": [
+        "Atrativos Internacionais"
+      ],
+      "categoria": "Atrativos Internacionais",
+      "data": "2026-06-16T13:07:26Z",
+      "data_coleta": "2026-06-16T14:20:02Z"
+    },
+    {
+      "id": "347f040546cd",
+      "titulo": "Visit Rio lança guia de avistamento responsável para a chegada da temporada das jubartes",
+      "resumo": "Com o aumento do turismo de observação no litoral carioca, o Visit.Rio lançou um guia de turismo sustentável e de segurança para esses gigantes dos mares",
+      "url": "https://diariodorio.com/visit-rio-lanca-guia-de-avistamento-responsavel-para-a-chegada-da-temporada-das-jubartes/",
+      "imagem": "https://diariodorio.com/wp-content/uploads/2023/06/Sem-titulo-15.png",
+      "fonte": "Diario do Rio",
+      "fonte_url": "https://diariodorio.com",
+      "tags": [
+        "Atrativos Nacionais"
+      ],
+      "categoria": "Atrativos Nacionais",
+      "data": "2026-06-16T03:05:59Z",
+      "data_coleta": "2026-06-16T14:20:03Z"
+    },
+    {
+      "id": "fedcc29c9a3c",
+      "titulo": "Turismo em busca do hexa: veja fotos do trade na Copa do Mundo 2026",
+      "resumo": "Mande sua foto e mostre sua torcida pelo Brasil na Copa do Mundo 2026",
+      "url": "https://www.panrotas.com.br/gente/comemoracoes/2026/06/turismo-em-busca-do-hexa-veja-fotos-do-trade-na-copa-do-mundo-2026_229476.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/15/4d9b3e6c66268c14fee655589ec42025-danielcastanho.jpeg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Shows & Eventos",
+        "Atrativos Internacionais"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-15T20:36:00Z",
+      "data_coleta": "2026-06-16T14:19:54Z"
+    },
+    {
+      "id": "0c5d90beac95",
+      "titulo": "Nacional Inn Hotéis assume administração do Tryp Ribeirão Preto (SP)",
+      "resumo": "Hotel inaugurado em 2016 conta com 256 apartamentos, piscina no rooftop e academia 24 horas",
+      "url": "https://www.panrotas.com.br/hotelaria/mercado/2026/06/nacional-inn-hoteis-assume-administracao-do-tryp-ribeirao-preto-sp_229480.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/15/a3e9611391bb1efe10b6d6d5f01decf2-unnamed17.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Setor Hoteleiro"
+      ],
+      "categoria": "Setor Hoteleiro",
+      "data": "2026-06-15T20:31:00Z",
+      "data_coleta": "2026-06-16T14:19:54Z"
+    },
+    {
+      "id": "b957fdded5aa",
+      "titulo": "Delta inaugura voos diários entre Los Angeles e Hong Kong",
+      "resumo": "Rota &#233; operada com aeronaves Airbus A350-900, equipadas com a cabine Delta One Suite",
+      "url": "https://www.panrotas.com.br/aviacao/novas-rotas/2026/06/delta-inaugura-voos-diarios-entre-los-angeles-e-hong-kong_229458.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/15/20ea1157d373bebff19adc6011ec97a8-unnamed15.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Atrativos Internacionais"
+      ],
+      "categoria": "Atrativos Internacionais",
+      "data": "2026-06-15T19:54:00Z",
+      "data_coleta": "2026-06-16T14:19:54Z"
+    },
+    {
+      "id": "809db5988a72",
+      "titulo": "Tripadvisor venderá o The Fork para a American Express por US$ 700 milhões",
+      "resumo": "Com a aquisi&#231;&#227;o, a American Express ampliar&#225; sua oferta relacionada &#224; gastronomia na Europa",
+      "url": "https://www.panrotas.com.br/destinos/comer-e-beber/2026/06/tripadvisor-vendera-o-the-fork-para-a-american-express-por-us-700-milhoes_229472.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2018/06/11/b38ad5d102a568162374b31b88d547e2-dollar10297421920.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Setor Hoteleiro"
+      ],
+      "categoria": "Setor Hoteleiro",
+      "data": "2026-06-15T18:26:00Z",
+      "data_coleta": "2026-06-16T14:19:54Z"
+    },
+    {
+      "id": "b5df55e1c358",
+      "titulo": "Mini Mundo recebe prêmio internacional e se consolida entre as melhores atrações do mundo",
+      "resumo": "O Mini Mundo, um dos maiores ícones do turismo brasileiro e a atração mais tradicional de Gramado, acaba de conquistar pelo 12º ano consecutivo o prêmio Travellers’ Choice, concedido pelo TripAdvisor. O reconhecimento posiciona o parque da Serra Gaúcha no seleto grupo dos 10% melhores atrativos do p",
+      "url": "https://acontecegramado.com.br/mini-mundo-recebe-premio-internacional-e-se-consolida-entre-as-melhores-atracoes-do-mundo/",
+      "imagem": null,
+      "fonte": "Acontece Gramado",
+      "fonte_url": "https://acontecegramado.com.br",
+      "tags": [
+        "Concorrentes",
+        "Atrativos Nacionais",
+        "Setor Hoteleiro"
+      ],
+      "categoria": "Concorrentes",
+      "data": "2026-06-15T18:03:40Z",
+      "data_coleta": "2026-06-16T14:20:00Z"
+    },
+    {
+      "id": "42d510966bf0",
+      "titulo": "Universal Orlando anuncia novo espetáculo noturno no Epic Universe",
+      "resumo": "Show di&#225;rio com fogos de artif&#237;cio no Celestial Park homenagear&#225; personagens do parque",
+      "url": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/06/universal-orlando-anuncia-novo-espetaculo-noturno-no-epic-universe_229475.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/15/a2fdb87d36e75e347c8b2e5f01c36bbf-celestialgoodnight1220x940mediasite1536x1184.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Atrativos Internacionais"
+      ],
+      "categoria": "Atrativos Internacionais",
+      "data": "2026-06-15T17:53:00Z",
+      "data_coleta": "2026-06-16T14:19:54Z"
+    },
+    {
+      "id": "64746849284e",
+      "titulo": "Reforma Tributária: quais os três eixos que mais preocupam a hotelaria?",
+      "resumo": "Sobreviv&#234;ncia operacional dita o tom do 4&#186; Encontro de Neg&#243;cios da ABIH-SP realizado em Campinas",
+      "url": "https://www.panrotas.com.br/hotelaria/mercado/2026/06/reforma-tributaria-quais-sao-os-tres-eixos-que-mais-preocupam-a-hotelaria_229455.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2024/10/24/cd2ee20edb0aa4162d54065420d00f65-aphotoofahotelroomwithakingsizebedanignll0vr7nqyohib1039twdkpqd0ousjahymidt6d6aq.jpeg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Setor Hoteleiro"
+      ],
+      "categoria": "Setor Hoteleiro",
+      "data": "2026-06-15T17:02:00Z",
+      "data_coleta": "2026-06-16T14:19:54Z"
+    },
+    {
+      "id": "0672a6ff71b2",
+      "titulo": "Pra Cima Brasil: operadoras realizam primeira grande operação da Copa do Mundo em NY",
+      "resumo": "milhares de torcedores brasileiros acompanharam a partida entre Brasil e Marrocos no MetLife Stadium",
+      "url": "https://www.panrotas.com.br/destinos/eventos/2026/06/pra-cima-brasil-operadoras-realizam-primeira-grande-operacao-da-copa-do-mundo-em-ny_229469.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/15/82e0fe1b4e8bff24ab296ba85cc01b63-copadomundo.jpeg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Shows & Eventos"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-15T16:04:00Z",
+      "data_coleta": "2026-06-16T14:19:54Z"
+    },
+    {
+      "id": "4b33dcd50060",
+      "titulo": "Visa inaugura lounge para clientes em Miami durante a Copa do Mundo",
+      "resumo": "Espa&#231;o em Miami ter&#225; acesso mediante reserva para portadores do cart&#227;o da Am&#233;rica Latina e Caribe",
+      "url": "https://www.panrotas.com.br/mercado/destinos/2026/06/visa-inaugura-lounge-para-clientes-em-miami-durante-a-copa-do-mundo_229466.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/15/a19c6abb9d707935dcb930a7865aadd4-unnamed20260615t120227.539.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Shows & Eventos",
+        "Atrativos Internacionais"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-15T15:16:00Z",
+      "data_coleta": "2026-06-16T14:19:54Z"
+    },
+    {
+      "id": "f088c446ca44",
+      "titulo": "Royal Caribbean inicia oficialmente construção do sétimo navio da classe Oasis; VÍDEO",
+      "resumo": "Embarca&#231;&#227;o est&#225; prevista para estrear em 2028 e promete novas experi&#234;ncias aos h&#243;spedes",
+      "url": "https://www.panrotas.com.br/mercado/cruzeiros/2026/06/royal-caribbean-inicia-oficialmente-construcao-do-setimo-navio-da-classe-oasis-video_229453.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/15/de42b11f9864239c8e2a9d488c6882d3-26cdab35260611dronepierrebordais.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Temporada de Navios & Cruzeiros"
+      ],
+      "categoria": "Temporada de Navios & Cruzeiros",
+      "data": "2026-06-15T12:55:00Z",
+      "data_coleta": "2026-06-16T14:19:54Z"
+    },
+    {
+      "id": "0f729445dc78",
+      "titulo": "Salão de Gramado acontece a partir desta segunda (15) e espera mais de 11 mil participantes",
+      "resumo": "A Serra Gaúcha volta a se transformar no epicentro do mercado de alta decoração nesta semana. Começa hoje, segunda-feira (15), no pavilhão do Serra Park, a 11ª edição do Salão de Gramado. O evento, que se estende até quinta-feira (18), projeta reunir uma cadeia completa de profissionais — entre indu",
+      "url": "https://acontecegramado.com.br/salao-de-gramado-acontece-a-partir-desta-segunda-15-e-espera-mais-de-11-mil-participantes/",
+      "imagem": null,
+      "fonte": "Acontece Gramado",
+      "fonte_url": "https://acontecegramado.com.br",
+      "tags": [
+        "Atrativos Nacionais"
+      ],
+      "categoria": "Atrativos Nacionais",
+      "data": "2026-06-15T11:42:39Z",
+      "data_coleta": "2026-06-16T14:20:00Z"
+    },
+    {
       "id": "24f9c029ec70",
       "titulo": "Copa do Mundo: Suécia goleia Tunísia e assume liderança de grupo que pode estar no caminho do Brasil",
       "resumo": "Partida fechou a rodada deste domingo (14) pela competição",
@@ -14,6 +243,21 @@
       "categoria": "Shows & Eventos",
       "data": "2026-06-15T11:25:12Z",
       "data_coleta": "2026-06-15T11:28:12Z"
+    },
+    {
+      "id": "dc6cf107ac3c",
+      "titulo": "Accor lança projeto para apoiar jovens distantes do mercado de trabalho",
+      "resumo": "Objetivo &#233; apoiar e fortalecer a empregabilidade de 20 mil pessoas at&#233; 2030",
+      "url": "https://www.panrotas.com.br/hotelaria/parcerias/2026/06/accor-lanca-projeto-para-apoiar-jovens-distantes-do-mercado-de-trabalho_229423.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/12/89f5c2812e5f8f08b3a80bcddb2108fb-sebastienbazinchairmaneceodaaccorefayzalamaripresidentedainspiredbykmnoeventodelancamentodoprojeto.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Setor Hoteleiro"
+      ],
+      "categoria": "Setor Hoteleiro",
+      "data": "2026-06-15T11:04:00Z",
+      "data_coleta": "2026-06-16T14:19:55Z"
     },
     {
       "id": "662863d86448",
@@ -1656,6 +1900,6 @@
       "data_coleta": "2026-06-12T18:41:08Z"
     }
   ],
-  "ultima_atualizacao": "2026-06-15T11:28:25Z",
-  "total": 108
+  "ultima_atualizacao": "2026-06-16T14:20:05Z",
+  "total": 124
 }
