@@ -141,8 +141,8 @@ def coletar_rss(fonte, categorias, concorrentes, termos_relevancia, max_n, max_t
 
             # Filtro de relevância: fontes generalistas precisam de termo turístico
             if not especializada:
-                texto_norm = normalizar(titulo + " " + resumo)
-                if not e_relevante_turismo(texto_norm, termos_relevancia):
+                # Panrotas como norteador: termo turistico deve estar no TITULO
+                if not e_relevante_turismo(normalizar(titulo), termos_relevancia):
                     descartadas_relevancia += 1
                     continue
 

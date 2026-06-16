@@ -46,6 +46,21 @@
       "data_coleta": "2026-06-16T14:20:02Z"
     },
     {
+      "id": "fbdafe0eb7e8",
+      "titulo": "Miami prepara eventos e experiências exclusivas para celebrar os 250 anos dos EUA",
+      "resumo": "Destino ter&#225; fogos de artif&#237;cio, festividades &#224; beira-mar, atividades culturais e mais",
+      "url": "https://www.panrotas.com.br/destinos/eventos/2026/06/miami-prepara-eventos-e-experiencias-exclusivas-para-celebrar-os-250-anos-dos-eua_229471.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/15/c276a494f76da05569293d87e04cec56-sparklersandflag1920x1200.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Atrativos Internacionais"
+      ],
+      "categoria": "Atrativos Internacionais",
+      "data": "2026-06-16T11:21:00Z",
+      "data_coleta": "2026-06-16T14:42:27Z"
+    },
+    {
       "id": "347f040546cd",
       "titulo": "Visit Rio lança guia de avistamento responsável para a chegada da temporada das jubartes",
       "resumo": "Com o aumento do turismo de observação no litoral carioca, o Visit.Rio lançou um guia de turismo sustentável e de segurança para esses gigantes dos mares",
@@ -379,6 +394,22 @@
       "categoria": "Shows & Eventos",
       "data": "2026-06-14T00:32:03Z",
       "data_coleta": "2026-06-15T11:28:17Z"
+    },
+    {
+      "id": "652278631f67",
+      "titulo": "Mulher de 21 anos morre após ser lançada sem corda de rope jump em Limeira (SP)",
+      "resumo": "Uma jovem de 21 anos morreu na manhã de sábado (13) enquanto praticava rope jump na Trilha da Ponte do Esqueleto, em Limeira, interior de São Paulo. Os funcionários da empresa Entre Cordas não colocaram a corda de segurança necessária antes do salto. Pessoas presentes realizaram manobras de RCP até a chegada do SAMU, mas o óbito foi constatado no local por politraumatismo. O caso gerou alertas sobre segurança em atividades de turismo de aventura.",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/mulher-morre-apos-ser-lancada-sem-corda-de-bungee-jump-em-limeira-sp/",
+      "imagem": null,
+      "fonte": "CNN Brasil",
+      "fonte_url": "https://www.cnnbrasil.com.br",
+      "tags": [
+        "Incidentes"
+      ],
+      "categoria": "Incidentes",
+      "data": "2026-06-13T12:00:00Z",
+      "data_coleta": "2026-06-16T14:41:56Z",
+      "_manual": true
     },
     {
       "id": "a810de8f1e50",
@@ -1642,6 +1673,23 @@
       "data_coleta": "2026-06-12T18:41:08Z"
     },
     {
+      "id": "f833ea7bef03",
+      "titulo": "Funcionário do Snowland morre após acidente durante manutenção da atração em Gramado",
+      "resumo": "Um trabalhador da equipe de manutenção do Snowland faleceu após ficar preso nas engrenagens de uma esteira mecânica em movimento durante serviço na área técnica do parque. O acidente ocorreu por volta das 8h35 de quarta-feira (10) em área restrita ao público. O funcionário sofreu parada cardiorrespiratória no local e não resistiu às lesões. A Polícia Civil e o Ministério do Trabalho e Emprego abriram investigações para apurar as circunstâncias e verificar o cumprimento dos protocolos de segurança.",
+      "url": "https://ndmais.com.br/seguranca/funcionario-morre-acidente-manutencao-snowland-gramado/",
+      "imagem": null,
+      "fonte": "ND Mais",
+      "fonte_url": "https://ndmais.com.br",
+      "tags": [
+        "Concorrentes",
+        "Incidentes"
+      ],
+      "categoria": "Concorrentes",
+      "data": "2026-06-10T10:00:00Z",
+      "data_coleta": "2026-06-16T14:41:56Z",
+      "_manual": true
+    },
+    {
       "id": "b6c5ba698f92",
       "titulo": "Visto não garante entrada e beber na rua pode ser proibido: o que brasileiros precisam saber antes de ir à Copa",
       "resumo": "Imagem aérea do estádio Azteca, onde acontece a cerimônia de abertura da Copa do Mundo de 2026. AP/Fernando Llano/Arquivo A Copa do Mundo começa nesta quinta-feira (11), e os brasileiros que vão acompanhar os 40 dias de jogos nos Estados Unidos, no México e no Canadá devem ficar atentos a regras de",
@@ -1900,6 +1948,6 @@
       "data_coleta": "2026-06-12T18:41:08Z"
     }
   ],
-  "ultima_atualizacao": "2026-06-16T14:20:05Z",
-  "total": 124
+  "ultima_atualizacao": "2026-06-16T14:42:37Z",
+  "total": 127
 }
