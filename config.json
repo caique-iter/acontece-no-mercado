@@ -1102,4 +1102,9 @@
   },
   "configuracoes": {
     "dias_historico": 90,
-    "max_
+    "max_noticias_por_coleta": 50,
+    "max_tags_por_noticia": 3,
+    "github_usuario": "caique-iter",
+    "github_repositorio": "acontece-no-mercado"
+  }
+}
