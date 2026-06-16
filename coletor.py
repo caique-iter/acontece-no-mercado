@@ -150,6 +150,16 @@ def extrair_imagem(entry):
         pass
     return None
 
+def calcular_pontuacao(texto_norm, categorias):
+    """Soma de frases casadas em todas as categorias (exceto Concorrentes)."""
+    total = 0
+    for cat in categorias:
+        if cat["nome"] == "Concorrentes": continue
+        for f in cat.get("frases", []):
+            if normalizar(f) in texto_norm:
+                total += 1
+    return total
+
 def coletar_rss(fonte, categorias, concorrentes, termos_relevancia, max_n, max_tags):
     noticias = []
     if not fonte.get("rss"): return noticias
@@ -214,11 +224,20 @@ def coletar_rss(fonte, categorias, concorrentes, termos_relevancia, max_n, max_t
             else:   data = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
             imagem = extrair_imagem(entry)
+
+            # Pontuação editorial: frases casadas + bônus por tags extras + bônus Panrotas
+            _texto_score = normalizar(titulo + " " + resumo + (" " + corpo if corpo else ""))
+            _score = calcular_pontuacao(_texto_score, categorias)
+            _score += max(0, len(tags) - 1) * 5   # +5 por tag extra
+            if imagem: _score += 3                 # +3 tem imagem
+            if aceitar_tudo: _score += 20          # +20 fonte editorial (Panrotas)
+
             noticias.append({
                 "id": gerar_id(url), "titulo": titulo, "resumo": resumo,
                 "url": url, "imagem": imagem,
                 "fonte": fonte["nome"], "fonte_url": fonte["url"],
                 "tags": tags, "categoria": tags[0], "data": data,
+                "_score": _score,
                 "data_coleta": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
             })
 
