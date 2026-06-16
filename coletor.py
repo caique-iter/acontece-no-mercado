@@ -1,5 +1,13 @@
 #!/usr/bin/env python3
-"""Coletor de Noticias - Acontece no Mercado (v4 - Novidades no Setor exige frases proprias)"""
+"""Coletor de Noticias - Acontece no Mercado (v5)
+
+Metodologia:
+- Panrotas (aceitar_tudo=true): aceita tudo exceto gestao/reestruturacao.
+  Categoriza com frases; se nenhuma casar -> "Novidades no Setor".
+- Fontes especializadas (especializada=true): bypass relevancia, exige categoria.
+- Fontes generalistas: testa titulo+resumo; se falhar, busca corpo do artigo.
+  Categoria obrigatoria (sem fallback).
+"""
 
 import json, hashlib, os, subprocess, sys
 from datetime import datetime, timezone, timedelta
@@ -39,7 +47,6 @@ def normalizar(texto):
             ("î","i"),("í","i"),("õ","o"),("ô","o"),("ó","o"),("ò","o"),
             ("ú","u"),("û","u"),("ù","u"),("ç","c"),("ñ","n")]
     for orig, rep in subs: t = t.replace(orig, rep)
-    # remover pontuação especial (aspas, apostrofe, traço) sem apagar espaços
     t = _re.sub(r"['\-]", " ", t)
     t = _re.sub(r"\s+", " ", t).strip()
     return t
@@ -51,24 +58,47 @@ def detectar_concorrente(texto_norm, concorrentes):
     todos = concorrentes.get("rj",[]) + concorrentes.get("rs",[])
     return any(normalizar(c) in texto_norm for c in todos)
 
-def taguear_com_score(titulo, resumo, categorias, concorrentes, max_tags,
-                      termos_relevancia, especializada):
-    """
-    TODAS as categorias — inclusive "Novidades no Setor" — precisam ter frases
-    que se encaixem na noticia. Sem catch-all.
-    
-    Se nenhuma categoria encaixar → retorna [] → noticia descartada.
-    Fontes generalistas: filtro de relevância turística aplicado antes de chegar aqui.
-    Fontes especializadas: ainda precisam encaixar em pelo menos uma categoria.
-    """
+def verificar_exclusao(titulo, resumo, padroes):
+    """Retorna True se o artigo deve ser descartado por tratar de gestão/reestruturação."""
     texto_norm = normalizar(titulo + " " + resumo)
+    return any(normalizar(p) in texto_norm for p in padroes)
+
+def fetch_corpo_artigo(url, timeout=6, max_chars=2000):
+    """Busca o corpo do artigo para enriquecer o filtro de relevancia e classificacao."""
+    try:
+        headers = {"User-Agent": "Mozilla/5.0 (compatible; AconteceNoMercado/1.0)"}
+        r = requests.get(url, timeout=timeout, headers=headers)
+        if r.status_code != 200: return ""
+        soup = BeautifulSoup(r.text, "html.parser")
+        # Remover nav, header, footer, scripts
+        for tag in soup(["script","style","nav","header","footer","aside","form"]):
+            tag.decompose()
+        # Tentar seletores de conteudo principal
+        for sel in ["article", "main", ".article-body", ".post-content",
+                    ".entry-content", ".materia-corpo", ".noticia-texto", "#conteudo"]:
+            el = soup.select_one(sel)
+            if el:
+                texto = " ".join(el.get_text(separator=" ").split())
+                if len(texto) > 100:
+                    return texto[:max_chars]
+        # Fallback: primeiros paragrafos
+        paras = soup.find_all("p")
+        texto = " ".join(" ".join(p.get_text().split()) for p in paras[:20])
+        return texto[:max_chars]
+    except Exception:
+        return ""
+
+def taguear_com_score(titulo, resumo, categorias, concorrentes, max_tags, texto_extra=""):
+    """
+    Classifica o artigo com base em titulo+resumo (+ texto_extra quando disponivel).
+    Retorna lista de tags ordenadas por score. Lista vazia = nenhuma categoria encaixou.
+    """
+    texto_norm = normalizar(titulo + " " + resumo + (" " + texto_extra if texto_extra else ""))
     scores = {}
 
-    # Concorrentes: prioridade absoluta via lista dedicada
     if detectar_concorrente(texto_norm, concorrentes):
         scores["Concorrentes"] = 999
 
-    # Avaliar todas as categorias (incluindo Novidades no Setor)
     for cat in categorias:
         nome = cat["nome"]
         if nome == "Concorrentes": continue
@@ -79,24 +109,22 @@ def taguear_com_score(titulo, resumo, categorias, concorrentes, max_tags,
             scores[nome] = score
 
     if not scores:
-        return []  # nenhuma categoria encaixou: descartar
+        return []
 
     ordenado = sorted(scores.items(), key=lambda x: -x[1])
     return [tag for tag, _ in ordenado[:max_tags]]
 
-def limpar_html(texto, max_chars=300):
+def limpar_html(texto, max_chars=400):
     if "<" in texto: texto = BeautifulSoup(texto,"html.parser").get_text(separator=" ")
     return " ".join(texto.split())[:max_chars].strip()
 
 def extrair_imagem(entry):
-    """Tenta extrair URL de imagem do RSS entry (media, enclosure ou img no summary)."""
+    """Tenta extrair URL de imagem do RSS entry."""
     try:
-        # 1. media:thumbnail
         mt = getattr(entry, "media_thumbnail", None)
         if mt and isinstance(mt, list):
             url = mt[0].get("url", "")
             if url.startswith("http"): return url
-        # 2. media:content
         mc = getattr(entry, "media_content", None)
         if mc and isinstance(mc, list):
             for m in mc:
@@ -105,12 +133,10 @@ def extrair_imagem(entry):
                 if url.startswith("http") and ("image" in medium or
                    any(url.lower().endswith(ext) for ext in (".jpg",".jpeg",".png",".webp"))):
                     return url
-        # 3. enclosures
         for enc in getattr(entry, "enclosures", []):
             if "image" in enc.get("type", ""):
                 url = enc.get("href", enc.get("url", ""))
                 if url.startswith("http"): return url
-        # 4. img tag no summary/content
         html = entry.get("summary", "")
         if not html and entry.get("content"):
             html = entry["content"][0].get("value", "")
@@ -127,46 +153,83 @@ def extrair_imagem(entry):
 def coletar_rss(fonte, categorias, concorrentes, termos_relevancia, max_n, max_tags):
     noticias = []
     if not fonte.get("rss"): return noticias
-    especializada = fonte.get("especializada", True)
-    print(f"  -> {fonte['nome']} {'[esp]' if especializada else '[gen]'}")
-    descartadas_relevancia = 0
-    descartadas_categoria = 0
+
+    especializada  = fonte.get("especializada", True)
+    aceitar_tudo   = fonte.get("aceitar_tudo", False)
+    padroes_excl   = fonte.get("padroes_exclusao", [])
+
+    modo = "[editorial]" if aceitar_tudo else ("[esp]" if especializada else "[gen]")
+    print(f"  -> {fonte['nome']} {modo}")
+
+    desc_exclusao   = 0
+    desc_relevancia = 0
+    desc_categoria  = 0
+    corpo_buscados  = 0
+
     try:
         feed = feedparser.parse(fonte["rss"])
         for entry in feed.entries[:max_n]:
             titulo = entry.get("title","").strip()
-            url = entry.get("link","").strip()
+            url    = entry.get("link","").strip()
             if not titulo or not url: continue
             resumo = limpar_html(entry.get("summary", entry.get("description","")))
+            corpo  = ""
 
-            # Filtro de relevância: fontes generalistas precisam de termo turístico
-            if not especializada:
-                # Panrotas como norteador: termo turistico deve estar no TITULO
-                if not e_relevante_turismo(normalizar(titulo), termos_relevancia):
-                    descartadas_relevancia += 1
+            # --- MODO EDITORIAL (Panrotas) ---
+            if aceitar_tudo:
+                if padroes_excl and verificar_exclusao(titulo, resumo, padroes_excl):
+                    desc_exclusao += 1
+                    continue
+                # tenta categorizar; fallback para Novidades no Setor
+                tags = taguear_com_score(titulo, resumo, categorias, concorrentes, max_tags)
+                if not tags:
+                    tags = ["Novidades no Setor"]
+
+            # --- MODO GENERALISTA ---
+            elif not especializada:
+                texto_n = normalizar(titulo + " " + resumo)
+                if not e_relevante_turismo(texto_n, termos_relevancia):
+                    # Segunda chance: buscar corpo do artigo
+                    corpo = fetch_corpo_artigo(url)
+                    corpo_buscados += 1
+                    texto_n2 = normalizar(titulo + " " + resumo + " " + corpo)
+                    if not e_relevante_turismo(texto_n2, termos_relevancia):
+                        desc_relevancia += 1
+                        continue
+                tags = taguear_com_score(titulo, resumo, categorias, concorrentes, max_tags,
+                                         texto_extra=corpo)
+                if not tags:
+                    desc_categoria += 1
+                    continue
+
+            # --- MODO ESPECIALIZADO (normal) ---
+            else:
+                tags = taguear_com_score(titulo, resumo, categorias, concorrentes, max_tags)
+                if not tags:
+                    desc_categoria += 1
                     continue
 
             pub = entry.get("published_parsed") or entry.get("updated_parsed")
             if pub: data = datetime(*pub[:6],tzinfo=timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-            else: data = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-
-            tags = taguear_com_score(titulo, resumo, categorias, concorrentes, max_tags,
-                                     termos_relevancia, especializada)
-
-            if not tags:
-                descartadas_categoria += 1
-                continue
+            else:   data = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
             imagem = extrair_imagem(entry)
-            noticias.append({"id":gerar_id(url),"titulo":titulo,"resumo":resumo,"url":url,
-                "imagem":imagem,"fonte":fonte["nome"],"fonte_url":fonte["url"],"tags":tags,
-                "categoria":tags[0],"data":data,
-                "data_coleta":datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")})
-    except Exception as e: print(f"    aviso: {e}")
+            noticias.append({
+                "id": gerar_id(url), "titulo": titulo, "resumo": resumo,
+                "url": url, "imagem": imagem,
+                "fonte": fonte["nome"], "fonte_url": fonte["url"],
+                "tags": tags, "categoria": tags[0], "data": data,
+                "data_coleta": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+            })
+
+    except Exception as e:
+        print(f"    aviso: {e}")
 
     partes = [f"{len(noticias)} aceitas"]
-    if descartadas_relevancia: partes.append(f"{descartadas_relevancia} sem relevancia")
-    if descartadas_categoria: partes.append(f"{descartadas_categoria} sem categoria")
+    if desc_exclusao:   partes.append(f"{desc_exclusao} excluidas por gestao")
+    if desc_relevancia: partes.append(f"{desc_relevancia} sem relevancia")
+    if desc_categoria:  partes.append(f"{desc_categoria} sem categoria")
+    if corpo_buscados:  partes.append(f"{corpo_buscados} corpos buscados")
     print(f"    {' | '.join(partes)}")
     return noticias
 
@@ -179,7 +242,8 @@ def mesclar(existentes, novas, dias_historico):
             existentes.append(n); ids.add(n["id"]); adicionadas += 1
     existentes.sort(key=lambda n: n["data"], reverse=True)
     corte = datetime.now(timezone.utc) - timedelta(days=dias_historico)
-    existentes = [n for n in existentes if datetime.fromisoformat(n["data"].replace("Z","+00:00")) >= corte]
+    existentes = [n for n in existentes
+                  if datetime.fromisoformat(n["data"].replace("Z","+00:00")) >= corte]
     return existentes, adicionadas
 
 def git_push(token, usuario, repositorio):
@@ -197,7 +261,7 @@ def git_push(token, usuario, repositorio):
         r = subprocess.run(cmd, cwd=BASE_DIR, capture_output=True, text=True)
         if r.returncode != 0 and "nothing to commit" not in (r.stdout+r.stderr):
             print(f"  aviso git {cmd[1]}: {r.stderr.strip()[:120]}")
-            if cmd[1] == "push": raise RuntimeError(f"Push falhou")
+            if cmd[1] == "push": raise RuntimeError("Push falhou")
 
 def resumo_por_tags(noticias_novas):
     contagem = {}
@@ -211,28 +275,30 @@ def main():
     print("="*55)
     print(f"Acontece no Mercado - Coleta {datetime.now().strftime('%Y-%m-%d %H:%M')}")
     print("="*55)
-    config = carregar_config()
-    dados = carregar_dados()
-    categorias = config["categorias"]
-    concorrentes = config.get("concorrentes",{})
-    termos_relevancia = config.get("filtro_relevancia",[])
-    cfg = config["configuracoes"]
+    config   = carregar_config()
+    dados    = carregar_dados()
+    cats     = config["categorias"]
+    concorr  = config.get("concorrentes",{})
+    termos   = config.get("filtro_relevancia",[])
+    cfg      = config["configuracoes"]
     max_tags = cfg.get("max_tags_por_noticia", 3)
 
     fontes_ativas = [f for f in config["fontes"] if f.get("ativo",True)]
-    esp = sum(1 for f in fontes_ativas if f.get("especializada",True))
-    print(f"\nFontes: {esp} especializadas + {len(fontes_ativas)-esp} generalistas")
+    editoriais = sum(1 for f in fontes_ativas if f.get("aceitar_tudo"))
+    esp        = sum(1 for f in fontes_ativas if f.get("especializada",True) and not f.get("aceitar_tudo"))
+    gen        = len(fontes_ativas) - editoriais - esp
+    print(f"\nFontes: {editoriais} editorial | {esp} especializadas | {gen} generalistas")
 
     todas_novas = []
     for fonte in fontes_ativas:
-        novas = coletar_rss(fonte, categorias, concorrentes, termos_relevancia,
+        novas = coletar_rss(fonte, cats, concorr, termos,
                             cfg["max_noticias_por_coleta"], max_tags)
         todas_novas.extend(novas)
 
     atualizadas, adicionadas = mesclar(dados["noticias"], todas_novas, cfg["dias_historico"])
-    dados["noticias"] = atualizadas
+    dados["noticias"]          = atualizadas
     dados["ultima_atualizacao"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-    dados["total"] = len(atualizadas)
+    dados["total"]             = len(atualizadas)
     salvar_dados(dados)
 
     ids_novos = {n["id"] for n in todas_novas}
