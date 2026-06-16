@@ -1,6 +1,573 @@
 {
   "noticias": [
     {
+      "id": "3bf6b4bd55e6",
+      "titulo": "Grammy cria nova categoria Melhor Canção Latina, mas deixa Brasil de fora",
+      "resumo": "Prêmio vai reconhecer apenas músicas com maior parte da letra em língua espanhola",
+      "url": "https://www.cnnbrasil.com.br/pop/musica/grammy-cria-nova-categoria-melhor-cancao-latina-mas-deixa-brasil-de-fora/",
+      "imagem": null,
+      "fonte": "CNN Brasil",
+      "fonte_url": "https://www.cnnbrasil.com.br",
+      "tags": [
+        "Shows & Eventos"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-16T20:51:10Z",
+      "_score": 1,
+      "data_coleta": "2026-06-16T21:13:55Z"
+    },
+    {
+      "id": "7022fc082e9c",
+      "titulo": "Alphonso Davies deve ser desfalque para a seleção do Canadá mais uma vez",
+      "resumo": "Lateral do Bayern de Munique segue em protocolo de recuperação de lesão na coxa",
+      "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/alphonso-davies-deve-ser-desfalque-para-a-selecao-do-canada-mais-uma-vez/",
+      "imagem": null,
+      "fonte": "CNN Brasil",
+      "fonte_url": "https://www.cnnbrasil.com.br",
+      "tags": [
+        "Shows & Eventos",
+        "Atrativos Internacionais"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-16T20:50:14Z",
+      "_score": 9,
+      "data_coleta": "2026-06-16T21:13:56Z"
+    },
+    {
+      "id": "536ba301e059",
+      "titulo": "Novo Canecão tem entrega adiada para 2028 e inicia obras de fundação",
+      "resumo": "Empreendimento de R$ 170 milhões avança para nova fase de construção, mas cronograma foi revisto; complexo cultural será entregue junto com novas instalações da UFRJ",
+      "url": "https://diariodorio.com/novo-canecao-tem-entrega-adiada-para-2028-e-inicia-obras-de-fundacao/",
+      "imagem": "https://diariodorio.com/wp-content/uploads/2025/04/Canecao.jpg",
+      "fonte": "Diario do Rio",
+      "fonte_url": "https://diariodorio.com",
+      "tags": [
+        "Big Numbers",
+        "Setor Aereo"
+      ],
+      "categoria": "Big Numbers",
+      "data": "2026-06-16T20:46:41Z",
+      "_score": 10,
+      "data_coleta": "2026-06-16T21:13:51Z"
+    },
+    {
+      "id": "9a88211f20fc",
+      "titulo": "Polícia Civil resgata criadouro de jacarés usado por traficantes para intimidar inimigos",
+      "resumo": "Em operação contra o TCP em Belford Roxo, seis pessoas foram presas e o chefe regional, Patrick Melo, capturado em casa; animais foram devolvidos ao Rio Sarapuí",
+      "url": "https://diariodorio.com/policia-civil-resgata-criadouro-de-jacares-usado-por-traficantes-para-intimidar-inimigos/",
+      "imagem": "https://diariodorio.com/wp-content/uploads/2026/06/image-113.png",
+      "fonte": "Diario do Rio",
+      "fonte_url": "https://diariodorio.com",
+      "tags": [
+        "Setor Aereo"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-06-16T20:39:05Z",
+      "_score": 4,
+      "data_coleta": "2026-06-16T21:13:52Z"
+    },
+    {
+      "id": "99d1ca32b791",
+      "titulo": "Rayan, Luiz Henrique e mais: veja time testado por Ancelotti em treino para Brasil x Haiti",
+      "resumo": "Treinador fez algumas alterações em relação ao time que iniciou a partida contra o Marrocos, estreia brasileira na Copa do Mundo 2026",
+      "url": "https://diariodorio.com/rayan-luiz-henrique-e-mais-veja-time-testado-por-ancelotti-em-treino-para-brasil-x-haiti/",
+      "imagem": "https://diariodorio.com/wp-content/uploads/2026/06/carlo-ancelotti-treino-selecao-brasileira-copa-do-mundo-2026.jpg",
+      "fonte": "Diario do Rio",
+      "fonte_url": "https://diariodorio.com",
+      "tags": [
+        "Shows & Eventos",
+        "Atrativos Internacionais",
+        "Setor Aereo"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-16T20:36:07Z",
+      "_score": 18,
+      "data_coleta": "2026-06-16T21:13:53Z"
+    },
+    {
+      "id": "6da9d5f6995c",
+      "titulo": "Baía da Ilha Grande terá regras para uso dos recursos hídricos em meio ao avanço do turismo",
+      "resumo": "Estudo vai definir metas de qualidade da água e orientar a gestão de rios, baías e mananciais da região, que enfrenta pressões crescentes do turismo e das atividades econômicas",
+      "url": "https://diariodorio.com/baia-da-ilha-grande-tera-regras-para-uso-dos-recursos-hidricos-em-meio-ao-avanco-do-turismo/",
+      "imagem": "https://diariodorio.com/wp-content/uploads/2026/06/imagem-1.webp",
+      "fonte": "Diario do Rio",
+      "fonte_url": "https://diariodorio.com",
+      "tags": [
+        "Atrativos Nacionais"
+      ],
+      "categoria": "Atrativos Nacionais",
+      "data": "2026-06-16T20:33:25Z",
+      "_score": 4,
+      "data_coleta": "2026-06-16T21:13:53Z"
+    },
+    {
+      "id": "ce9f8d42b843",
+      "titulo": "PF diz que Vorcaro enviava projetos de lei a Ciro Nogueira",
+      "resumo": "Corporação diz que relação entre senador e banqueiro era marcada por “convergência de interesses ilícitos” e benefício mútuo",
+      "url": "https://www.cnnbrasil.com.br/politica/pf-diz-que-vorcaro-enviava-projetos-de-lei-a-ciro-nogueira/",
+      "imagem": null,
+      "fonte": "CNN Brasil",
+      "fonte_url": "https://www.cnnbrasil.com.br",
+      "tags": [
+        "Atrativos Internacionais"
+      ],
+      "categoria": "Atrativos Internacionais",
+      "data": "2026-06-16T20:24:17Z",
+      "_score": 1,
+      "data_coleta": "2026-06-16T21:14:01Z"
+    },
+    {
+      "id": "f00c82bda528",
+      "titulo": "Irã alerta para “resposta severa” caso ataques ao Líbano continuem",
+      "resumo": "Ameaça foi direcionada a Israel caso Tel Aviv continue as ofensivas contra o país, informou a agência de notícias semioficial Fars",
+      "url": "https://www.cnnbrasil.com.br/internacional/ira-alerta-para-resposta-severa-caso-ataques-ao-libano-continuem/",
+      "imagem": null,
+      "fonte": "CNN Brasil",
+      "fonte_url": "https://www.cnnbrasil.com.br",
+      "tags": [
+        "Setor Hoteleiro"
+      ],
+      "categoria": "Setor Hoteleiro",
+      "data": "2026-06-16T20:13:13Z",
+      "_score": 1,
+      "data_coleta": "2026-06-16T21:14:03Z"
+    },
+    {
+      "id": "c8837bc05e88",
+      "titulo": "Vorcaro articulou flagrante de drogas contra ex-marido da namorada, diz PF",
+      "resumo": "Relatório da Polícia Federal mostra que ex-banqueiro utilizou milícia própria para forjar documentos de órgãos públicos",
+      "url": "https://www.cnnbrasil.com.br/politica/vorcaro-articulou-flagrante-de-drogas-contra-ex-marido-da-namorada-diz-pf/",
+      "imagem": null,
+      "fonte": "CNN Brasil",
+      "fonte_url": "https://www.cnnbrasil.com.br",
+      "tags": [
+        "Atrativos Internacionais"
+      ],
+      "categoria": "Atrativos Internacionais",
+      "data": "2026-06-16T20:13:06Z",
+      "_score": 1,
+      "data_coleta": "2026-06-16T21:14:03Z"
+    },
+    {
+      "id": "f654ff136589",
+      "titulo": "El Niño impulsiona futuros do cacau em nova york",
+      "resumo": "Preocupações com o fenômeno climático elevam preços para máximas de duas semanas, com contrato de setembro subindo 6,60%",
+      "url": "https://www.cnnbrasil.com.br/agro/el-nino-impulsiona-futuros-do-cacau-em-nova-york/",
+      "imagem": null,
+      "fonte": "CNN Brasil",
+      "fonte_url": "https://www.cnnbrasil.com.br",
+      "tags": [
+        "Atrativos Internacionais"
+      ],
+      "categoria": "Atrativos Internacionais",
+      "data": "2026-06-16T20:04:54Z",
+      "_score": 1,
+      "data_coleta": "2026-06-16T21:14:05Z"
+    },
+    {
+      "id": "198ab22ad5f7",
+      "titulo": "Comissão de Orçamento é instalada e Domingos Neto é eleito presidente",
+      "resumo": "Deputado comandará colegiado neste ano; Senado ainda não tem consenso para indicação de relatores de peças orçamentárias",
+      "url": "https://www.cnnbrasil.com.br/politica/comissao-de-orcamento-e-instalada-e-domingos-neto-e-eleito-presidente/",
+      "imagem": null,
+      "fonte": "CNN Brasil",
+      "fonte_url": "https://www.cnnbrasil.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-16T20:03:58Z",
+      "_score": 1,
+      "data_coleta": "2026-06-16T21:14:05Z"
+    },
+    {
+      "id": "fecd2b049cdb",
+      "titulo": "A Engrenagem de US$ 71 Bilhões da JBS e a Caça Aos Gigantes Invisíveis de Wall Street",
+      "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Com expansão industrial na Arábia Saudita, aposta no consumo gerado por medicamentos inibidores de apetite e avanço rumo aos índices da bolsa de Nova York, maior produtora de alimentos do mundo detalha estratégia para enfrentar oscilações de mercado O post A Engrenagem de US$ 71 Bilhões da JBS e a Caça Aos Gigantes Invisíveis de W",
+      "url": "https://forbes.com.br/forbes-agro/2026/06/a-engrenagem-de-us-71-bilhoes-da-jbs-e-a-caca-aos-gigantes-invisiveis-de-wall-street/",
+      "imagem": null,
+      "fonte": "Forbes Brasil",
+      "fonte_url": "https://forbes.com.br",
+      "tags": [
+        "Atrativos Internacionais"
+      ],
+      "categoria": "Atrativos Internacionais",
+      "data": "2026-06-16T19:53:30Z",
+      "_score": 1,
+      "data_coleta": "2026-06-16T21:13:55Z"
+    },
+    {
+      "id": "09b19de7e329",
+      "titulo": "Milly Alcock e equipe de ‘Supergirl’ curtem atrações do Rio",
+      "resumo": "Artistas vieram ao Rio como parte da turnê global de lançamento do segundo filme 'Supergirl' do novo Universo DC; estreia marcada para dia 25 de junho",
+      "url": "https://diariodorio.com/milly-alcock-e-equipe-de-supergirl-curtem-atracoes-do-rio/",
+      "imagem": "https://diariodorio.com/wp-content/uploads/2026/06/unnamed-7-1.jpg",
+      "fonte": "Diario do Rio",
+      "fonte_url": "https://diariodorio.com",
+      "tags": [
+        "Setor Aereo"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-06-16T19:46:08Z",
+      "_score": 4,
+      "data_coleta": "2026-06-16T21:13:54Z"
+    },
+    {
+      "id": "6c912587a6a8",
+      "titulo": "Falsos funcionários da Light usam oferta de geladeira nova para entrar em casa de idosos no Andaraí",
+      "resumo": "Criminosos usaram uniformes e documentos com a identidade visual da concessionária para enganar moradores",
+      "url": "https://diariodorio.com/falsos-funcionarios-da-light-usam-oferta-de-geladeira-nova-para-entrar-em-casa-de-idosos-no-andarai/",
+      "imagem": "https://diariodorio.com/wp-content/uploads/2026/06/light3.webp",
+      "fonte": "Diario do Rio",
+      "fonte_url": "https://diariodorio.com",
+      "tags": [
+        "Setor Aereo"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-06-16T19:45:40Z",
+      "_score": 4,
+      "data_coleta": "2026-06-16T21:13:54Z"
+    },
+    {
+      "id": "c71b8bcc71df",
+      "titulo": "Auditoria na Cedae aponta negligência e perda de R$ 222 milhões no Banco Master",
+      "resumo": "Relatório interno identifica suspeitas de dolo sistêmico e fraude; governo do Rio aplicou quase R$ 4 bilhões na instituição, incluindo R$ 3,7 bilhão pelo Rioprevidência",
+      "url": "https://diariodorio.com/auditoria-na-cedae-aponta-negligencia-e-perda-de-r-222-milhoes-no-banco-master/",
+      "imagem": "https://diariodorio.com/wp-content/uploads/2025/12/Banco-Master.jpg",
+      "fonte": "Diario do Rio",
+      "fonte_url": "https://diariodorio.com",
+      "tags": [
+        "Setor Aereo"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-06-16T19:45:39Z",
+      "_score": 4,
+      "data_coleta": "2026-06-16T21:13:55Z"
+    },
+    {
+      "id": "e7d781c9f84d",
+      "titulo": "Jungle Fight desembarca em Macaé com disputa do cinturão peso pesado",
+      "resumo": "Edição do maior evento de MMA da América Latina terá entrada gratuita e transmissão ao vivo para todo o Brasil pelo SporTV e Combate",
+      "url": "https://diariodorio.com/jungle-fight-desembarca-em-macae-com-disputa-do-cinturao-peso-pesado/",
+      "imagem": "https://diariodorio.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-16-at-16.30.42.jpeg",
+      "fonte": "Diario do Rio",
+      "fonte_url": "https://diariodorio.com",
+      "tags": [
+        "Setor Aereo"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-06-16T19:34:45Z",
+      "_score": 4,
+      "data_coleta": "2026-06-16T21:13:56Z"
+    },
+    {
+      "id": "8db69e06657f",
+      "titulo": "Alerj discute mudanças no orçamento estadual e novas regras de transparência",
+      "resumo": "Comissão Especial de Contenção dos Gastos Públicos da Alerj ouviu representantes da Seplag nesta terça-feira e vai propor mudanças na LOA além de novas regras para transparência de contratos",
+      "url": "https://diariodorio.com/alerj-discute-mudancas-no-orcamento-estadual-e-novas-regras-de-transparencia/",
+      "imagem": "https://diariodorio.com/wp-content/uploads/2026/06/unnamed-17.jpg",
+      "fonte": "Diario do Rio",
+      "fonte_url": "https://diariodorio.com",
+      "tags": [
+        "Setor Aereo"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-06-16T19:30:59Z",
+      "_score": 4,
+      "data_coleta": "2026-06-16T21:13:56Z"
+    },
+    {
+      "id": "4de467a596f9",
+      "titulo": "Após acusações de canibalismo, Armie Hammer faz suspense acusado de racismo",
+      "resumo": "Ator tenta voltar a atuar após acusações de abuso sexual e mensagens com fantasias de canibalismo",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/apos-acusacoes-de-canibalismo-armie-hammer-faz-suspense-acusado-de-racismo/",
+      "imagem": null,
+      "fonte": "CNN Brasil",
+      "fonte_url": "https://www.cnnbrasil.com.br",
+      "tags": [
+        "Atrativos Internacionais"
+      ],
+      "categoria": "Atrativos Internacionais",
+      "data": "2026-06-16T19:29:06Z",
+      "_score": 1,
+      "data_coleta": "2026-06-16T21:14:09Z"
+    },
+    {
+      "id": "70e185c1dfe5",
+      "titulo": "Governo do Rio divulga mais de 2,6 mil vagas de emprego formal, estágio e Jovem Aprendiz",
+      "resumo": "Vagas, com salários de até R$ 6.484, estão distribuídas por quatro regiões",
+      "url": "https://diariodorio.com/governo-do-rio-divulga-mais-de-26-mil-vagas-de-emprego-formal-estagio-e-jovem-aprendiz/",
+      "imagem": "https://diariodorio.com/wp-content/uploads/2026/06/ctps.jpg",
+      "fonte": "Diario do Rio",
+      "fonte_url": "https://diariodorio.com",
+      "tags": [
+        "Setor Aereo"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-06-16T19:24:10Z",
+      "_score": 4,
+      "data_coleta": "2026-06-16T21:13:57Z"
+    },
+    {
+      "id": "9e8fa95d6a31",
+      "titulo": "Oliver Tree gravou versão forró de canção viral antes de acidente fatal",
+      "resumo": "Cantor estava em um dos helicópteros a caminho de Angra dos Reis em um helicóptero, para gravar um projeto",
+      "url": "https://www.cnnbrasil.com.br/pop/celebridades/oliver-tree-gravou-versao-forro-de-cancao-viral-antes-de-acidente-fatal/",
+      "imagem": null,
+      "fonte": "CNN Brasil",
+      "fonte_url": "https://www.cnnbrasil.com.br",
+      "tags": [
+        "Atrativos Internacionais",
+        "Incidentes"
+      ],
+      "categoria": "Atrativos Internacionais",
+      "data": "2026-06-16T19:24:02Z",
+      "_score": 7,
+      "data_coleta": "2026-06-16T21:14:10Z"
+    },
+    {
+      "id": "28fc9a433733",
+      "titulo": "Estação Carioca do MetrôRio recebe feira de arte e cultura nesta semana",
+      "resumo": "Feira Moderna acontece de 16 a 18 de junho na estação Carioca/Centro do MetrôRio com moda acessórios artesanato alimentação e produtos de empreendedores cariocas",
+      "url": "https://diariodorio.com/estacao-carioca-do-metrorio-recebe-feira-de-arte-e-cultura-nesta-semana/",
+      "imagem": "https://diariodorio.com/wp-content/uploads/2026/06/unnamed-15.jpg",
+      "fonte": "Diario do Rio",
+      "fonte_url": "https://diariodorio.com",
+      "tags": [
+        "Setor Aereo"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-06-16T19:21:32Z",
+      "_score": 4,
+      "data_coleta": "2026-06-16T21:13:57Z"
+    },
+    {
+      "id": "4e72d6f6700c",
+      "titulo": "Wagner Tiso faz duas apresentaçõs no Blue Note neste sábado",
+      "resumo": "O pianista, compositor e arranjador Wagner Tiso sobe ao palco do Blue Note neste sábado (21), com os amigos do Som Imaginário, grupo criado no início da década de 70 para acompanhar o cantor Milton Nascimento. Entre os antigos e atuais integrantes estão, o próprio Wagner no piano, Robertinho Silva na bateria, Sérgio Chiavazolli na [&#8230;]",
+      "url": "https://diariodorio.com/wagner-tiso-faz-duas-apresentacos-no-blue-note-neste-sabado/",
+      "imagem": "https://diariodorio.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-16-at-15.40.36.jpeg",
+      "fonte": "Diario do Rio",
+      "fonte_url": "https://diariodorio.com",
+      "tags": [
+        "Setor Aereo"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-06-16T19:09:50Z",
+      "_score": 4,
+      "data_coleta": "2026-06-16T21:13:58Z"
+    },
+    {
+      "id": "b354bcd84464",
+      "titulo": "Petrópolis recebe seminário sobre enchentes e adaptação climática com apoio do CREA-RJ",
+      "resumo": "Seminário em Petrópolis debate nesta sexta-feira alternativas para reduzir enchentes e adaptar a cidade aos efeitos das mudanças climáticas, com apoio do CREA-RJ",
+      "url": "https://diariodorio.com/petropolis-recebe-seminario-sobre-enchentes-e-adaptacao-climatica-com-apoio-do-crea-rj/",
+      "imagem": "https://diariodorio.com/wp-content/uploads/2026/06/unnamed-14-1.jpg",
+      "fonte": "Diario do Rio",
+      "fonte_url": "https://diariodorio.com",
+      "tags": [
+        "Setor Aereo"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-06-16T19:03:05Z",
+      "_score": 4,
+      "data_coleta": "2026-06-16T21:14:00Z"
+    },
+    {
+      "id": "1efddfa8920a",
+      "titulo": "Varejo do Estado do Rio cresce 1,7% em abril e supera média nacional",
+      "resumo": "Vendas do comércio varejista no Estado do Rio cresceram 1,7% em abril, acima da média nacional de 1%, segundo dados da Pesquisa Mensal de Comércio divulgados pelo IBGE",
+      "url": "https://diariodorio.com/varejo-do-estado-do-rio-cresce-17-em-abril-e-supera-media-nacional/",
+      "imagem": "https://diariodorio.com/wp-content/uploads/2025/12/toms2367-scaled.jpg",
+      "fonte": "Diario do Rio",
+      "fonte_url": "https://diariodorio.com",
+      "tags": [
+        "Setor Aereo"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-06-16T18:59:55Z",
+      "_score": 4,
+      "data_coleta": "2026-06-16T21:14:00Z"
+    },
+    {
+      "id": "4faf2b24980a",
+      "titulo": "Velhos do Rio: Quem vai cuidar de você na velhice?",
+      "resumo": "Quem vai cuidar de você na velhice? E quem vai cuidar de quem já se dedica ao cuidado de pais e mães cada vez mais longevos? Afinal, quem vai cuidar de quem?",
+      "url": "https://diariodorio.com/velhos-do-rio-quem-vai-cuidar-de-voce-na-velhice/",
+      "imagem": "https://diariodorio.com/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-16-at-15.51.13.jpeg",
+      "fonte": "Diario do Rio",
+      "fonte_url": "https://diariodorio.com",
+      "tags": [
+        "Setor Aereo"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-06-16T18:56:21Z",
+      "_score": 4,
+      "data_coleta": "2026-06-16T21:14:01Z"
+    },
+    {
+      "id": "66a8cf38d54c",
+      "titulo": "Obras de revitalização da Praça das Águas têm início em Cabo Frio",
+      "resumo": "Melhoria prevê melhora total do espaço com foco em lazer, convivência e crescimento do turismo",
+      "url": "https://diariodorio.com/obras-de-revitalizacao-da-praca-das-aguas-tem-inicio-em-cabo-frio/",
+      "imagem": "https://diariodorio.com/wp-content/uploads/2026/06/praca.jpg",
+      "fonte": "Diario do Rio",
+      "fonte_url": "https://diariodorio.com",
+      "tags": [
+        "Big Numbers"
+      ],
+      "categoria": "Big Numbers",
+      "data": "2026-06-16T18:55:13Z",
+      "_score": 4,
+      "data_coleta": "2026-06-16T21:14:01Z"
+    },
+    {
+      "id": "8da8088ea3ce",
+      "titulo": "Na Barra, Tragga Del Mar terá rodízio e chopp liberado durante jogos do Brasil",
+      "resumo": "Restaurante aposta em experiência que combina culinária japonesa premium, transmissão das partidas da Seleção e chopp à vontade para clientes do rodízio",
+      "url": "https://diariodorio.com/na-barra-tragga-del-mar-tera-rodizio-e-chopp-liberado-durante-jogos-do-brasil/",
+      "imagem": "https://diariodorio.com/wp-content/uploads/2026/06/Tragga-Del-Mar_Divulgacao2.png",
+      "fonte": "Diario do Rio",
+      "fonte_url": "https://diariodorio.com",
+      "tags": [
+        "Setor Aereo"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-06-16T18:53:03Z",
+      "_score": 4,
+      "data_coleta": "2026-06-16T21:14:01Z"
+    },
+    {
+      "id": "813646ffce74",
+      "titulo": "Revitalização do Monumento aos Mortos da Segunda Guerra será apresentada a governador e Prefeito do Rio",
+      "resumo": "Na ocasião, serão apresentados os detalhes das intervenções previstas para a recuperação de diferentes áreas do complexo monumental",
+      "url": "https://diariodorio.com/revitalizacao-do-monumento-aos-mortos-da-segunda-guerra-sera-apresentada-a-governador-e-prefeito-do-rio/",
+      "imagem": "https://diariodorio.com/wp-content/uploads/2026/06/Pracinhas-CCBY.jpg",
+      "fonte": "Diario do Rio",
+      "fonte_url": "https://diariodorio.com",
+      "tags": [
+        "Atrativos Nacionais",
+        "Setor Aereo"
+      ],
+      "categoria": "Atrativos Nacionais",
+      "data": "2026-06-16T18:44:56Z",
+      "_score": 10,
+      "data_coleta": "2026-06-16T21:14:02Z"
+    },
+    {
+      "id": "67caa6f82e16",
+      "titulo": "Cine Lagoa: o pioneiro drive-in do Rio que reuniu gerações sob o telão mais alto da América Latina",
+      "resumo": "De “Pesadelo ao Sol” a “Guerra nas Estrelas”, o cinema de estacionamento na Lagoa Rodrigo de Freitas funcionou por quase 30 anos e voltou à cena durante a pandemia",
+      "url": "https://diariodorio.com/cine-lagoa-o-pioneiro-drive-in-do-rio-que-reuniu-geracoes-sob-o-telao-mais-alto-da-america-latina/",
+      "imagem": "https://diariodorio.com/wp-content/uploads/2026/06/drive-in.webp",
+      "fonte": "Diario do Rio",
+      "fonte_url": "https://diariodorio.com",
+      "tags": [
+        "Concorrentes",
+        "Setor Aereo"
+      ],
+      "categoria": "Concorrentes",
+      "data": "2026-06-16T18:32:23Z",
+      "_score": 9,
+      "data_coleta": "2026-06-16T21:14:02Z"
+    },
+    {
+      "id": "60b0db173e53",
+      "titulo": "Estas São as Marcas por trás da Batalha Milionária para Vestir as Seleções da Copa 2026",
+      "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Por trás de cada camisa, há contratos multimilionários, acordos históricos e uma disputa acirrada pela maior vitrine do esporte global O post Estas São as Marcas por trás da Batalha Milionária para Vestir as Seleções da Copa 2026 apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-mkt/2026/06/estas-sao-as-marcas-por-tras-da-batalha-milionaria-para-vestir-as-selecoes-da-copa-2026/",
+      "imagem": null,
+      "fonte": "Forbes Brasil",
+      "fonte_url": "https://forbes.com.br",
+      "tags": [
+        "Setor Aereo"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-06-16T16:25:22Z",
+      "_score": 1,
+      "data_coleta": "2026-06-16T21:14:02Z"
+    },
+    {
+      "id": "3beaaee457f9",
+      "titulo": "Vendas da Safra Nova de Café do Brasil Atingem 19% e Mantêm Atraso Frente À Média Histórica",
+      "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Comercialização avançou 3 pontos percentuais em um mês, mas se distancia da média de cinco anos, de 29% O post Vendas da Safra Nova de Café do Brasil Atingem 19% e Mantêm Atraso Frente À Média Histórica apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-agro/2026/06/vendas-da-safra-nova-de-cafe-do-brasil-atingem-19-e-mantem-atraso-frente-a-media-historica/",
+      "imagem": null,
+      "fonte": "Forbes Brasil",
+      "fonte_url": "https://forbes.com.br",
+      "tags": [
+        "Setor Aereo"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-06-16T16:05:30Z",
+      "_score": 1,
+      "data_coleta": "2026-06-16T21:14:04Z"
+    },
+    {
+      "id": "5d6998f843e7",
+      "titulo": "Paris tem criação de perfumes e experiências 3D: veja roteiros fora do óbvio no destino",
+      "resumo": "Receptivo La Belle Vie d&#225; dicas pela capital francesa, com experi&#234;ncias para diferentes p&#250;blicos",
+      "url": "https://www.panrotas.com.br/destinos/entretenimento/2026/06/paris-tem-criacao-de-perfumes-e-experiencias-3d-veja-roteiros-fora-do-obvio-no-destino_229487.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/16/94257a7361a73a673a266e5f983e4f9b-perfumeparisatelie.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-16T14:33:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:52Z"
+    },
+    {
+      "id": "79fdc5565cc2",
+      "titulo": "CEO da Ericsson, Ekholm, Deixará Cargo e Será Substituído por Per Narvinger",
+      "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. O preço das ações da companhia subia 0,6% nesta terça-feira e acumulou alta de 26% no ano, de acordo com dados da LSEG O post CEO da Ericsson, Ekholm, Deixará Cargo e Será Substituído por Per Narvinger apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/carreira/2026/06/ceo-da-ericsson-ekholm-deixara-cargo-e-sera-substituido-por-per-narvinger/",
+      "imagem": null,
+      "fonte": "Forbes Brasil",
+      "fonte_url": "https://forbes.com.br",
+      "tags": [
+        "Setor Aereo"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-06-16T14:13:35Z",
+      "_score": 1,
+      "data_coleta": "2026-06-16T21:14:07Z"
+    },
+    {
+      "id": "b4f5fca9d0c6",
+      "titulo": "Unna Hospitality amplia atuação e assume gestão de mais quatro hotéis no Brasil",
+      "resumo": "Novos contratos incluem empreendimentos em SP, MG e MS e refor&#231;am expans&#227;o nacional",
+      "url": "https://www.panrotas.com.br/hotelaria/mercado/2026/06/unna-hospitality-amplia-atuacao-e-assume-gestao-de-mais-quatro-hoteis-no-brasil_229488.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/16/6e919c4807272cdf0ff6e2b3a4aa7ee0-hotelflat.jpeg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-16T13:58:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:52Z"
+    },
+    {
+      "id": "fc7210213e83",
+      "titulo": "Abeta condena negligência e cobra fiscalização após morte em salto de rope jump em Limeira",
+      "resumo": "Entidade atribui trag&#233;dia a falhas de seguran&#231;a e defende pol&#237;tica nacional de preven&#231;&#227;o",
+      "url": "https://www.panrotas.com.br/mercado/destinos/2026/06/abeta-condena-negligencia-e-cobra-fiscalizacao-apos-morte-em-salto-de-rope-jump-em-limeira_229486.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/16/d85ab3f02b0f5ea3e5560fcb7a5663f4-capturadetelapontodoesqueleto.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-16T13:21:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:52Z"
+    },
+    {
       "id": "12aaed0d99ac",
       "titulo": "Tijuca: Estudantes reciclam envelopes de figurinhas da Copa",
       "resumo": "Enquanto milhões de brasileiros colecionam figurinhas da Copa do Mundo, os alunos do Colégio Marista São José, na Tijuca, decidiram dar um novo destino aos resíduos gerados pela paixão nacional. Desde o dia 13 de junho, durante a Festa Junina, estudantes, famílias e educadores foram convidados a par",
@@ -46,6 +613,54 @@
       "data_coleta": "2026-06-16T14:20:02Z"
     },
     {
+      "id": "856dad578e0a",
+      "titulo": "Cidades com principais festas juninas do País registram alta de 57% na oferta de voos",
+      "resumo": "Campina Grande, Jo&#227;o Pessoa, Caruaru e Fortaleza est&#227;o entre os destaques do per&#237;odo",
+      "url": "https://www.panrotas.com.br/aviacao/novas-rotas/2026/06/cidades-com-principais-festas-juninas-do-pais-registram-alta-de-57-na-oferta-de-voos_229432.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2020/01/14/67424a1af3181620fc879f33f8ade1b8-creditodivulgacaoinfraero1.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-16T12:29:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:52Z"
+    },
+    {
+      "id": "1b16c88c02e6",
+      "titulo": "Distância dos voos mais longos do mundo cresce 15% em 25 anos; veja tendência",
+      "resumo": "Mudan&#231;a reflete uma transforma&#231;&#227;o impulsionada por uma nova gera&#231;&#227;o de aeronaves widebody bimotoras",
+      "url": "https://www.panrotas.com.br/aviacao/pesquisas-e-estatisticas/2026/06/distancia-dos-voos-mais-longos-do-mundo-cresce-15-em-25-anos-veja-tendencia_229403.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/04/01/a2c30fe39c438e71660bb5b63f3fe8a2-emanuviewsakyjrkmytqunsplash.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-16T12:04:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:52Z"
+    },
+    {
+      "id": "f483bb985ed5",
+      "titulo": "Ana Cazelato deixa Turismo do RJ e assume como supervisora na Embratur",
+      "resumo": "Ap&#243;s sete anos no turismo fluminense, executiva retorna &#224; Embratur em nova posi&#231;&#227;o",
+      "url": "https://www.panrotas.com.br/gente/movimentacao/2026/06/ana-cazelato-deixa-turismo-do-rj-e-assume-como-supervisora-na-embratur_229459.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/15/f7d4563f2d0c3769b585746d9399bb73-anacazelato.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-16T11:39:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:52Z"
+    },
+    {
       "id": "fbdafe0eb7e8",
       "titulo": "Miami prepara eventos e experiências exclusivas para celebrar os 250 anos dos EUA",
       "resumo": "Destino ter&#225; fogos de artif&#237;cio, festividades &#224; beira-mar, atividades culturais e mais",
@@ -61,6 +676,55 @@
       "data_coleta": "2026-06-16T14:42:27Z"
     },
     {
+      "id": "e74de47d5f8a",
+      "titulo": "Smiles lança Clube Smiles+ com acessos a serviços de streaming",
+      "resumo": "Novo servi&#231;o inclui HBO Max e Disney+, Sky+ com Amazon Prime, PlayKids Learning, Kiddle Pass, entre outros",
+      "url": "https://www.panrotas.com.br/aviacao/empresas/2026/06/smiles-lanca-clube-smiles-com-acessos-a-servicos-de-streaming_229465.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/15/4f56b8a7d9314f91d07aa9b559bf471a-unnamed.png",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-16T11:02:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:52Z"
+    },
+    {
+      "id": "057ede35058b",
+      "titulo": "Copa do Mundo 2026: As Mulheres Que Apitam o Mundial",
+      "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Pela segunda vez na história, o Mundial masculino terá seis mulheres na equipe de arbitragem O post Copa do Mundo 2026: As Mulheres Que Apitam o Mundial apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-mulher/2026/06/as-mulheres-que-apitam-os-jogos-da-copa-do-mundo-2026/",
+      "imagem": null,
+      "fonte": "Forbes Brasil",
+      "fonte_url": "https://forbes.com.br",
+      "tags": [
+        "Shows & Eventos",
+        "Atrativos Internacionais"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-16T08:00:00Z",
+      "_score": 9,
+      "data_coleta": "2026-06-16T21:14:09Z"
+    },
+    {
+      "id": "ec5758884564",
+      "titulo": "Em Nova Fase, a Osklen Revigora Seu Luxo Esportivo com a Força do Clã Metsavaht",
+      "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Ao lado dos filhos Caetana, Thomas e Felipe, Oskar Metsavaht diz que a marca está pronta para o futuro O post Em Nova Fase, a Osklen Revigora Seu Luxo Esportivo com a Força do Clã Metsavaht apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-life/2026/06/em-nova-fase-a-osklen-revigora-seu-luxo-esportivo-com-a-forca-do-cla-metsavaht/",
+      "imagem": null,
+      "fonte": "Forbes Brasil",
+      "fonte_url": "https://forbes.com.br",
+      "tags": [
+        "Setor Aereo"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-06-16T08:00:00Z",
+      "_score": 1,
+      "data_coleta": "2026-06-16T21:14:10Z"
+    },
+    {
       "id": "347f040546cd",
       "titulo": "Visit Rio lança guia de avistamento responsável para a chegada da temporada das jubartes",
       "resumo": "Com o aumento do turismo de observação no litoral carioca, o Visit.Rio lançou um guia de turismo sustentável e de segurança para esses gigantes dos mares",
@@ -74,6 +738,102 @@
       "categoria": "Atrativos Nacionais",
       "data": "2026-06-16T03:05:59Z",
       "data_coleta": "2026-06-16T14:20:03Z"
+    },
+    {
+      "id": "929fcc93ab2b",
+      "titulo": "Reino Unido Anuncia Proibição Abrangente de Redes Sociais para Menores de 16 Anos",
+      "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Medidas anunciadas por Starmer miram redes sociais e plataformas de jogos para restringir o contato de estranhos com crianças e reforçar a proteção no ambiente digital O post Reino Unido Anuncia Proibição Abrangente de Redes Sociais para Menores de 16 Anos apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-tech/2026/06/reino-unido-anuncia-proibicao-abrangente-de-redes-sociais-para-menores-de-16-anos/",
+      "imagem": null,
+      "fonte": "Forbes Brasil",
+      "fonte_url": "https://forbes.com.br",
+      "tags": [
+        "Setor Aereo"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-06-16T01:13:00Z",
+      "_score": 1,
+      "data_coleta": "2026-06-16T21:14:14Z"
+    },
+    {
+      "id": "829b5d011af9",
+      "titulo": "Natureza, hospitalidade e discrição – os três pilares do luxo silencioso na Suíça",
+      "resumo": "CEO do Switzerland Tourism (Turismo da Su&#237;&#231;a), Martin Nydegger explica por que escolheu esse foco",
+      "url": "https://www.panrotas.com.br/viagens-de-luxo/destinos/2026/06/natureza-hospitalidade-e-discricao---os-tres-pilares-do-luxo-silencioso-na-suica_229485.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/15/6fd3b1a45fd36f516cc3ec41adebe503-martin1.jpeg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-15T22:27:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:52Z"
+    },
+    {
+      "id": "7476c84ccdd5",
+      "titulo": "10 agentes participam, na Suíça, da primeira edição de evento de viagens de luxo; confira",
+      "resumo": "STM Luxury re&#250;ne 60 compradores internacionais e 60 expositores, incluindo 10 brasileiros entre os buyers",
+      "url": "https://www.panrotas.com.br/viagens-de-luxo/destinos/2026/06/10-agentes-participam-na-suica-da-primeira-edicao-de-evento-de-viagens-de-luxo-confira_229484.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/15/7330ada1cbab510853cb3b1774883d6b-whatsappimage20260615at18.11.0220.jpeg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-15T21:43:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:52Z"
+    },
+    {
+      "id": "305614305f97",
+      "titulo": "Flospitality leva agentes brasileiros a famtour em Mykonos e Roma",
+      "resumo": "Cali Mykonos, Hassler Roma e Access Italy s&#227;o os fornecedores da Flospitality envolvidos na viagem",
+      "url": "https://www.panrotas.com.br/viagens-de-luxo/receptivos/2026/06/flospitality-leva-agentes-brasileiros-a-famtour-em-mykonos-e-roma_229483.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/15/c177feeed8dc7661fdbdd9448f498811-calimykonos.jpeg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-15T21:39:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:52Z"
+    },
+    {
+      "id": "13d985823551",
+      "titulo": "Azul terá quase 400 voos extras para o Nordeste durante as férias de julho",
+      "resumo": "Malha especial da Azul para a alta temporada contar&#225; com cerca de 1,2 mil voos adicionais em todo o Brasil",
+      "url": "https://www.panrotas.com.br/aviacao/empresas/2026/06/azul-tera-quase-400-voos-extras-para-o-nordeste-durante-as-ferias-de-julho_229481.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2024/08/23/de20aa321c10e10cb4be48856da24305-copiadea320neoazulfotoluisneves31.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-15T21:08:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:52Z"
+    },
+    {
+      "id": "72b09275ab1a",
+      "titulo": "San Montano Resort & Spa, no Golfo de Nápoles (Itália), ganha representação no Brasil",
+      "resumo": "Hip Hotels, de Mayra Iguchi e Ligia Danesi, defendem os interesses comerciais do hotel no Brasil",
+      "url": "https://www.panrotas.com.br/viagens-de-luxo/hotelaria/2026/06/san-montano-resort-spa-no-golfo-de-napoles-italia-ganha-representacao-no-brasil_229482.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/15/05c0e9dad77494234c4f01ed6cfef9ac-npanoramicalighthousesuitecondrone.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-15T20:59:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:52Z"
     },
     {
       "id": "fedcc29c9a3c",
@@ -107,6 +867,38 @@
       "data_coleta": "2026-06-16T14:19:54Z"
     },
     {
+      "id": "568aee0ae785",
+      "titulo": "Gol retoma voos diretos entre Guarulhos e Uberlândia com 6 frequências semanais",
+      "resumo": "Companhia retoma rota entre Guarulhos e Uberl&#226;ndia e amplia oferta de voos na regi&#227;o",
+      "url": "https://www.panrotas.com.br/aviacao/empresas/2026/06/gol-retoma-voos-diretos-entre-guarulhos-e-uberlandia-com-6-frequencias-semanais_229479.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/15/fabb1f8f8fbb734be7bda692304386ad-unnamed20260615t171703.217.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-15T20:24:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:52Z"
+    },
+    {
+      "id": "faa4cd7cebdd",
+      "titulo": "Estudo revela que viajantes analisam 25 ofertas de hotéis antes da reserva; veja insights",
+      "resumo": "Relat&#243;rio da Criteo aponta que viajantes est&#227;o pesquisando por mais tempo e comparando mais op&#231;&#245;es",
+      "url": "https://www.panrotas.com.br/hotelaria/mercado/2026/05/estudo-revela-que-viajantes-analisam-25-ofertas-de-hoteis-antes-da-reserva-veja-insights_228983.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2016/06/23/b07633f863bb33c416d9f76e40784dbc-digitalmarketing.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-15T20:22:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:52Z"
+    },
+    {
       "id": "b957fdded5aa",
       "titulo": "Delta inaugura voos diários entre Los Angeles e Hong Kong",
       "resumo": "Rota &#233; operada com aeronaves Airbus A350-900, equipadas com a cabine Delta One Suite",
@@ -120,6 +912,54 @@
       "categoria": "Atrativos Internacionais",
       "data": "2026-06-15T19:54:00Z",
       "data_coleta": "2026-06-16T14:19:54Z"
+    },
+    {
+      "id": "8d50208f2509",
+      "titulo": "Grupo Tauá mira expansão nacional com nova administradora hoteleira",
+      "resumo": "Presidente do Conselho diz que grupo pretende crescer na gest&#227;o de ativos de terceiros",
+      "url": "https://www.panrotas.com.br/hotelaria/mercado/2026/06/grupo-taua-mira-expansao-nacional-com-nova-administradora-hoteleira_229473.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/03/25/1b846f7cf7de63afda4a02b88f98e196-recepcao0043.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-15T19:29:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:52Z"
+    },
+    {
+      "id": "ad7a0b3b7718",
+      "titulo": "Uniglobe Premier Turismo celebra 35 anos com evento junto a colaboradores e parceiros",
+      "resumo": "Comemora&#231;&#227;o reuniu diversos fornecedores do setor de viagens, como companhias a&#233;reas e redes hoteleiras",
+      "url": "https://www.panrotas.com.br/viagens-corporativas/tmcs/2026/06/uniglobe-premier-turismo-celebra-35-anos-com-evento-junto-a-colaboradores-e-parceiros_229477.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/15/eafe7468ab7d795920e6cc586576117c-premierturismo.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-15T19:07:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:52Z"
+    },
+    {
+      "id": "9b7c900e6d9b",
+      "titulo": "KLM prevê receber primeiro Airbus A350 até o fim de agosto",
+      "resumo": "Aeronave ser&#225; batizada The Night Watch e integrar&#225; plano de renova&#231;&#227;o da frota",
+      "url": "https://www.panrotas.com.br/aviacao/empresas/2026/06/klm-preve-receber-primeiro-airbus-a350-ate-o-fim-de-agosto_229478.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/15/58df44fd5a21af4215d7e824e60984ac-unnamed20260615t155005.099.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-15T19:02:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:52Z"
     },
     {
       "id": "809db5988a72",
@@ -154,6 +994,22 @@
       "data_coleta": "2026-06-16T14:20:00Z"
     },
     {
+      "id": "4f8078141fe7",
+      "titulo": "Grupo Abra recebe aprovação de Brasil e Chile para compra da Sky Airline",
+      "resumo": "Aprova&#231;&#227;o chilena ocorreu um dia depois do sinal verde do Conselho Administrativo de Defesa Econ&#244;mica",
+      "url": "https://www.panrotas.com.br/aviacao/empresas/2026/06/grupo-abra-recebe-aprovacao-de-brasil-e-chile-para-compra-da-sky-airline_229474.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2023/04/06/3931e2e2a3efe66d81bd578fd936381b-default.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-15T17:59:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:52Z"
+    },
+    {
       "id": "42d510966bf0",
       "titulo": "Universal Orlando anuncia novo espetáculo noturno no Epic Universe",
       "resumo": "Show di&#225;rio com fogos de artif&#237;cio no Celestial Park homenagear&#225; personagens do parque",
@@ -167,6 +1023,22 @@
       "categoria": "Atrativos Internacionais",
       "data": "2026-06-15T17:53:00Z",
       "data_coleta": "2026-06-16T14:19:54Z"
+    },
+    {
+      "id": "22386f564392",
+      "titulo": "Latam inaugura voos entre São Paulo/Guarulhos e Caldas Novas (GO)",
+      "resumo": "Caldas Novas passa a integrar a malha a&#233;rea dom&#233;stica da companhia como o seu 63&#186; destino no Brasil.",
+      "url": "https://www.panrotas.com.br/aviacao/novas-rotas/2026/06/latam-inaugura-voos-entre-sao-paulo-guarulhos-e-caldas-novas-go_229470.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/15/9bfc97f24369c0dff4705c404f22ef83-image0026.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-15T17:31:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:52Z"
     },
     {
       "id": "64746849284e",
@@ -184,6 +1056,22 @@
       "data_coleta": "2026-06-16T14:19:54Z"
     },
     {
+      "id": "4dc045c90885",
+      "titulo": "Air Europa anuncia nova rota entre Madri e Genebra a partir de 19 de junho",
+      "resumo": "Com duas frequ&#234;ncias di&#225;rias, a opera&#231;&#227;o marca a chegada da companhia ao segundo destino su&#237;&#231;o",
+      "url": "https://www.panrotas.com.br/aviacao/empresas/2026/06/air-europa-anuncia-nova-rota-entre-madri-e-genebra-a-partir-de-19-de-junho_229467.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/15/860f97244844961ba1c9a9d06f8815b1-b787dreamliner.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-15T16:29:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:52Z"
+    },
+    {
       "id": "0672a6ff71b2",
       "titulo": "Pra Cima Brasil: operadoras realizam primeira grande operação da Copa do Mundo em NY",
       "resumo": "milhares de torcedores brasileiros acompanharam a partida entre Brasil e Marrocos no MetLife Stadium",
@@ -197,6 +1085,38 @@
       "categoria": "Shows & Eventos",
       "data": "2026-06-15T16:04:00Z",
       "data_coleta": "2026-06-16T14:19:54Z"
+    },
+    {
+      "id": "b2c353a26143",
+      "titulo": "Com White Rabbit e House of Candy, Barcelona promete conquistar viajante brasileiro; fotos",
+      "resumo": "Fundador Enrique Vives conta como criou as duas atra&#231;&#245;es e revela planos para se aproximar do mercado B2B",
+      "url": "https://www.panrotas.com.br/destinos/alternativo/2026/06/com-white-rabbit-e-house-of-candy-barcelona-promete-conquistar-o-viajante-brasileiro_229468.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/15/284dd3da768d75a8c1eacfe7b38a16de-11.jpg.jpeg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-15T15:49:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:52Z"
+    },
+    {
+      "id": "e57dab928ebb",
+      "titulo": "Expo Turismo Goiás começa nesta quarta-feira (17); veja programação completa",
+      "resumo": "Programa&#231;&#227;o da feira, nos dias 17 e 18 de junho, foi organizada para oferecer capacita&#231;&#227;o aos agentes",
+      "url": "https://www.panrotas.com.br/mercado/feiras/2026/06/expo-turismo-goias-comeca-nesta-quarta-feira-17-veja-programacao-completa_229462.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/15/9c0430f7cde0c8a2191d9951b601b7f1-dsc07142190.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-15T15:41:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:52Z"
     },
     {
       "id": "4b33dcd50060",
@@ -215,6 +1135,118 @@
       "data_coleta": "2026-06-16T14:19:54Z"
     },
     {
+      "id": "3e8e2f9c6437",
+      "titulo": "Equipotel cresce 15% e abre credenciamento para edição 2026",
+      "resumo": "Estimativa &#233; de reunir 480 marcas, sendo 10% internacionais, e atrair mais de 22 mil visitantes",
+      "url": "https://www.panrotas.com.br/hotelaria/eventos/2026/06/equipotel-cresce-15-e-abre-credenciamento-para-edicao-2026_229464.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/09/17/82a9f0ff5f16092de49bc7f5478a85e0-2dsc0285.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-15T14:49:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:52Z"
+    },
+    {
+      "id": "b4e21f11ca91",
+      "titulo": "Civitatis e Decolar anunciam aliança global para tours e atividades",
+      "resumo": "Acordo permitir&#225; que os usu&#225;rios da Decolar acessem o cat&#225;logo de atividades da Civitatis em todo o mundo",
+      "url": "https://www.panrotas.com.br/mercado/operadoras/2026/06/civitatis-e-decolar-anunciam-alianca-estrategica-global-para-tours-e-atividades_229463.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/15/ee08c11f42be9692066b33ef668eb48e-handshakecivitatisxdespegar.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-15T14:31:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:52Z"
+    },
+    {
+      "id": "46ee7ea0917a",
+      "titulo": "BWT confirma Sales Awards 2026 em Dubai e mantém ranking aberto até setembro",
+      "resumo": "Campanha premiar&#225; 30 agentes de viagens com viagem para Dubai entre 14 e 19 de dezembro",
+      "url": "https://www.panrotas.com.br/agencias-de-viagens/vendas/2026/06/bwt-confirma-sales-awards-2026-em-dubai-e-mantem-ranking-aberto-ate-setembro_229461.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/04/14/6b20009690ae0e7fdec234e82984cea8-rem0443.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-15T14:21:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:52Z"
+    },
+    {
+      "id": "51d5c440c5f0",
+      "titulo": "Malta reunirá líderes do setor de viagens e Turismo na próxima Cúpula Global do WTTC",
+      "resumo": "Encontro acontecer&#225; na capital Valletta de 7 a 9 de outubro deste ano",
+      "url": "https://www.panrotas.com.br/destinos/eventos/2026/06/malta-reunira-lideres-do-setor-de-viagens-e-turismo-na-proxima-cupula-global-do-wttc_229457.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/15/74f72de103fe9ac70383355fd56f18c4-whatsappimage20260615at10.22.20.jpeg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-15T13:56:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:52Z"
+    },
+    {
+      "id": "c57a4d6b4ab3",
+      "titulo": "Casa Grande Hotel: férias de julho com até 35% de desconto no Guarujá",
+      "resumo": "Resort cinco estrelas combina programa&#231;&#227;o infantil, gastronomia e bem-estar para toda a fam&#237;lia",
+      "url": "https://www.panrotas.com.br/hotelaria/mercado/2026/06/casa-grande-hotel-ferias-de-julho-com-ate-35-de-desconto-no-guaruja_229460.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/15/3bbb8c53550b0d1dd1944adbf6bb730b-compressedimage81.jpeg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-15T13:38:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:53Z"
+    },
+    {
+      "id": "8ac7b7784156",
+      "titulo": "Michael Nagy deixa o comando do Roxy Dinner Show após quase um ano",
+      "resumo": "Executivo retomar&#225; seus projetos de consultoria, al&#233;m de se dedicar a outras iniciativas profissionais",
+      "url": "https://www.panrotas.com.br/gente/movimentacao/2026/06/michael-nagy-deixa-o-comando-do-roxy-dinner-show-apos-quase-um-ano_229456.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/10/09/a62c33193ce1a9746bc7f15ae6639f5f-dsc8402.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-15T13:29:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:53Z"
+    },
+    {
+      "id": "4aa18b1ea23b",
+      "titulo": "Visual Turismo lança campanha de palpites para agências durante a Copa de 2026",
+      "resumo": "A&#231;&#227;o inclui bol&#245;es, cupons e ativa&#231;&#245;es voltadas a parceiros da operadora durante todo o torneio",
+      "url": "https://www.panrotas.com.br/agencias-de-viagens/eventos/2026/06/visual-turismo-lanca-campanha-de-palpites-para-agencias-durante-a-copa-de-2026_229454.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/15/bd80e7d96e39e568fbca2e92f5ec44c1-93bf969fcb494cdf885b3aeb7340088e.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-15T13:16:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:53Z"
+    },
+    {
       "id": "f088c446ca44",
       "titulo": "Royal Caribbean inicia oficialmente construção do sétimo navio da classe Oasis; VÍDEO",
       "resumo": "Embarca&#231;&#227;o est&#225; prevista para estrear em 2028 e promete novas experi&#234;ncias aos h&#243;spedes",
@@ -228,6 +1260,102 @@
       "categoria": "Temporada de Navios & Cruzeiros",
       "data": "2026-06-15T12:55:00Z",
       "data_coleta": "2026-06-16T14:19:54Z"
+    },
+    {
+      "id": "aab0f10d4559",
+      "titulo": "Nest Travel Seguro Viagem amplia acesso aos agentes por meio do Go Altus",
+      "resumo": "No Go Altus, Nest Travel une solu&#231;&#245;es segmentadas, sustentabilidade e suporte ao agente de viagens",
+      "url": "https://www.panrotas.com.br/nest-travel/mercado/2026/06/nest-travel-seguro-viagem-amplia-acesso-aos-agentes-por-meio-do-go-altus_229452.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/15/ad3da9c56301af3fc1972e79ed4f39c8-materia3nestimagem.png",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-15T12:33:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:53Z"
+    },
+    {
+      "id": "15553fdd7867",
+      "titulo": "BeHappy by LTN Brasil anuncia chegada de Chris Sherer, ex-Plantel e Goya",
+      "resumo": "Christinne Sherer assume como diretora de Opera&#231;&#245;es com a miss&#227;o de se aproximar mais dos fornecedores",
+      "url": "https://www.panrotas.com.br/viagens-de-luxo/gente/2026/06/behappy-by-ltn-brasil-anuncia-chegada-de-chris-sherer-ex-plantel-e-goya_229449.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/15/753a3bbaaf652217cbf4b8f3726c6ff0-whatsappimage20260615at8.48.49am1.jpeg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-15T12:28:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:53Z"
+    },
+    {
+      "id": "3568551ecaab",
+      "titulo": "Grupo Águia lança plataforma para impulsionar vendas e engajar agentes de viagens",
+      "resumo": "Go Altus une produtos, capacita&#231;&#227;o e gamifica&#231;&#227;o do Grupo &#193;guia em ecossistema digital",
+      "url": "https://www.panrotas.com.br/nest-travel/mercado/2026/06/grupo-aguia-lanca-plataforma-para-impulsionar-vendas-e-engajar-agentes-de-viagens_229451.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/15/b012b1482e22b218ec34744c027f56dd-materia1imagem.png",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-15T12:24:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:53Z"
+    },
+    {
+      "id": "7e5d6e853156",
+      "titulo": "Pop Tur amplia acesso ao turismo e já está disponível no Go Altus",
+      "resumo": "Marca amplia as oportunidades de venda dos agentes e incentiva o empreendedorismo no Turismo nacional",
+      "url": "https://www.panrotas.com.br/nest-travel/mercado/2026/06/pop-tur-amplia-acesso-ao-turismo-e-ja-esta-disponivel-no-go-altus_229450.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/15/170304a50d9a7f48feec44af3eb02240-materia4poptur.png",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-15T12:17:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:53Z"
+    },
+    {
+      "id": "f93c9495bff0",
+      "titulo": "5 razões para o agente de viagens se cadastrar no Go Altus",
+      "resumo": "Plataforma une produtos, capacita&#231;&#227;o e gamifica&#231;&#227;o para ampliar resultados no Turismo",
+      "url": "https://www.panrotas.com.br/nest-travel/agencias-de-viagens/2026/06/5-razoes-para-o-agente-de-viagens-se-cadastrar-no-go-altus_229448.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/15/a15ffce8b625087d55b83479115ab545-materia2imagem.png",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-15T12:08:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:53Z"
+    },
+    {
+      "id": "fa09e5a2662b",
+      "titulo": "Visto americano negado? Embaixada dá dicas sobre o que fazer após recusa",
+      "resumo": "Durante a entrevista, o governo americano avalia diversos fatores, como hist&#243;rico de viagens e profiss&#227;o",
+      "url": "https://www.panrotas.com.br/mercado/destinos/2026/06/visto-americano-negado-embaixada-da-dicas-sobre-o-que-fazer-apos-receber-a-recusa_229296.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/10/28/f0920f44325e2e371e937eff35539eda-unnamed.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-15T12:03:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:53Z"
     },
     {
       "id": "0f729445dc78",
@@ -245,6 +1373,22 @@
       "data_coleta": "2026-06-16T14:20:00Z"
     },
     {
+      "id": "5dfc6ad6ab92",
+      "titulo": "Minor Hotels inaugura primeira propriedade Colbert Collection em Florença",
+      "resumo": "Porta Rossa Hotel Firenze, Colbert Collection abre suas portas e estreia nova marca da rede",
+      "url": "https://www.panrotas.com.br/viagens-de-luxo/hotelaria/2026/06/minor-hotels-inaugura-primeira-propriedade-colbert-collection-em-florenca_229415.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/12/e73ff6d6e58d8c251d35847cfc88bb55-colbertportarossaflorencewintergardencreditsthdp.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-15T11:36:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:53Z"
+    },
+    {
       "id": "24f9c029ec70",
       "titulo": "Copa do Mundo: Suécia goleia Tunísia e assume liderança de grupo que pode estar no caminho do Brasil",
       "resumo": "Partida fechou a rodada deste domingo (14) pela competição",
@@ -258,6 +1402,22 @@
       "categoria": "Shows & Eventos",
       "data": "2026-06-15T11:25:12Z",
       "data_coleta": "2026-06-15T11:28:12Z"
+    },
+    {
+      "id": "e44c7bb08ead",
+      "titulo": "Lagune Barra Hotel anuncia Alexandre Rodrigues como novo gerente comercial",
+      "resumo": "Executivo com mais de 12 anos de experi&#234;ncia assume o comando da estrat&#233;gia comercial do empreendimento",
+      "url": "https://www.panrotas.com.br/gente/movimentacao/2026/06/lagune-barra-hotel-anuncia-alexandre-rodrigues-como-novo-gerente-comercial_229418.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/12/b17b8b2a394436bc912e4a0fcfae0fb3-alexandrerodriguesdivulgacao.jpeg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-15T11:21:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:53Z"
     },
     {
       "id": "dc6cf107ac3c",
@@ -425,6 +1585,22 @@
       "categoria": "Shows & Eventos",
       "data": "2026-06-13T08:00:00Z",
       "data_coleta": "2026-06-15T11:28:17Z"
+    },
+    {
+      "id": "92f505d3538a",
+      "titulo": "Visit Iguassu trabalha promoção no mercado chinês, foco no Mice e novo plano diretor",
+      "resumo": "Entidade concentra esfor&#231;os em diferentes frentes para fortalecer o posicionamento do destino trinacional",
+      "url": "https://www.panrotas.com.br/mercado/feiras/2026/06/visit-iguassu-trabalha-promocao-no-mercado-chines-foco-no-mice-e-novo-plano-diretor_229445.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/12/64c28cc7168e06299cf18014fd6d64d0-img3700.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-12T21:55:00Z",
+      "_score": 23,
+      "data_coleta": "2026-06-16T21:13:53Z"
     },
     {
       "id": "d5c1b25787be",
@@ -1796,6 +2972,22 @@
       "data_coleta": "2026-06-12T18:41:08Z"
     },
     {
+      "id": "95cf07b6c208",
+      "titulo": "Governo Trump recua sobre regra que exigia saída dos EUA para obtenção de green card, diz jornal",
+      "resumo": "A busca pelo visto EB-2 NIW nos EUA Divulgação O governo dos Estados Unidos afirmou nesta sexta-feira (29) que nem todos os imigrantes que solicitam um green card terão de deixar o país para concluir o processo. A declaração, obtida pelo jornal The New York Times, representa um recuo em relação a uma orientação anunciada na semana passada. ✅ Siga o canal de notícias internacionais do g1 no WhatsAp",
+      "url": "https://g1.globo.com/mundo/noticia/2026/05/29/governo-trump-recua-apos-anunciar-que-estrangeiros-teriam-de-deixar-os-eua-para-obter-green-card-diz-jornal.ghtml",
+      "imagem": "https://s2-g1.glbimg.com/GBosyTF1nPPG52CiIrvmNEKcLTI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/P/ed2QyIRzCAzbFMe7LYKg/captura-de-tela-2026-01-14-162922.png",
+      "fonte": "G1 Turismo",
+      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
+      "tags": [
+        "Setor Aereo"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-05-30T00:20:53Z",
+      "_score": 4,
+      "data_coleta": "2026-06-16T21:13:51Z"
+    },
+    {
       "id": "20c6f5aedbb5",
       "titulo": "Robô viaja de avião como passageiro, vira alvo de nova regra e reclama de proibição: 'Conspiração'",
       "resumo": "Robô humanoide entra em avião da Southwest Airlines Reprodução/Rentbots Um robô humanoide embarcou como passageiro em um voo da Southwest Airlines nos Estados Unidos, virou alvo de uma nova restrição criada pela companhia aérea e ainda “reclamou” da proibição depois da viagem. \"Stewie\", como é chama",
@@ -1872,6 +3064,22 @@
       "data_coleta": "2026-06-12T18:41:08Z"
     },
     {
+      "id": "cf05049f43ed",
+      "titulo": "'Me sinto expulso de Lisboa', diz brasileiro que vive em Portugal",
+      "resumo": "\"Sinto-me expulso de Lisboa\", diz brasileiro que vive em Portugal O aumento acelerado dos aluguéis em Lisboa tem pressionado moradores e imigrantes e transformado o acesso à moradia em um dos principais problemas de Portugal. Na capital portuguesa, o custo para alugar um imóvel já supera, em média, o salário dos trabalhadores. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp É nesse cen",
+      "url": "https://g1.globo.com/mundo/noticia/2026/05/13/me-sinto-expulso-de-lisboa-diz-brasileiro-que-vive-em-portugal.ghtml",
+      "imagem": "https://s2-g1.glbimg.com/-QPHdS9yo7Cc9KOtnsJUnkS2YpY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/w/i/AzWASfS3eTOBJUUq90mA/sea-city-landscape-sky.jpg",
+      "fonte": "G1 Turismo",
+      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
+      "tags": [
+        "Setor Aereo"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-05-13T08:03:25Z",
+      "_score": 4,
+      "data_coleta": "2026-06-16T21:13:51Z"
+    },
+    {
       "id": "fe80b7e936e3",
       "titulo": "Paraíso sob terror: violência assola destino turístico da Colômbia",
       "resumo": "O Parque Nacional de Tayrona, na Colômbia Luis Acosta/AFP À primeira vista, é um ponto turístico de águas cristalinas às margens do Caribe, cercado por montanhas nevadas. Mas, no interior deste destino paradisíaco da Colômbia, a violência paramilitar mantém comerciantes e povos indígenas sob o medo.",
@@ -1932,6 +3140,38 @@
       "data_coleta": "2026-06-12T18:41:08Z"
     },
     {
+      "id": "18fa7a75ef45",
+      "titulo": "Mulher é multada em quase R$ 30 mil após tentar tocar pênis de estátua na Itália em desafio entre amigos",
+      "resumo": "A Fonte de Netuno, em Florença, na Itália Divulgação/Turismo de Itália Uma mulher foi multada em 5 mil euros (R$ 29,6 mil) após invadir a Fonte de Netuno, em Florença, na Itália. Segundo as autoridades locais, a jovem tentava tocar o pênis de uma estátua do ponto turístico durante um desafio entre amigos. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp O caso aconteceu no sábado (18).",
+      "url": "https://g1.globo.com/mundo/noticia/2026/04/22/mulher-e-multada-em-quase-r-30-mil-apos-tentar-tocar-penis-de-estatua-na-italia-em-desafio-pre-nupcial.ghtml",
+      "imagem": "https://s2-g1.glbimg.com/VyhLzX8CqsTtmPed2rAPkTwk_EI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/t/BqOyWmTbiseNo3JebLEA/20220524145856-piazza-della-signoria-fontana-nettuno-firenze-toscana-shutterstock-362090801-1.webp",
+      "fonte": "G1 Turismo",
+      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
+      "tags": [
+        "Setor Aereo"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-04-22T19:16:27Z",
+      "_score": 4,
+      "data_coleta": "2026-06-16T21:13:51Z"
+    },
+    {
+      "id": "ca9c044d7ce0",
+      "titulo": "Brasileiro mostra como é morar em favela chinesa pagando R$ 30 de aluguel: 'Minha viagem nunca acabou'",
+      "resumo": "Maurício da Cruz BBC/Arquivo pessoal Quando chegou à China pela primeira vez, aos onze anos, Maurício da Cruz teve a sensação de que nenhum outro lugar poderia ser sua casa. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp O ano era 2000 e seu pai havia sido transferido pelo trabalho para a capital, Pequim, onde Maurício morou por dois anos até voltar para ficar com a mãe no sul do Bras",
+      "url": "https://g1.globo.com/mundo/noticia/2026/04/22/brasileiro-mostra-como-e-morar-em-favela-chinesa-pagando-r-30-de-aluguel-minha-viagem-nunca-acabou.ghtml",
+      "imagem": "https://s2-g1.glbimg.com/sczGmMkUvS0zbGCvnMkpfcfeq3I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/R/q89jp0SeKwIY1Jfzk5DQ/captura-de-tela-2026-04-22-064719.jpg",
+      "fonte": "G1 Turismo",
+      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
+      "tags": [
+        "Setor Aereo"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-04-22T09:47:16Z",
+      "_score": 4,
+      "data_coleta": "2026-06-16T21:13:51Z"
+    },
+    {
       "id": "bbb7d529ce6f",
       "titulo": "Brasileiros que forem à Copa do Mundo podem agendar visto dos EUA com prioridade, diz embaixada",
       "resumo": "Foto mostra um carimbo de visto em um passaporte estrangeiro em Los Angeles, nos EUA, em 6 de junho de 2020 Chris Delmas/AFP A Embaixada dos Estados Unidos em Brasília informou nesta quarta-feira (15) que os torcedores que forem assistir aos jogos da Copa do Mundo deste ano podem agendar, com priori",
@@ -1946,8 +3186,24 @@
       "categoria": "Shows & Eventos",
       "data": "2026-04-15T21:28:26Z",
       "data_coleta": "2026-06-12T18:41:08Z"
+    },
+    {
+      "id": "9523151ca634",
+      "titulo": "Por que cada vez mais turistas estão evitando os EUA",
+      "resumo": "Cidadãos brasileiros que pretendem fazer turismo nos EUA têm enfrentado obstáculos para conseguir o visto Recentemente, viajantes vivenciaram tempos de espera de até quatro horas em aeroportos americanos — os mais longos dos 24 anos de história da Administração de Segurança do Transporte dos Estados Unidos (TSA, na sigla em inglês). A culpa foi de uma paralisação parcial do governo dos Estados Uni",
+      "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/04/15/por-que-cada-vez-mais-turistas-estao-evitando-os-eua.ghtml",
+      "imagem": "https://s2-g1.glbimg.com/VL39idjoq9kPQomIprB_Kj_fPx4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/A/zb6IVtQYyxyqBuGTQrVA/956589a0-3710-11f1-8606-05fe34b06e1b.jpg.webp",
+      "fonte": "G1 Turismo",
+      "fonte_url": "https://g1.globo.com/turismo-e-viagem",
+      "tags": [
+        "Setor Aereo"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-04-15T06:00:56Z",
+      "_score": 5,
+      "data_coleta": "2026-06-16T21:13:51Z"
     }
   ],
-  "ultima_atualizacao": "2026-06-16T14:42:37Z",
-  "total": 127
+  "ultima_atualizacao": "2026-06-16T21:14:17Z",
+  "total": 205
 }
