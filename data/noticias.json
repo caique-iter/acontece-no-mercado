@@ -1,6 +1,1034 @@
 {
   "noticias": [
     {
+      "id": "842271b902e3",
+      "titulo": "Loumar está entre as 10 melhores agências de viagens do Brasil no Reclame AQUI",
+      "resumo": "A Loumar Turismo, empresa de receptivo turístico de Foz do Iguaçu, figura entre as 10 melhores empresas do segmento de Agências de Viagens no ranking do Reclame AQUI, uma das principais plataformas de reputação e relacionamento com consumidores do país. Nos últimos seis meses, a empresa alcançou 100",
+      "url": "https://g1.globo.com/pr/parana/especial-publicitario/loumar/noticia/2026/06/25/loumar-esta-entre-as-10-melhores-agencias-de-viagens-do-brasil-no-reclame-aqui.ghtml",
+      "imagem": "https://s2-g1.glbimg.com/Q3TlRn7eXMNzfdDmHIka5LSmWR0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/9/fR1AWKRLmdEeYr3aVYNA/lt-0061926-a-webbanner-g1-imagem-destaque-1400x900px.png",
+      "fonte": "G1",
+      "fonte_url": "https://g1.globo.com",
+      "tags": [
+        "Atrativos Nacionais"
+      ],
+      "categoria": "Atrativos Nacionais",
+      "data": "2026-06-25T16:46:16Z",
+      "_score": 3,
+      "data_coleta": "2026-06-25T17:20:37Z"
+    },
+    {
+      "id": "74ff7a6b329f",
+      "titulo": "Cristo Redentor será iluminado nas cores dos EUA em homenagem aos 250 anos da independência",
+      "resumo": "Ação do Consulado-Geral dos Estados Unidos, com apoio da Arquidiocese do Rio, prevê duas projeções especiais no monumento, nos dias 25 de junho e 4 de julho",
+      "url": "https://diariodorio.com/cristo-redentor-sera-iluminado-nas-cores-dos-eua-em-homenagem-aos-250-anos-da-independencia/",
+      "imagem": "https://diariodorio.com/wp-content/uploads/2025/02/cristo-redentor.jpeg",
+      "fonte": "Diario do Rio",
+      "fonte_url": "https://diariodorio.com",
+      "tags": [
+        "Concorrentes"
+      ],
+      "categoria": "Concorrentes",
+      "data": "2026-06-25T16:22:25Z",
+      "_score": 1001,
+      "data_coleta": "2026-06-25T17:20:40Z"
+    },
+    {
+      "id": "60cbb8109f8b",
+      "titulo": "Globo e SBT são responsáveis por 90% do público que vê Copa do Mundo, diz Ibope",
+      "resumo": "Globo e SBT concentraram 90% dos 136,4 milhões que já viram uma partida da Copa do Mundo , segundo dados do Ibope obtidos pela coluna. A TV aberta mantém a preferência do público mesmo com a concorrência da CazéTV . No total, os dois canais juntos chegam a 122,7 milhões. Leia mais (06/25/2026 - 13h1",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://f5.folha.uol.com.br/colunistas/outro-canal/2026/06/globo-e-sbt-sao-responsaveis-por-90-do-publico-que-ve-copa-do-mundo-diz-ibope.shtml",
+      "imagem": null,
+      "fonte": "Folha de Sao Paulo",
+      "fonte_url": "https://www.folha.uol.com.br",
+      "tags": [
+        "Shows & Eventos"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-25T16:17:00Z",
+      "_score": 1,
+      "data_coleta": "2026-06-25T17:20:38Z"
+    },
+    {
+      "id": "b6d248823611",
+      "titulo": "Copa do Mundo: Prefeitura e estado decretam ponto facultativo na segunda-feira",
+      "resumo": "Após classificação da seleção brasileira, Rio de Janeiro decretou benefício imediato aos servidores estaduais e municipais",
+      "url": "https://www.abcmais.com/pais/copa-do-mundo-prefeitura-e-estado-decretam-ponto-facultativo-na-segunda-feira/",
+      "imagem": null,
+      "fonte": "ABC Mais",
+      "fonte_url": "https://www.abcmais.com",
+      "tags": [
+        "Shows & Eventos"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-25T15:23:00Z",
+      "_score": 2,
+      "data_coleta": "2026-06-25T17:20:37Z"
+    },
+    {
+      "id": "945108eec2b0",
+      "titulo": "Pausa para hidratação vira oportunidade na Copa e emissora de TV pode lucrar mais do que no Super Bowl",
+      "resumo": "Com uma audiência global total esperada de mais de 6 bilhões de pessoas, a Copa do Mundo está se mostrando uma oportunidade atraente, mas complicada para os anunciantes. Leia mais (06/25/2026 - 11h58)",
+      "url": "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/mercado/2026/06/pausa-para-hidratacao-vira-oportunidade-na-copa-e-emissora-de-tv-pode-lucrar-mais-do-que-no-super-bowl.shtml",
+      "imagem": null,
+      "fonte": "Folha de Sao Paulo",
+      "fonte_url": "https://www.folha.uol.com.br",
+      "tags": [
+        "Shows & Eventos"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-25T14:58:00Z",
+      "_score": 1,
+      "data_coleta": "2026-06-25T17:20:38Z"
+    },
+    {
+      "id": "45322b6c3730",
+      "titulo": "Aeroporto de Congonhas ganhará loja da Krispy Kreme",
+      "resumo": "Marca amplia presen&#231;a em S&#227;o Paulo com sua primeira opera&#231;&#227;o em aeroportos no Pa&#237;s",
+      "url": "https://www.panrotas.com.br/aviacao/aeroportos/2026/06/aeroporto-de-congonhas-ganhara-loja-da-krispy-kreme_229734.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/25/a309ad77fb5cef79e5a7fa24cb9c0348-chatgptimage25dejun.de2026110010.png",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-25T14:11:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:29Z"
+    },
+    {
+      "id": "b73fa2e69104",
+      "titulo": "Festuris amplia agenda internacional para reforçar participação na edição de 2025",
+      "resumo": "Organizadores cumprem agenda em Brasil, Paraguai e Argentina para ampliar parcerias",
+      "url": "https://www.panrotas.com.br/mercado/feiras/2026/06/festuris-amplia-agenda-internacional-para-reforcar-participacao-na-edicao-de-2025_229728.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/25/d9c99e04bc8366705c184128c7da24d5-ministroparaguay.jpeg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-25T14:06:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:29Z"
+    },
+    {
+      "id": "0bd331c2943b",
+      "titulo": "Passagens aéreas podem levar até um ano para ficar mais baratas, diz CEO da Latam",
+      "resumo": "Jerome Cadier afirmou que redu&#231;&#227;o do petr&#243;leo ainda n&#227;o deve impactar tarifas no curto prazo",
+      "url": "https://www.panrotas.com.br/aviacao/empresas/2026/06/passagens-aereas-podem-levar-ate-um-ano-para-ficar-mais-baratas-diz-ceo-da-latam_229733.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/10/18d6402dc483de2ccda21274f9c9ed28-rem8013.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Setor Aereo"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-06-25T13:58:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:29Z"
+    },
+    {
+      "id": "881d7ececfde",
+      "titulo": "Accor reduz uso de plástico e emissão de CO2 em hotéis como parte de estratégia de ESG",
+      "resumo": "Rede ainda tem trabalhado para aprimorar a experi&#234;ncia dos h&#243;spedes com card&#225;pios mais saud&#225;veis",
+      "url": "https://www.panrotas.com.br/hotelaria/mercado/2026/06/accor-reduz-uso-de-plastico-e-emissao-de-co2-em-hoteis-como-parte-de-estrategia-de-esg_229712.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2024/10/15/ee2a71a2047d9e58a16ac5ef68c3e4ff-rem5996.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Setor Hoteleiro"
+      ],
+      "categoria": "Setor Hoteleiro",
+      "data": "2026-06-25T13:52:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:29Z"
+    },
+    {
+      "id": "faebf4d4c5b2",
+      "titulo": "Airbus inspecionará parte da frota de A380 após descoberta de rachaduras nas asas",
+      "resumo": "Foram encontradas fissuras nos longarinas das asas que podem comprometer a integridade das aeronaves",
+      "url": "https://www.panrotas.com.br/aviacao/empresas/2026/06/airbus-inspecionara-parte-da-frota-de-a380-apos-descoberta-de-rachaduras-nas-asas_229731.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2020/02/13/09ebcfd0a9cf315a28c5187887f54841-emiratesa3802.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-25T13:39:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:29Z"
+    },
+    {
+      "id": "55754a228a55",
+      "titulo": "Viagens corporativas movimentam R$ 18 bilhões e batem recorde em abril",
+      "resumo": "Levantamento da FecomercioSP e Alagev aponta crescimento de 4,6% no m&#234;s em compara&#231;&#227;o a 2025",
+      "url": "https://www.panrotas.com.br/viagens-corporativas/pesquisas-e-estatisticas/2026/06/viagens-corporativas-movimentam-r-18-bilhoes-e-batem-recorde-em-abril_229726.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/12/03/e0a823953380fee694ba5a978f16c2ac-dsc4324.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-25T13:16:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:29Z"
+    },
+    {
+      "id": "71dff8ffbaa2",
+      "titulo": "Neymar na Copa: A Trajetória do Craque Entre Recordes e a Busca pelo Título",
+      "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Maior artilheiro da Seleção Brasileira estreou na Copa do Mundo contra a Escócia após um mês afastado dos gramados; relembre os principais momentos da carreira O post Neymar na Copa: A Trajetória do Craque Entre Recordes e a Busca p",
+      "url": "https://forbes.com.br/carreira/2026/06/neymar-na-copa-a-trajetoria-do-craque-entre-recordes-e-a-busca-pelo-titulo/",
+      "imagem": null,
+      "fonte": "Forbes Brasil",
+      "fonte_url": "https://forbes.com.br",
+      "tags": [
+        "Shows & Eventos"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-25T12:55:06Z",
+      "_score": 1,
+      "data_coleta": "2026-06-25T17:20:39Z"
+    },
+    {
+      "id": "dbc4d7775ada",
+      "titulo": "Quais são as rotas aéreas mais movimentadas do Brasil em 2026? Confira",
+      "resumo": "Brasil somou mais de 42 milh&#245;es de passageiros dom&#233;sticos entre janeiro e maio de 2026, alta de 6%",
+      "url": "https://www.panrotas.com.br/aviacao/pesquisas-e-estatisticas/2026/06/rota-sao-paulo-bahia-cresce-8-e-ocupa-3a-posicao-entre-ligacoes-aereas-mais-movimentadas_229704.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2024/10/22/5eec637de6cb0b230c34a172a5239155-aenacgh00284.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-25T12:41:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:29Z"
+    },
+    {
+      "id": "6685faf585c6",
+      "titulo": "Bem-estar ganha protagonismo na hotelaria moderna",
+      "resumo": "Com seis pilares de wellness, The Westin S&#227;o Paulo posiciona bem-estar como eixo da experi&#234;ncia hoteleira",
+      "url": "https://www.panrotas.com.br/hotelaria/mercado/2026/06/bem-estar-ganha-protagonismo-na-hotelaria-moderna_229725.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/25/972fa86cb6b1f043e8787f6edd831db9-phtadeubrunelliwestinitaimtbf91273.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-25T12:34:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:29Z"
+    },
+    {
+      "id": "4e2bce61b25b",
+      "titulo": "Las Vegas é considerada a melhor cidade para convenções dos Estados Unidos",
+      "resumo": "Destino disp&#245;e de 1,4 milh&#227;o de metros quadrados de espa&#231;o para reuni&#245;es e conven&#231;&#245;es",
+      "url": "https://www.panrotas.com.br/mercado/destinos/2026/06/las-vegas-e-considerada-a-melhor-cidade-para-convencoes-dos-estados-unidos_229695.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/07/11/b0cdf9d6f9bd950f0483cc6489663f5a-leovisionshwx2pbobpbkunsplash.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-25T12:16:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:29Z"
+    },
+    {
+      "id": "7d4899a419b1",
+      "titulo": "Costa Cruzeiros lança pacotes para o Mediterrâneo com viagens ainda este ano",
+      "resumo": "Embarques est&#227;o programados para os dias 18 e 23 de outubro, em Barcelona e Civitavecchia/Roma",
+      "url": "https://www.panrotas.com.br/mercado/cruzeiros/2026/06/costa-cruzeiros-lanca-pacotes-para-o-mediterraneo-com-viagens-ainda-este-ano_229703.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2023/03/18/c3fc41506c7b8ab5a56592c3de691fd4-b5b6c9e670a24c2586c19dfaf5dcaf6a.jpeg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Temporada de Navios & Cruzeiros"
+      ],
+      "categoria": "Temporada de Navios & Cruzeiros",
+      "data": "2026-06-25T11:49:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "0effaa17b357",
+      "titulo": "CEOs do Festuris cumprem agenda estratégica em São Paulo, Assunção e Buenos Aires",
+      "resumo": "Os CEOs do Festuris – Feira Internacional de Turismo de Gramado, Eduardo Zorzanello e Marta Rossi, acompanhados pelo coordenador do Espaço Luxury, Jardel Hay, estão cumprindo nesta semana uma intensa agenda estratégica em São Paulo, Assunção (Paraguai) e Buenos Aires (Argentina). O principal objetiv",
+      "url": "https://acontecegramado.com.br/ceos-do-festuris-cumprem-agenda-estrategica-em-sao-paulo-assuncao-e-buenos-aires/",
+      "imagem": null,
+      "fonte": "Acontece Gramado",
+      "fonte_url": "https://acontecegramado.com.br",
+      "tags": [
+        "Atrativos Internacionais"
+      ],
+      "categoria": "Atrativos Internacionais",
+      "data": "2026-06-25T11:48:13Z",
+      "_score": 2,
+      "data_coleta": "2026-06-25T17:20:37Z"
+    },
+    {
+      "id": "60bda059cd8c",
+      "titulo": "Vincci Hoteles aposta no luxo brasileiro e estreita relações com o mercado",
+      "resumo": "Brasil &#233; o principal mercado latino-americano para a rede, que conta com hot&#233;is principalmente na Espanha",
+      "url": "https://www.panrotas.com.br/viagens-de-luxo/hotelaria/2026/06/vincci-hoteles-aposta-no-luxo-brasileiro-e-estreita-relacoes-com-o-mercado_229698.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/24/ad0d1c95fbaebaf357b10e17f786ea86-carloscruz.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-25T11:22:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "1a576e69ef94",
+      "titulo": "DNA de Agente: Rita Menezes Viagens e Turismo - Os desafios e conquistas de uma \"eugência\"",
+      "resumo": "Gerir uma ag&#234;ncia de viagens sozinha por mais de 20 anos &#233; um desafio que pode virar case de sucesso",
+      "url": "https://www.panrotas.com.br/agencias-de-viagens/mercado/2026/06/dna-de-agente-rita-menezes-viagens-e-turismo-os-desafios-e-conquistas-de-uma-eugencia_229617.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/19/0c680806481b46b6da7b7142c88d7518-whatsappimage20260619at15.53.47.jpeg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-25T11:00:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "73db19a0f189",
+      "titulo": "Barbados premia principais parceiros do trade durante o evento Connect 2026; veja fotos",
+      "resumo": "Reconhecimento destaca operadores de Turismo e parceiros da ind&#250;stria cujo trabalho inspira os viajantes",
+      "url": "https://www.panrotas.com.br/destinos/eventos/2026/06/barbados-premia-principais-parceiros-do-trade-durante-o-evento-connect-2026-veja-fotos_229724.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/25/4575ead7ef4830f50a297d4b790343d5-dscn9231.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-25T04:30:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "1ad8d116d0a8",
+      "titulo": "Você sabia? Em dias de céu limpo, dá para ver o Cristo Redentor da praia do Recreio",
+      "resumo": "Vídeo viral revela detalhe escondido na paisagem da Zona Oeste e leva milhares de cariocas a redescobrirem um dos maiores símbolos do Rio",
+      "url": "https://diariodorio.com/voce-sabia-em-dias-de-ceu-limpo-da-para-ver-o-cristo-redentor-da-praia-do-recreio/",
+      "imagem": "https://diariodorio.com/wp-content/uploads/2026/01/IMG_2969-1380x1536-1.jpg",
+      "fonte": "Diario do Rio",
+      "fonte_url": "https://diariodorio.com",
+      "tags": [
+        "Concorrentes"
+      ],
+      "categoria": "Concorrentes",
+      "data": "2026-06-25T03:30:20Z",
+      "_score": 1001,
+      "data_coleta": "2026-06-25T17:20:40Z"
+    },
+    {
+      "id": "20c8e6a846a0",
+      "titulo": "Visual e Rextur Advance reúnem parceiros em vitória do Brasil pela Copa do Mundo; fotos",
+      "resumo": "A&#231;&#227;o foi realizada em parceria com a Brand USA e a Gol Linhas A&#233;reas",
+      "url": "https://www.panrotas.com.br/mercado/operadoras/2026/06/visual-e-rextur-advance-reunem-parceiros-em-vitoria-do-brasil-pela-copa-do-mundo-fotos_229723.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/24/f7b03a5c9996dab2a081ca55a170a148-rem0412.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-25T01:14:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "09f873d636e6",
+      "titulo": "Brasil Derrota a Escócia, Termina em 1º no Grupo e Vai Ao Mata-mata na Copa do Mundo 2026",
+      "resumo": "Forbes, a mais conceituada revista de negócios e economia do mundo. Agora, a equipe comandada por Ancelotti entra em compo no dia 29 de junho, segunda-feira O post Brasil Derrota a Escócia, Termina em 1º no Grupo e Vai Ao Mata-mata na Copa do Mundo 2026 apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-life/forbes-sport/2026/06/brasil-derrota-a-escocia-termina-em-1o-no-grupo-e-vai-ao-mata-mata-na-copa-do-mundo-2026/",
+      "imagem": null,
+      "fonte": "Forbes Brasil",
+      "fonte_url": "https://forbes.com.br",
+      "tags": [
+        "Shows & Eventos",
+        "Atrativos Internacionais"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-25T00:12:31Z",
+      "_score": 3,
+      "data_coleta": "2026-06-25T17:20:39Z"
+    },
+    {
+      "id": "6e56f2738e76",
+      "titulo": "Connect Barbados 2026 tem alta de 51% no número de compradores internacionais",
+      "resumo": "Operadoras brasileiras Primetour e Orinter participam do evento, que re&#250;ne players do Turismo local",
+      "url": "https://www.panrotas.com.br/destinos/eventos/2026/06/connect-barbados-2026-tem-alta-de-51-no-numero-de-compradores-internacionais_229722.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/24/316153eb1bdaf871fcd85fb5d9f15c1f-connectdayone134.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-24T21:05:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "5dfd5f5f9e20",
+      "titulo": "Abracorp debate papel estratégico do setor Mice em fórum no dia 28 de julho",
+      "resumo": "Encontro vai propor reflex&#227;o sobre o papel dos eventos como instrumentos de gera&#231;&#227;o de neg&#243;cios",
+      "url": "https://www.panrotas.com.br/viagens-corporativas/eventos/2026/06/abracorp-debate-papel-estrategico-do-setor-mice-em-forum-no-dia-28-de-julho_229711.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/05/29/80ca2c4486c6584bfcedf4878b64ad8e-rem0717.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-24T19:35:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "4a9cfd2dace5",
+      "titulo": "MSC vê alta demanda por experiências exclusivas e amplia presença do Yacht Club no Brasil",
+      "resumo": "Companhia realizou almo&#231;o nesta quarta-feira (24) em S&#227;o Paulo para apresentar as novidades; veja fotos",
+      "url": "https://www.panrotas.com.br/mercado/cruzeiros/2026/06/msc-ve-alta-demanda-por-experiencias-exclusivas-e-amplia-presenca-do-yacht-club-no-brasil_229721.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/24/5ff8509353d56defeea829f434212a77-rem0213.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-24T19:27:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "de6156031b8c",
+      "titulo": "Avenida Brasil vai ganhar duas novas agulhas exclusivas para acesso ao Porto do Rio",
+      "resumo": "A Prefeitura do Rio inicia, na próxima terça-feira (30/06), as obras de construção de duas novas agulhas viárias na Avenida […] O post Avenida Brasil vai ganhar duas novas agulhas exclusivas para acesso ao Porto do Rio apareceu primeiro em Prefeitura da Cidade do Rio de Janeiro - prefeitura.rio .",
+      "url": "https://prefeitura.rio/cidade/avenida-brasil-vai-ganhar-duas-novas-agulhas-exclusivas-para-acesso-ao-porto-do-rio/",
+      "imagem": null,
+      "fonte": "Prefeitura do Rio",
+      "fonte_url": "https://prefeitura.rio",
+      "tags": [
+        "Temporada de Navios & Cruzeiros"
+      ],
+      "categoria": "Temporada de Navios & Cruzeiros",
+      "data": "2026-06-24T19:15:49Z",
+      "_score": 1,
+      "data_coleta": "2026-06-25T17:20:40Z"
+    },
+    {
+      "id": "e5c25b64c85d",
+      "titulo": "Iata amplia aliança global para acelerar oferta de créditos de carbono do Corsia",
+      "resumo": "Grupo chega a 50 participantes com ades&#227;o de governos e entidades do setor para apoiar mercado de carbono",
+      "url": "https://www.panrotas.com.br/aviacao/parcerias/2026/06/iata-amplia-alianca-global-para-acelerar-oferta-de-creditos-de-carbono-do-corsia_229707.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2024/11/03/7127193550f20131cc146561a36ba96e-0000.jpeg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-24T18:59:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "1ec1fede5231",
+      "titulo": "Valle Nevado, no Chile, lança Aconcagua Ski Residences",
+      "resumo": "Resid&#234;ncias projetadas para grupos abrir&#225; suas portas ao p&#250;blico nesta sexta-feira (26)",
+      "url": "https://www.panrotas.com.br/hotelaria/inauguracoes/2026/06/valle-nevado-no-chile-lanca-aconcagua-ski-residences_229691.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/24/0123eb12e4303593f9e1158781dd67fd-280699.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-24T18:30:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "463fe6918b2b",
+      "titulo": "Azul recebe a 48ª aeronave Embraer 195-E2 de sua frota",
+      "resumo": "Companhia recebe aeronave PS-ADP em Confins (MG), segunda entrega de 2026, e amplia plano de frota",
+      "url": "https://www.panrotas.com.br/aviacao/empresas/2026/06/azul-recebe-a-48a-aeronave-embraer-195-e2-de-sua-frota_229706.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/24/08e4724eeaa814240799d9b70f45e4c0-azule2creditodivulgacaoazul.jpeg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-24T18:01:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "528c60c4d0e9",
+      "titulo": "Braztoa filia Central Tour, Ancoradouro, ICT, Viracopos e Itaipu Parquetec",
+      "resumo": "Novos associados ampliam conex&#245;es entre distribui&#231;&#227;o, destinos, infraestrutura, inova&#231;&#227;o e Turismo",
+      "url": "https://www.panrotas.com.br/mercado/operadoras/2026/06/braztoa-filia-central-tour-mondiale-ict-viracopos-e-itaipu-parquetec_229701.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2024/04/30/133fa00a6b8f3879da79919f5478fca3-marinafigueiredo.jpeg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-24T17:34:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "6cace5e0a21e",
+      "titulo": "Gol fecha parceria com Granado para amenities da nova classe executiva Insignia",
+      "resumo": "Produtos da marca carioca estar&#227;o dispon&#237;veis nos novos voos de longa dist&#226;ncia da companhia",
+      "url": "https://www.panrotas.com.br/aviacao/empresas/2026/06/gol-fecha-parceria-com-granado-para-amenities-da-nova-classe-executiva-insignia_229710.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/24/0da42ce989c450fa2beda94dc095175a-unnamed.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-24T17:18:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "72e45bd92d03",
+      "titulo": "DesBRAva é maior aposta da Embratur para democratizar a internacionalização do Turismo",
+      "resumo": "Plataforma para impulsionar internacionaliza&#231;&#227;o tem potencial para virar marketplace do Turismo brasileiro",
+      "url": "https://www.panrotas.com.br/mercado/destinos/2026/06/desbrava-e-grande-aposta-da-embratur-para-democratizar-a-internacionalizacao-do-turismo_229702.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/24/19dc181a4ce27c4730c5b4c8c7a9840c-rem0083.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-24T17:05:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "1d4a33714570",
+      "titulo": "A um ano da Copa, futebol feminino já é realidade em projetos da Secretaria Municipal de Esportes",
+      "resumo": "Falta exatamente um ano para o início da Copa do Mundo Feminina da FIFA 2027™, e o Rio de Janeiro, […] O post A um ano da Copa, futebol feminino já é realidade em projetos da Secretaria Municipal de Esportes apareceu primeiro em Prefeitura da Cidade do Rio de Janeiro - prefeitura.rio .",
+      "url": "https://prefeitura.rio/cidade/a-um-ano-da-copa-futebol-feminino-ja-e-realidade-em-projetos-da-secretaria-municipal-de-esportes/",
+      "imagem": null,
+      "fonte": "Prefeitura do Rio",
+      "fonte_url": "https://prefeitura.rio",
+      "tags": [
+        "Shows & Eventos"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-24T16:51:34Z",
+      "_score": 1,
+      "data_coleta": "2026-06-25T17:20:40Z"
+    },
+    {
+      "id": "23e3a318682d",
+      "titulo": "Azul retoma voos para Parnaíba (PI), a partir de Confins (MG)",
+      "resumo": "Opera&#231;&#227;o, a bordo do Embraer 195-E2, ter&#225; in&#237;cio em novembro, com dois voos semanais em cada sentido",
+      "url": "https://www.panrotas.com.br/aviacao/empresas/2026/06/azul-retoma-voos-para-parnaiba-pi-a-partir-de-confins-mg_229700.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/03/10/33d747b7150f99069eb9341940d0dd21-novoembraere2soudobrasilsouazul.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-24T16:37:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "3f0d0c335061",
+      "titulo": "High End Travels inspira convidados a viajar à Itália em evento com Vespa e Belmond",
+      "resumo": "Ag&#234;ncia de viagens de luxo de Maria Fernanda Caramella celebra a dolce vita com parceiros no Jardim Europa",
+      "url": "https://www.panrotas.com.br/viagens-de-luxo/agencias-de-viagens/2026/06/high-end-travels-inspira-convidados-a-viajar-a-italia-em-evento-com-vespa-e-belmond_229699.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/24/f368bdbe82c6db586ccba8de11bd70b2-hetvespa4.jpeg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-24T16:33:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "bbd75519c847",
+      "titulo": "Alerj aprova PL que mantém alíquota do QAV no Rio em 7% até abril de 2027",
+      "resumo": "Norma integra a estrat&#233;gia do Estado para consolidar o Aeroporto Internacional Tom Jobim (Gale&#227;o) como hub",
+      "url": "https://www.panrotas.com.br/aviacao/empresas/2026/06/alerj-aprova-pl-que-mantem-aliquota-do-qav-no-rio-em-7-ate-abril-de-2027_229705.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2024/09/18/ab25bb816393786d8776a986a83018c1-28457926210de4d203dd9k.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-24T16:09:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "1b54d478d731",
+      "titulo": "Iberia estreia wi-fi gratuito da Starlink em voo entre Madri e São Paulo",
+      "resumo": "Servi&#231;o permite acesso &#224; internet durante todo o trajeto, do embarque ao desembarque",
+      "url": "https://www.panrotas.com.br/aviacao/tecnologia/2026/06/iberia-estreia-wi-fi-gratuito-da-starlink-em-voo-entre-madri-e-sao-paulo_229696.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/24/596b4b43b4eb7dc2c5fbefdf7e7cdfb2-unnamed81.png",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Setor Aereo"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-06-24T15:44:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "e31f0e2c6186",
+      "titulo": "Walt Disney World anuncia calendário das festas de fim de ano de 2026; confira",
+      "resumo": "Entre os eventos, o Mickeys Very Merry Christmas Party ocorre entre 8 de novembro e 22 de dezembro",
+      "url": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/06/walt-disney-world-anuncia-calendario-das-festas-de-fim-de-ano-de-2026-confira_229697.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/24/2f021a3c03fc5fb329ef7e605b8effd9-mickeymouseandminniemouseatdisneyjollywoodnights2026.png",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Atrativos Internacionais"
+      ],
+      "categoria": "Atrativos Internacionais",
+      "data": "2026-06-24T15:17:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "09b4da7dc2f2",
+      "titulo": "Iata define quatro prioridades para cadeia de suprimentos da aviação",
+      "resumo": "Entidade aponta falhas na cadeia aeroespacial e prop&#245;e a&#231;&#245;es em dados, MRO e m&#227;o de obra",
+      "url": "https://www.panrotas.com.br/aviacao/empresas/2026/06/iata-define-quatro-prioridades-para-cadeia-de-suprimentos-da-aviacao_229692.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/04/23/92ef8fefbf83225915747ced17b684ed-chuanzhaotuoxieyiluxiaopaoairplane73592321920.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-24T14:51:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "92255329083f",
+      "titulo": "Argentina mira receber 1 milhão de brasileiros com nova campanha de promoção",
+      "resumo": "A&#231;&#227;o tamb&#233;m inclui a realiza&#231;&#227;o de reuni&#245;es da equipe do Visit Argentina com operadores de Turismo",
+      "url": "https://www.panrotas.com.br/mercado/destinos/2026/06/argentina-mira-receber-1-milhao-de-brasileiros-com-nova-campanha-de-promocao_229694.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2023/12/01/56486ad8ff136a8d5a12746aba2c8635-benjaminr8oe2dopm4ounsplash.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-24T14:24:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "7ae3cfeb8466",
+      "titulo": "Disney anuncia investimentos de US$ 30 bi em parques dos EUA até 2033",
+      "resumo": "Recursos ser&#227;o destinados &#224; cria&#231;&#227;o de novas &#225;reas tem&#225;ticas, atra&#231;&#245;es in&#233;ditas e moderniza&#231;&#245;es",
+      "url": "https://www.panrotas.com.br/destinos/parques-tematicos/2026/06/disney-anuncia-investimentos-de-us-30-bi-em-parques-dos-eua-ate-2033_229693.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/11/13/48383fe26f75f573b554b78a0d703777-magickingdom.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-24T13:56:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "b0f50207b1a4",
+      "titulo": "Swan Hellenic amplia equipe comercial nas Américas com três contratações",
+      "resumo": "Companhia refor&#231;a opera&#231;&#245;es de vendas na regi&#227;o e amplia foco em canais do trade tur&#237;stico",
+      "url": "https://www.panrotas.com.br/gente/movimentacao/2026/06/swan-hellenic-amplia-equipe-comercial-nas-americas-com-tres-contratacoes_229690.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/07/07/8c7a8f82c0225924ecc6c9b53c9cb77b-dianareykjavikdowntown.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-24T13:29:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "e7c63bf8a2b5",
+      "titulo": "IA, Gen Z, redes sociais: 10 tendências que alavancam a distribuição global de viagens",
+      "resumo": "RateHawk re&#250;ne l&#237;deres globais para discutir futuro das viagens e mudan&#231;as que est&#227;o transformando o setor",
+      "url": "https://www.panrotas.com.br/viagens-corporativas/eventos/2026/06/ia-gen-z-redes-sociais-10-tendencias-que-alavancam-a-distribuicao-global-de-viagens_229673.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/23/60edbd392f66e1cc3d1fb72a67a44d5e-capturadetela20260623123220.png",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-24T13:04:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "d80430cc644f",
+      "titulo": "Sul lidera crescimento da aviação brasileira em 2026; Guarulhos segue como principal hub",
+      "resumo": "Regi&#227;o registra alta de 10,3% no ano; Guarulhos, Congonhas e Gale&#227;o lideram ranking",
+      "url": "https://www.panrotas.com.br/aviacao/aeroportos/2026/06/sul-lidera-crescimento-da-aviacao-brasileira-em-2026-guarulhos-segue-como-principal-hub_229685.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/01/07/eb5ed514ee3bc65925ed834fd3960857-unnamed20260107t120407.932.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-24T12:36:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "2e8c0796a43a",
+      "titulo": "Infraero assume gestão do Aeroporto de Caxias do Sul, na Serra Gaúcha",
+      "resumo": "Infraero j&#225; definiu um pacote de investimentos de R$ 23 milh&#245;es para adequar a infraestrutura do aeroporto",
+      "url": "https://www.panrotas.com.br/aviacao/aeroportos/2026/06/infraero-assume-gestao-do-aeroporto-de-caxias-do-sul-na-serra-gaucha_229681.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/23/1d15593acf9cf34757f87ee32b23772a-image1000922309dd47358a6cd07ff677ac5ce14e.jpeg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Setor Aereo",
+        "Atrativos Nacionais"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-06-24T12:09:00Z",
+      "_score": 6,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "1a6eeb75f917",
+      "titulo": "Costao Estaleirinho, em Balneário Camboriú (SC), inicia segunda fase de vendas",
+      "resumo": "Expectativa &#233; encerrar a segunda fase de comercializa&#231;&#227;o em abril de 2027 com 70% das fra&#231;&#245;es vendidas",
+      "url": "https://www.panrotas.com.br/hotelaria/mercado/2026/06/costao-estaleirinho-em-balneario-camboriu-sc-inicia-segunda-fase-de-vendas_229687.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/23/072a0d231f02503a3eae79b4c11d6502-unnamed84.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-24T11:46:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "625609085e19",
+      "titulo": "BCD Travel amplia oferta ferroviária na Europa via integração com Deutsche Bahn",
+      "resumo": "TMC tamb&#233;m anunciou o lan&#231;amento do split ticketing no Reino Unido por meio do TripSource",
+      "url": "https://www.panrotas.com.br/viagens-corporativas/tmcs/2026/06/bcd-travel-amplia-oferta-ferroviaria-na-europa-via-integracao-com-deutsche-bahn_229646.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/04/23/a7def6766867439b2c09a8fddb8cc128-gettyimagessb10064199bs001.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-24T11:23:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "10d0dc85348f",
+      "titulo": "Federação de CVBs do Rio lança programa de consultoria para fortalecer destinos",
+      "resumo": "Iniciativa ter&#225; dura&#231;&#227;o de 12 meses e prev&#234; a implementa&#231;&#227;o de boas pr&#225;ticas de gest&#227;o dos destinos",
+      "url": "https://www.panrotas.com.br/mercado/destinos/2026/06/federacao-de-cvbs-do-rio-lanca-programa-de-consultoria-para-fortalecer-destinos_229686.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/23/db0848d1a2eb88ada09a7b80f94c73d9-whatsappimage20260623at17.14.45.jpeg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-24T11:04:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "3f788a89f59e",
+      "titulo": "Instagram caiu? Usuários relatam queda da rede social nesta terça (23)",
+      "resumo": "Problema &#233; generalizado nos servidores da Meta. Caiu o Instagram para IOS, Android e a vers&#227;o web",
+      "url": "https://www.panrotas.com.br/mercado/tecnologia/2026/06/instagram-caiu-usuarios-relatam-queda-da-rede-social-nesta-terca-23_229689.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/23/ed26f4a34607ab7acf14280bf92ae9f7-instacaiu.png",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-23T21:44:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "0ce6ff67cc78",
+      "titulo": "Hotelaria nacional aciona Cade contra Booking.com por aumento de comissões; veja detalhes",
+      "resumo": "Entidades do setor de Turismo e hospitalidade pediram suspens&#227;o do reajuste para 18% nas taxas cobradas",
+      "url": "https://www.panrotas.com.br/hotelaria/distribuicao/2026/06/hotelaria-nacional-aciona-cade-contra-bookingcom-por-aumento-de-comissoes-veja-detalhes_229688.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/12/05/2e2dbe9dc45a5f391b314898587197d1-f2.jpeg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-23T21:32:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "ed4a14444774",
+      "titulo": "Travel Compositor acelera expansão no Brasil após consolidar operação local",
+      "resumo": "Companhia fortalece equipe, estreita rela&#231;&#227;o com clientes e amplia presen&#231;a no trade",
+      "url": "https://www.panrotas.com.br/mercado/tecnologia/2026/06/travel-compositor-acelera-expansao-no-brasil-apos-consolidar-operacao-local_229680.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2024/10/14/1fae68ad5d28442aecfdc291a71b4345-1713008775573.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-23T20:33:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "c1b701b22c79",
+      "titulo": "Crans-Montana, nos Alpes Suíços, aposta no mercado brasileiro de luxo; entenda",
+      "resumo": "No inverno ou no ver&#227;o, brasileiros devem se encantar com a autenticidade e a beleza do destino",
+      "url": "https://www.panrotas.com.br/viagens-de-luxo/destinos/2026/06/crans-montana-nos-alpes-suicos-aposta-no-mercado-brasileiro-de-luxo-entenda_229682.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/23/35466c946ca6fc1c18f4fbdccc9ca97d-whatsappimage20260623at10.38.056.jpeg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-23T20:15:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "b72d195fdbf1",
+      "titulo": "Bradesco Corporate: cartões corporativos com Duty of Care integrado para T&E",
+      "resumo": "Solu&#231;&#227;o vai al&#233;m do cart&#227;o tradicional com prazos alongados, controle de gastos e seguros de viagem",
+      "url": "https://www.panrotas.com.br/viagens-corporativas/mercado/2026/06/bradesco-corporate-cartoes-corporativos-com-duty-of-care-integrado-para-t-e_229684.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/23/c8df5e1091d16c2f4489fde43cf5ae20-chatgptimage1dejun.de2026145234.png",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-23T20:02:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "176b8bf739c6",
+      "titulo": "53ª Abav Expo abre inscrições e terá espaços dedicados à tecnologia e ESG",
+      "resumo": "Feira deste ano acontece de 30 de setembro a 2 de outubro, no Expo Center Norte, em S&#227;o Paulo",
+      "url": "https://www.panrotas.com.br/agencias-de-viagens/eventos/2026/06/53a-abav-expo-abre-inscricoes-e-tera-espacos-dedicados-a-tecnologia-e-esg_229683.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/10/10/03485592d517bb4853e93631865a6e14-whatsappimage20251009at7.37.36pm.jpeg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Shows & Eventos"
+      ],
+      "categoria": "Shows & Eventos",
+      "data": "2026-06-23T20:02:00Z",
+      "_score": 5,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "a0545063aad9",
+      "titulo": "St. Regis Hotels & Resorts inaugura empreendimento em Cancún com varandas privativas",
+      "resumo": "Propriedade conta com 50 su&#237;tes, piscina com borda infinita e academia com vista para o mar",
+      "url": "https://www.panrotas.com.br/viagens-de-luxo/hotelaria/2026/06/st-regis-hotels-resorts-inaugura-empreendimento-em-cancun-com-varandas-privativas_229678.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/23/3ea1be65a21d7c221b0066cdfe90ae96-st.regiscostamujeresresort.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Atrativos Internacionais"
+      ],
+      "categoria": "Atrativos Internacionais",
+      "data": "2026-06-23T19:41:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "99ca7c57acc6",
+      "titulo": "CEO da Latam empolga fãs com vídeo da pintura do Embraer; assista",
+      "resumo": "Top voice do Linkedin, Jerome Cadier mostra na rede social o processo de pintura de suas novas encomendas",
+      "url": "https://www.panrotas.com.br/aviacao/empresas/2026/06/ceo-da-latam-empolga-fas-com-video-da-pintura-do-embraer-assista_229671.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/23/8e96d6520b7b3f77f3d8fe524deb1287-nomadzeca.png",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Setor Aereo"
+      ],
+      "categoria": "Setor Aereo",
+      "data": "2026-06-23T19:17:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "55995b107452",
+      "titulo": "Prosus lança ferramenta que permite criação de apps por colaboradores e clientes",
+      "resumo": "CEO da Prosus destacou os diferenciais das ferramentas e mostrou como elas impulsionar&#227;o os neg&#243;cios",
+      "url": "https://www.panrotas.com.br/mercado/tecnologia/2026/06/prosus-lanca-ferramenta-de-criacao-de-aplicativos-e-assistente-de-ia-veja-novidades_229676.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/06/23/fca1530d5319d48bdb84464b1a21216a-fabriciobloisiprosus.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-23T19:13:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "d0d883e4c769",
+      "titulo": "Mais de 1,4 mil hotéis preparam ação contra Booking.com na Espanha",
+      "resumo": "Hot&#233;is acusam plataforma de praticar condi&#231;&#245;es comerciais consideradas abusivas durante anos",
+      "url": "https://www.panrotas.com.br/agencias-de-viagens/vendas/2026/06/mais-de-14-mil-hoteis-preparam-acao-contra-bookingcom-na-espanha_229661.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2026/02/06/cafc9793be7dfd8d2763939bc82cc3cc-jasrolyn7bqk0rcpo5kunsplash.jpg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-23T18:48:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "7dd5a1ed1a9c",
+      "titulo": "Entende.AI aposta no fim da fragmentação de dados em eventos; conheça a empresa",
+      "resumo": "Empresa desenvolve solu&#231;&#245;es para integrar informa&#231;&#245;es espalhadas entre sistemas, planilhas e documentos",
+      "url": "https://www.panrotas.com.br/viagens-corporativas/tecnologia/2026/06/entendeai-aposta-no-fim-da-fragmentacao-de-dados-em-eventos-conheca-a-empresa_229675.html",
+      "imagem": "https://admin.panrotas.com.br/media/thumb/cropper/permalink/fix/1200,675/?source=media-files-original/2025/11/07/2bc0bf00fd3449e91d471af736d8aaf6-whatsappimage20251107at10.57.26.jpeg",
+      "fonte": "Panrotas",
+      "fonte_url": "https://www.panrotas.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-23T18:25:00Z",
+      "_score": 4,
+      "data_coleta": "2026-06-25T17:20:30Z"
+    },
+    {
+      "id": "b21ec41b7846",
+      "titulo": "Corsan certifica NBA Park de Gramado com Selo de Qualidade da Água",
+      "resumo": "A Corsan entregou ao NBA Park, em Gramado, a certificação de Qualidade em Água Tratada. A iniciativa identifica instituições que utilizam a água tratada fornecida pela companhia e adotam critérios de consumo e gestão ambiental. Esta foi a primeira certificação concedida pela empresa na região das Ho",
+      "url": "https://acontecegramado.com.br/corsan-certifica-nba-park-de-gramado-com-selo-de-qualidade-da-agua/",
+      "imagem": null,
+      "fonte": "Acontece Gramado",
+      "fonte_url": "https://acontecegramado.com.br",
+      "tags": [
+        "Concorrentes"
+      ],
+      "categoria": "Concorrentes",
+      "data": "2026-06-23T17:35:09Z",
+      "_score": 1000,
+      "data_coleta": "2026-06-25T17:20:37Z"
+    },
+    {
+      "id": "e9a1eaf426ef",
+      "titulo": "Turismo: Elodir Corrêa completa 15 anos de Grupo Dreams e anuncia novidades em quatro estados de atuação",
+      "resumo": "O executivo gramadense Elodir Corrêa completa 15 anos de atuação comercial e institucional no Grupo Dreams. No período, o profissional coordenou as frentes de expansão de mercado e relacionamento em praças e trade dos cinco maiores polos turísticos do país, em quatro estados, em que o grupo atua: Gr",
+      "url": "https://acontecegramado.com.br/turismo-elodir-correa-completa-15-anos-de-grupo-dreams-e-anuncia-novidades-em-quatro-estados-de-atuacao/",
+      "imagem": null,
+      "fonte": "Acontece Gramado",
+      "fonte_url": "https://acontecegramado.com.br",
+      "tags": [
+        "Novidades no Setor"
+      ],
+      "categoria": "Novidades no Setor",
+      "data": "2026-06-23T10:53:59Z",
+      "_score": 2,
+      "data_coleta": "2026-06-25T17:20:37Z"
+    },
+    {
+      "id": "dfbfd46762a0",
+      "titulo": "Número de turistas internacionais em Pernambuco de janeiro a maio deste ano dobrou em relação ao ano passado",
+      "resumo": "O post Número de turistas internacionais em Pernambuco de janeiro a maio deste ano dobrou em relação ao ano passado apareceu primeiro em Embratur .",
+      "url": "https://embratur.com.br/2026/06/19/numero-de-turistas-internacionais-em-pernambuco-de-janeiro-a-maio-deste-ano-dobrou-em-relacao-ao-ano-passado/",
+      "imagem": null,
+      "fonte": "Embratur",
+      "fonte_url": "https://embratur.com.br",
+      "tags": [
+        "Big Numbers",
+        "Atrativos Internacionais"
+      ],
+      "categoria": "Big Numbers",
+      "data": "2026-06-19T20:46:53Z",
+      "_score": 3,
+      "data_coleta": "2026-06-25T17:20:33Z"
+    },
+    {
+      "id": "c4a160b5fa29",
+      "titulo": "Rio de Janeiro ultrapassa 1,2 milhão de turistas internacionais e lidera crescimento no Brasil",
+      "resumo": "O post Rio de Janeiro ultrapassa 1,2 milhão de turistas internacionais e lidera crescimento no Brasil apareceu primeiro em Embratur .",
+      "url": "https://embratur.com.br/2026/06/19/rio-de-janeiro-ultrapassa-12-milhao-de-turistas-internacionais-e-lidera-crescimento-no-brasil/",
+      "imagem": null,
+      "fonte": "Embratur",
+      "fonte_url": "https://embratur.com.br",
+      "tags": [
+        "Big Numbers",
+        "Atrativos Internacionais"
+      ],
+      "categoria": "Big Numbers",
+      "data": "2026-06-19T20:32:18Z",
+      "_score": 3,
+      "data_coleta": "2026-06-25T17:20:33Z"
+    },
+    {
       "id": "430d2c8bedcd",
       "titulo": "Como bilionários ajudaram os EUA a contratar Mauricio Pochettino para a Copa",
       "resumo": "Em junho e julho de 2024, a frustração tomou conta do futebol americano. A seleção masculina dos Estados Unidos acabava de ser eliminada da Copa América. Leia mais (06/19/2026 - 08h00)",
@@ -111,6 +1139,23 @@
       "data": "2026-06-18T22:20:00Z",
       "_score": 4,
       "data_coleta": "2026-06-19T11:32:52Z"
+    },
+    {
+      "id": "d1e9f1795575",
+      "titulo": "Brasil tem melhor maio da história com quase meio milhão de turistas internacionais",
+      "resumo": "O post Brasil tem melhor maio da história com quase meio milhão de turistas internacionais apareceu primeiro em Embratur .",
+      "url": "https://embratur.com.br/2026/06/18/brasil-tem-melhor-maio-da-historia-com-quase-meio-milhao-de-turistas-internacionais/",
+      "imagem": null,
+      "fonte": "Embratur",
+      "fonte_url": "https://embratur.com.br",
+      "tags": [
+        "Big Numbers",
+        "Atrativos Internacionais"
+      ],
+      "categoria": "Big Numbers",
+      "data": "2026-06-18T22:03:18Z",
+      "_score": 3,
+      "data_coleta": "2026-06-25T17:20:33Z"
     },
     {
       "id": "0c2a104ac31a",
@@ -4518,6 +5563,6 @@
       "data_coleta": "2026-06-16T21:13:51Z"
     }
   ],
-  "ultima_atualizacao": "2026-06-19T11:33:02Z",
-  "total": 287
+  "ultima_atualizacao": "2026-06-25T17:20:41Z",
+  "total": 352
 }
